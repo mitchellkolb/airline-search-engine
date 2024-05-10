@@ -1,0 +1,39 @@
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///airlines.csv' AS row
+CREATE (:Airline {airlineID: row.`airline ID`, name: row.name, country: row.country, active: row.active})
+CREATE (:IATA {code: row.iata})
+CREATE (:ICAO {code: row.icao})
+CREATE (a:Airline {airlineID: row.`airline ID`})-[:HAS_IATA]->(i:IATA {code: row.iata})
+CREATE (a)-[:HAS_ICAO]->(i:ICAO {code: row.icao});
+
+LOAD CSV WITH HEADERS FROM 'file:///airports.csv' AS row
+CREATE (:Airport {airportID: row.`airport ID`, name: row.name, city: row.city, country: row.country})
+CREATE (:IATA {code: row.iata})
+CREATE (:ICAO {code: row.icao})
+CREATE (:Location {latitude: toFloat(row.latitude), longitude: toFloat(row.longitude), altitude: toInteger(row.altitude), timezone: row.timezone, dst: row.dst, type: row.type})
+CREATE (a:Airport {airportID: row.`airport ID`})-[:HAS_IATA]->(i:IATA {code: row.iata})
+CREATE (a)-[:HAS_ICAO]->(i:ICAO {code: row.icao})
+CREATE (a)-[:HAS_LOCATION]->(l:Location {latitude: toFloat(row.latitude), longitude: toFloat(row.longitude), altitude: toInteger(row.altitude), timezone: row.timezone, dst: row.dst, type: row.type});
+
+LOAD CSV WITH HEADERS FROM 'file:///routes.csv' AS row
+CREATE (:Route {airline: row.airline, codeshare: row.codeshare, stops: toInteger(row.stops), equipment: row.equipment})
+CREATE (r:Route {airline: row.airline})-[:OPERATES]->(a:Airline {airlineID: row.airline})
+CREATE (r)-[:DEPARTS_FROM]->(s:Airport {airportID: row.`source airport`})
+CREATE (r)-[:ARRIVES_AT]->(d:Airport {airportID: row.`destination airport`});
+
+LOAD CSV WITH HEADERS FROM 'file:///countries.csv' AS row
+CREATE (:Country {name: row.name, iso_code: row.iso_code});
+
+LOAD CSV WITH HEADERS FROM 'file:///planes.csv' AS row
+CREATE (:Plane {name: row.name})
+CREATE (:IATA {code: row.iata})
+CREATE (p:Plane {name: row.name})-[:HAS_IATA]->(i:IATA {code: row.iata});
+
+MATCH (s:Airport), (d:Airport)
+WHERE s <> d
+CREATE (s)-[:DISTANCE {distance: 1}]->(d);
+
+

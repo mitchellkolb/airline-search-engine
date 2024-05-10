@@ -1,0 +1,15 @@
+
+
+MATCH (a:Airport)
+RETURN a.country AS Country, count(a) AS NumberOfAirports
+ORDER BY NumberOfAirports DESC
+LIMIT 1
+
+
+
+
+MATCH (flight:Route)-[:DEPARTS_FROM]->(sourceAirport:Airport), (flight)-[:ARRIVES_AT]->(destinationAirport:Airport)
+WITH sourceAirport.city AS city, COUNT(flight) AS numberOfRoutes
+RETURN city, numberOfRoutes
+ORDER BY numberOfRoutes DESC
+LIMIT 5

@@ -1,0 +1,69 @@
+{
+  "start": {
+    "identity": 20000,
+    "labels": [
+      "Airline"
+    ],
+    "properties": {
+      "destination airport": "Yvr",
+      "codeshare": "-1",
+      "equipment": "E90 320",
+      "stops": 0,
+      "airline": "Ac",
+      "source airport": "Ywg"
+    },
+    "elementId": "20000"
+  },
+  "end": {
+    "identity": 25000,
+    "labels": [
+      "Airport"
+    ],
+    "properties": {
+      "source airport": "Ywg"
+    },
+    "elementId": "25000"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 20000,
+        "labels": [
+          "Airline"
+        ],
+        "properties": {
+          "destination airport": "Yvr",
+          "codeshare": "-1",
+          "equipment": "E90 320",
+          "stops": 0,
+          "airline": "Ac",
+          "source airport": "Ywg"
+        },
+        "elementId": "20000"
+      },
+      "relationship": {
+        "identity": 0,
+        "start": 20000,
+        "end": 25000,
+        "type": "OPERATES_AT",
+        "properties": {
+
+        },
+        "elementId": "0",
+        "startNodeElementId": "20000",
+        "endNodeElementId": "25000"
+      },
+      "end": {
+        "identity": 25000,
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "source airport": "Ywg"
+        },
+        "elementId": "25000"
+      }
+    }
+  ],
+  "length": 1.0
+}

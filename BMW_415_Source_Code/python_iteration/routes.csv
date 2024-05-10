@@ -1,0 +1,5001 @@
+airline,source airport,destination airport,codeshare,stops,equipment
+Ac,Ywg,Yvr,-1,0,E90 320
+W6,Sof,Bcn,-1,0,320
+Et,Kgl,Add,-1,0,73W 738
+Lh,Mla,Dus,Y,0,319 320
+Hv,Ein,Mad,-1,0,73W
+Ke,Icn,Pnh,-1,0,73H 73J
+Y4,Cuu,Mex,-1,0,319
+Ab,Gwt,Zrh,-1,0,73G Dh4
+Sa,Grj,Cpt,Y,0,Cr2 Er3 Ar8
+4O,Mex,Cul,-1,0,320
+G4,Far,Sfb,-1,0,320
+Ua,Ord,Sjo,-1,0,738
+U6,Nma,Goj,-1,0,320
+4O,Pqm,Mex,-1,0,Su9
+Sv,Ruh,Ist,-1,0,320
+Qr,Bey,Doh,-1,0,320 321
+Nk,Dfw,Bwi,-1,0,320
+Td,Prg,Evn,-1,0,319
+Aa,Phx,Cun,-1,0,757 320 321
+Ab,Zrh,Bds,-1,0,320
+Cx,Bkk,Sin,-1,0,772
+Fr,Ork,Fao,-1,0,738
+Lh,Fra,Man,-1,0,319 321 32A 320 733
+Vy,Bcn,Nue,-1,0,320
+Jd,Hak,Csx,-1,0,320
+Fr,Psr,Crl,-1,0,738
+Mu,Tsn,Cif,-1,0,320
+8R,Sfn,Aep,-1,0,Sf3
+Vn,Han,Bmv,-1,0,321
+Km,Mla,Zrh,-1,0,319
+Sa,Sin,Jnb,Y,0,772
+Aa,Dfw,Tys,Y,0,Erd Er4 Crj
+F9,Lbl,Den,Y,0,Be1
+Aa,Sju,Vqs,-1,0,Dht
+Ah,Bod,Alg,-1,0,736
+Af,Fco,Sxb,Y,0,Er4 Cr7
+A3,Rho,Her,-1,0,320
+Fr,Blq,Bds,-1,0,738
+Us,Clt,Ilm,-1,0,319 Crj Cr7
+3U,Tna,Ckg,-1,0,321
+Wn,Oak,Den,-1,0,73W
+B6,Jfk,San,-1,0,320
+G4,Sfb,Sgf,-1,0,M80
+Ws,Yvr,Lih,-1,0,73H
+G9,Shj,Hof,-1,0,320
+Be,Edi,Man,-1,0,Dh4 E75
+Ac,Yyz,Cmh,Y,0,Dh1
+7H,Ome,Kts,Y,0,Pag
+Ua,Pdx,Den,-1,0,739 738 752 320 73G
+Ua,Duj,Cle,Y,0,Be1
+Ac,Yul,Yyg,Y,0,Dh4
+Ua,Fat,Las,Y,0,Em2
+Ga,Cgk,Sub,-1,0,738 332
+Qr,Los,Doh,-1,0,333 332
+Zh,Ctu,Wuh,-1,0,320
+Eg,Kqt,Dmb,-1,0,320
+Fi,Trd,Kef,-1,0,75W
+Wf,Vds,Tos,-1,0,Dh1 Dh2
+La,Apo,Eoh,Y,0,Dh2
+Wn,Msy,Bwi,-1,0,73W
+Kl,Grb,Atl,Y,0,Cr9 Cr7
+Sy,Dca,Lan,-1,0,73G
+Mu,Het,Cif,-1,0,320
+Ca,Dlc,Hij,-1,0,738
+Nk,Lax,Dtw,-1,0,320
+Vr,Cdg,Vxe,-1,0,752
+Ca,Kwe,Szx,-1,0,321
+To,Cta,Lgw,-1,0,75W
+Ua,Slc,Ord,Y,0,E70 Cr7
+S2,Del,Rpr,Y,0,73W
+Aa,Fll,Dfw,-1,0,738
+Kk,Ist,Ecn,-1,0,320
+Cx,Hkg,Can,-1,0,333 321 320
+Ab,Gdn,Txl,-1,0,Dh4
+Cz,Syx,Yty,-1,0,320
+Y4,Mex,Mco,-1,0,319 320
+Ig,Nap,Kbp,-1,0,737
+Os,Vie,Cdg,Y,0,321 320 318
+As,Isp,Bos,-1,0,Sf3
+Cg,Pom,Tfi,-1,0,Dh8
+Tl,Kta,Phe,-1,0,E70
+Us,Dfw,Msy,Y,0,M83 M80
+Qr,Iah,Doh,-1,0,77L
+Av,Ctg,Mia,-1,0,318 320
+Nt,Lpa,Rak,Y,0,Cr9
+Vy,Pmi,Agp,-1,0,320
+Vn,Sgn,Hph,-1,0,321
+Dn,Coo,Lbv,-1,0,320
+Aa,Xna,Clt,Y,0,Cr7 Crj
+Hf,Acc,Coo,-1,0,E70 319
+Et,Fra,Mrs,Y,0,320 32A 319
+Mh,Sdk,Kul,-1,0,738
+Aa,Lhr,Sfo,Y,0,744
+Kl,Nbo,Hre,Y,0,767
+Ls,Ema,Fnc,-1,0,733
+Hz,Khv,Hrb,-1,0,319 737
+Qf,Nkg,Pek,-1,0,332
+Av,Bog,Ewr,-1,0,73G
+Il,Pnk,Ktg,-1,0,At7
+Ns,Sjw,Hgh,-1,0,E90 73G
+Lh,Yvr,Muc,-1,0,333
+Us,Clt,Smf,-1,0,321
+Ac,Yyz,Yvr,-1,0,321 320 77W 763 77L 319 333
+X3,Muc,Bvc,-1,0,73H
+Sv,Bhh,Ruh,-1,0,320 321
+Bc,Koj,Ukb,-1,0,737
+Aa,Clt,Rdu,-1,0,320 737 319 321 E90
+3U,Ckg,Hak,-1,0,319
+Nf,Swj,Vli,-1,0,Dht
+Bm,Muc,Brs,-1,0,Er4
+Kl,Bjm,Kgl,Y,0,Emj E70
+Ib,Bcn,Jfk,Y,0,763
+Tm,Apl,Jnb,-1,0,Er4
+Jl,Pvg,Koj,Y,0,319
+Af,Atl,Day,Y,0,M88
+Pr,Hnl,Mnl,-1,0,343
+Gf,Bah,Del,-1,0,321
+Gl,Umd,Ike,-1,0,Bh2
+Wn,Ind,Bwi,-1,0,733 73C 73W
+O6,Bsb,Cnf,-1,0,100
+Us,Gso,Clt,-1,0,Crj
+Vy,Ory,Bcn,-1,0,320 319
+Cz,Xmn,Wuh,-1,0,73G 738
+Hy,Ugc,Dme,-1,0,763 320
+Lh,Rix,Fra,-1,0,321 320
+Gs,Xiy,Dsn,-1,0,E90 Erj
+Us,Elh,Mia,-1,0,Er4
+Ca,Can,Ist,-1,0,330 343
+Xy,Lxr,Jed,-1,0,320
+Ib,Bes,Bcn,Y,0,320
+Ua,Sfo,Yyc,Y,0,Cr7
+Vy,Pmi,Dme,-1,0,320
+Lg,Fra,Lux,-1,0,Er4 Dh4
+Sk,Iad,Cph,-1,0,343
+K3,Ktn,Kcc,-1,0,Dhp
+Av,Bog,Puj,-1,0,320 319
+To,Pmi,Lgw,-1,0,73H 75W
+Aa,Roc,Phl,-1,0,Dh3
+S7,Ikt,Ovb,-1,0,320 738
+Ei,Dub,Abz,Y,0,At7
+Ca,Ynt,Icn,-1,0,321
+Ux,Bio,Ibz,-1,0,738
+Ay,Cdg,Hel,-1,0,321 320 32B 319
+Jd,Ctu,Syx,-1,0,320
+Hg,Vie,Chq,-1,0,320
+Nh,Fuk,Tsj,Y,0,735 Dh8
+La,Scl,Mvd,-1,0,320 763
+Zh,Syx,Wnz,-1,0,320
+Ib,Man,Lhr,Y,0,319 320 321
+Ab,Dus,Hel,Y,0,E90
+Cz,Xiy,Urc,-1,0,738 320 E90 73G 752
+3U,Nkg,Ckg,-1,0,319
+Tp,Lis,Tls,Y,0,100 Er4
+Ib,Bcn,Rns,Y,0,320
+Wn,Sat,Lax,-1,0,73H 73W
+Tom,Ncl,Pmi,-1,0,73H
+Fr,Cag,Bri,-1,0,738
+Wn,Stl,Lga,-1,0,73W
+Ua,Isn,Den,Y,0,Erj
+Ai,Bom,Muc,Y,0,333
+Ls,Man,Psa,-1,0,733
+A4,Tdd,Cbb,-1,0,Swm
+Gs,Tsn,Ynt,-1,0,Erj E90
+Sa,Jnb,Jfk,-1,0,346
+Pc,Saw,Ala,-1,0,738
+Ua,Uvf,Ewr,-1,0,739
+Et,Dir,Jib,-1,0,73W Dh8
+Um,Hre,Jnb,-1,0,762
+Hu,Kmg,Pek,-1,0,738
+Cm,Gdl,Pty,-1,0,E90
+Ak,Bki,Pen,-1,0,320
+Ib,Agp,Vlc,Y,0,At7
+Fr,Ldy,Lpl,-1,0,738
+7R,Csy,Dme,-1,0,Cr2
+Ws,Ywg,Yul,-1,0,73W
+8L,Ljg,Cgo,-1,0,319 321
+4W,Cik,Fyu,-1,0,Pa2
+Mf,Xmn,Khn,-1,0,737
+Lo,Ist,Waw,-1,0,734 E95
+Bk,Dlc,Tsn,-1,0,738
+Bi,Bwn,Kul,-1,0,319 320
+Ke,Icn,Sgn,-1,0,73H 321 333 744
+Zi,Orn,Cdg,-1,0,319
+Aa,Mel,Lax,Y,0,380
+Mu,Pek,Lhw,-1,0,321 320
+F9,Den,Aia,Y,0,Be1
+Ca,Jdz,Ctu,Y,0,738
+Ab,Mxp,Dus,-1,0,73G 738 320
+8E,Ome,Eli,-1,0,Pa2
+Ca,Wnz,Kmg,-1,0,738
+Qg,Sub,Dps,-1,0,320
+Fr,Ryg,Wmi,-1,0,738
+Ah,Alg,Tgr,-1,0,Atr
+Sq,Jnb,Sin,-1,0,772
+Dl,Dtw,Pek,-1,0,777
+Sz,Ikt,Dyu,-1,0,737
+4U,Dus,Mpl,-1,0,Crj
+7R,Voz,Krr,-1,0,Cr2
+Qf,Nan,Syd,-1,0,73H
+7P,Ghe,Pac,-1,0,Bni
+8V,Fyu,Vee,-1,0,Cnc
+Tv,Sha,Ctu,-1,0,319
+Or,Hog,Cun,-1,0,763
+Cz,Cgq,Nrt,-1,0,321
+3F,Mtm,Ktn,-1,0,Dhp
+Ay,Mia,Mad,-1,0,333 763 346
+La,Mex,Lim,-1,0,763
+Ge,Xmn,Khh,-1,0,320
+Ka,Hkg,Tsn,-1,0,738
+Ua,Lax,Pvg,-1,0,788
+Q6,Bql,Isa,-1,0,Dh1
+Mu,Urc,Khg,-1,0,E90 73G 320
+V0,Geo,Pzo,-1,0,E90
+Nz,Cns,Akl,-1,0,320
+Wt,Zsj,Ypm,-1,0,Pl2
+Wn,Slc,Oak,-1,0,73W 73C 733
+G4,Las,Rfd,-1,0,M80
+Qu,Iev,Vko,-1,0,735
+Ib,Vlc,Svq,Y,0,Crk Cr2 Cr9 At7
+Aa,Abq,Dfw,-1,0,M83 M80
+G4,Pie,Mdt,-1,0,M80
+U2,Tls,Lil,-1,0,319
+Ku,Cai,Kwi,-1,0,777 340 320 Ab6
+Ef,Coq,Uln,-1,0,Dh4
+Cg,Pnp,Tfi,-1,0,Dh8
+Lj,Cnx,Icn,-1,0,738
+6E,Blr,Hyd,-1,0,320
+Dl,Bos,Nas,Y,0,E75
+Ro,Otp,Amm,-1,0,318
+Dl,Lax,Mia,-1,0,738
+5J,Cgy,Bcd,-1,0,Atr
+2P,Zam,Mnl,-1,0,320
+7G,Hnd,Fuk,-1,0,320
+Aa,Ord,Yyc,-1,0,737
+9C,Pvg,Syx,-1,0,320
+Sq,Pvg,Sin,-1,0,388 772 77W
+As,Ord,Anc,-1,0,73H
+P2,Jro,Wil,-1,0,Dht
+Ux,Mad,Mex,-1,0,777
+4O,Gdl,Mty,-1,0,320
+Us,Fco,Phl,-1,0,333
+Oz,Sin,Icn,-1,0,333
+Ar,Aep,Sfn,Y,0,E90
+Wn,Mdw,San,-1,0,738 73W 73H
+Pr,Lhr,Mnl,-1,0,773
+Ws,Yvr,Sjd,-1,0,73W
+Zh,Pek,Ljg,Y,0,320
+3U,Ctu,Mel,-1,0,330
+Us,Clt,Cle,-1,0,319
+Dl,Pit,Lga,-1,0,Cr7
+Mh,Sin,Kua,Y,0,At7
+Ab,Alc,Str,-1,0,320 738
+T7,Nce,Lig,-1,0,Beh
+U2,Spu,Bsl,-1,0,319
+Su,Mrs,Cdg,Y,0,319 321
+9M,Yqq,Yvr,-1,0,Beh
+Aa,Dca,Cae,Y,0,Crj
+Fr,Bre,Bgy,-1,0,738
+Af,Cdg,Lux,Y,0,Er4 Dh4
+Wn,Mke,Rsw,-1,0,73W
+G4,Gsp,Sfb,-1,0,320
+Sw,Wdh,Hre,-1,0,Er3
+Vn,Sgn,Pxu,-1,0,At7
+Cz,Wuh,Ynz,-1,0,73G 738
+Tk,Uln,Fru,-1,0,738
+Vy,Bio,Mxp,-1,0,320
+Hg,Grz,Ayt,-1,0,321
+U2,Cdg,Lpl,-1,0,319 320
+9C,Jiq,Kmg,-1,0,320
+Ad,Vix,Ssa,-1,0,At7 E95 E90
+Wn,Stl,Mci,-1,0,73W 73C
+Dl,Ags,Atl,-1,0,M88 717
+U2,Prg,Cdg,-1,0,319
+Cz,Ngb,Pek,-1,0,320 321
+Cz,Tna,Urc,-1,0,320
+Fr,Vno,Lpl,-1,0,738
+Oj,Geo,Yyz,-1,0,752
+F9,Den,Phf,-1,0,319
+Ca,Icn,Hgh,-1,0,321
+Ac,Yyz,Waw,-1,0,788
+Ro,Sbz,Muc,-1,0,73W
+Af,Atl,Gdl,Y,0,320
+Af,Sou,Egc,Y,0,Dh4
+Bl,Han,Dad,-1,0,320
+Sc,Foc,Hak,-1,0,Cr2
+S7,Dme,Boj,-1,0,763 320
+G5,Dlc,Fug,-1,0,Cr9
+7I,Vln,Aua,-1,0,M83
+Jj,Fln,Gru,-1,0,320
+8E,Wtk,Kvl,-1,0,Cnc
+Jl,Izo,Hnd,-1,0,767 73H
+Us,Nrt,Dfw,-1,0,777
+Su,Muc,Led,-1,0,319
+Hv,Blq,Ein,-1,0,73W
+Cz,Cju,Cgo,-1,0,738
+Jv,Yag,Yqt,-1,0,Swm
+Aa,Phl,Sju,-1,0,767 757 320
+Ho,Pvg,Hkt,-1,0,320
+Ok,Prg,Vlc,-1,0,738
+Ms,Ist,Kbp,-1,0,321
+3M,Mhh,Fll,-1,0,Sf3
+Aa,Orf,Dca,-1,0,Dh3
+Am,Dfw,Mex,Y,0,Emj
+Us,Sat,Phx,Y,0,Cr9
+Hu,Szx,Kmg,-1,0,738
+Dl,Ams,Msp,-1,0,333 332 76W
+Cz,Hak,Nng,-1,0,738
+Wn,Pdx,Abq,-1,0,733 73C
+S7,Ikt,Bkk,-1,0,320
+8E,Otz,Pho,-1,0,Cnc
+Zh,Cgo,Ckg,-1,0,738
+Qr,Doh,Mnl,-1,0,77W 333
+Wn,Bna,Fll,-1,0,73C 73W 73H
+Fr,Stn,Aar,-1,0,738
+Aa,Phx,Yum,Y,0,Crj
+Kr,Svx,Fru,-1,0,320
+Dy,Agp,Muc,-1,0,73H
+Az,Fco,Mpl,Y,0,E75 E90
+Dl,Atl,Cdg,-1,0,76W
+Ws,Yyz,Yul,-1,0,73W 736
+Ps,Ods,Tlv,-1,0,738
+Fl,Mco,Ind,-1,0,717
+Af,Cdg,Ndj,-1,0,332
+9C,Sha,Jjn,-1,0,320
+Fr,Bzr,Man,-1,0,738
+Dh,Coo,Bko,-1,0,At7
+V0,Gnd,Pos,-1,0,E90
+Ua,Sfo,Icn,-1,0,744
+Fr,Skg,Ryg,-1,0,738
+Fl,Aus,Elp,Y,0,73W
+Sk,Cph,Mad,-1,0,320 321
+3L,Ham,Fdh,-1,0,At7
+Aa,Ord,Mem,Y,0,Cr7 Er4 Erd
+Wn,Cmh,Fll,-1,0,73W
+A5,Rns,Nce,-1,0,Crk Cr7
+Ba,Lgw,Lca,-1,0,320
+De,Haj,Ace,-1,0,32S
+Cz,She,Icn,-1,0,321 320
+U2,Lpl,Mad,-1,0,320 319
+Nh,Nrt,Ctu,-1,0,763
+Us,Clt,Phl,-1,0,762 E90 319 320 332 752 321 734
+Zh,Kow,Pek,Y,0,737
+Od,Lgk,Szb,-1,0,At7
+X3,Cgn,Lpa,-1,0,73H
+Ua,Lax,Tus,Y,0,Crj Cr7
+Ca,Szx,Wux,-1,0,738
+Kk,Ist,Ika,-1,0,320
+Kn,Zha,Nay,-1,0,737
+Mu,Zha,Pvg,Y,0,737
+R3,Ner,Yks,-1,0,A40
+Ak,Trz,Kul,-1,0,320
+Y4,Tij,Mzt,-1,0,320
+Fr,Ema,Ibz,-1,0,738
+Px,Mdu,Pom,-1,0,Dh8
+Tk,Ist,Gru,-1,0,343
+Jd,Hgh,Dnh,-1,0,320
+Mu,Pvg,Sfo,-1,0,332
+Ib,Kbp,Mad,Y,0,737
+Ah,Ogx,Iam,-1,0,Atr
+Cz,Xnn,Cgo,Y,0,737
+Nh,Kij,Cts,Y,0,Dh8 737
+B6,Mco,Lga,-1,0,320
+As,Sea,Jfk,Y,0,738
+Ws,Msp,Yul,Y,0,Cr9
+Ke,Fuk,Icn,-1,0,333 739 77W 73J
+Qr,Hgh,Doh,-1,0,332 333
+3F,Hyl,Ktn,-1,0,Dhp
+Wn,Mdw,Pit,-1,0,73W 73H
+Sv,Isb,Dmm,-1,0,74E
+Ac,Yyz,Iah,Y,0,Cra
+Kr,Fru,Ikt,-1,0,320
+F9,Den,Aus,-1,0,319
+Fr,Trs,Bva,-1,0,738
+Ac,Yyr,Ydf,Y,0,Beh
+Ca,Pek,Hfe,-1,0,738 321
+Ug,Gae,Toe,-1,0,At7
+Us,Sjd,Lax,-1,0,M83 738
+Ad,Vcp,Ldb,-1,0,E95 At7 E90
+Zb,Lgw,Alc,-1,0,321 752
+Px,Pom,Sin,-1,0,763 738
+T5,Dxb,Asb,-1,0,733
+Am,Sea,Atl,Y,0,739 76W 757
+Cz,Swa,Wuh,-1,0,738
+Ab,Tfs,Ham,-1,0,320
+Us,Fll,Ord,-1,0,738
+Ua,Den,Slc,Y,0,Cr7 Erj Dh4 Crj E70
+Hg,Vie,Agp,-1,0,321 320
+W2,Tlv,Vin,-1,0,320
+Ad,Vcp,Mao,-1,0,E95
+Tf,Cph,Bru,Y,0,Ar1
+Vs,Atl,Stl,Y,0,717 M90 757 M88
+Ua,Mad,Ewr,-1,0,752
+Mu,Wuh,Sha,-1,0,738 321 733 320
+2L,Zrh,Brs,-1,0,100
+To,Mah,Ema,-1,0,73H
+Mu,Syd,Akl,Y,0,73H
+Fr,Pfo,Gpa,-1,0,738
+Hv,Nce,Ams,-1,0,73H 73W
+Ty,Lif,Gea,-1,0,Atr
+Fr,Efl,Stn,-1,0,738
+Mu,Hkt,Pvg,Y,0,757 738
+Ls,Lba,Cdg,-1,0,733
+Vs,Lgw,Las,-1,0,744
+To,Tfs,Boh,-1,0,73H
+Cz,Nng,Cgo,-1,0,738
+Dl,Bos,Cun,-1,0,757
+W6,Ein,Clj,-1,0,320
+Fr,Opo,Fao,-1,0,738
+Ws,Yow,Yyt,-1,0,73W
+Ps,Dnk,Tlv,-1,0,734 73G
+Us,Jfk,Pek,Y,0,773
+Cz,Hgh,Can,-1,0,320 738 321 E90 772 319
+Cz,Dlc,Toy,-1,0,319
+Fm,Sha,Yih,-1,0,737
+B6,Bos,Rsw,-1,0,320
+G8,Amd,Bom,-1,0,320
+Ua,Ewr,Rdu,Y,0,Erj Dh4 E70
+Aa,Clt,Tpa,-1,0,320 321 319 737
+Dy,Alc,Ryg,-1,0,73H
+Ul,Cmb,Cgk,Y,0,321 320
+Ws,Msy,Lga,Y,0,319 Cr9
+F9,Lir,Den,-1,0,319
+Tp,Lis,Vcp,-1,0,332
+Cx,Hkg,Sgn,-1,0,321 77W 333 343
+Cz,Lxa,Xiy,-1,0,319
+Wn,Dal,Tul,-1,0,73W 735
+Hy,Tas,Del,-1,0,763 764
+Wt,Yno,Yrl,-1,0,Beh
+Lh,Fra,Kbp,-1,0,32A 319 320
+Mu,Xiy,Dnh,-1,0,320
+W3,Gmo,Abv,-1,0,Cr9 Dh4
+Sq,Sin,Bne,-1,0,333
+Fl,Elp,Lax,Y,0,73W
+Ci,Mnl,Tpe,-1,0,333 738 343
+Fr,Lba,Tsf,-1,0,738
+Sq,Sin,Can,-1,0,333
+Sc,Xmn,Kmg,-1,0,738
+Cz,Cgq,Pvg,-1,0,319 321 320
+Us,Mia,Phx,-1,0,738
+U2,Bsl,Fue,-1,0,320
+Su,Pkc,Khv,-1,0,737 319
+Fr,Pmi,Dtm,-1,0,738
+Ib,Mrs,Mad,Y,0,Crk
+Hz,Uus,Bvv,-1,0,Dh8
+Wy,Mct,Lko,-1,0,738
+Hy,Vog,Tas,-1,0,320
+Mu,Lya,Pek,-1,0,320
+To,Ltn,Dlm,-1,0,75W 73H
+Ga,Cgk,Bdj,-1,0,738
+Cz,Ams,Ctu,Y,0,74M
+Aa,Cae,Phl,Y,0,Crj
+Dl,Atl,Ind,-1,0,M88 320 M90  319
+Vy,Led,Bcn,-1,0,320
+Fm,Txn,Sha,-1,0,737
+Hv,Sid,Ams,-1,0,73H
+Ci,Cgk,Hkg,-1,0,333
+Ad,Gru,Poa,-1,0,E95 E90
+2N,Oer,Arn,-1,0,Atr
+Mu,Mdl,Kmg,-1,0,738
+Kl,Ric,Atl,Y,0,M88 73H
+De,Mba,Znz,-1,0,767
+Mu,Xiy,Can,-1,0,320
+Dl,Cvg,Atl,-1,0,738 M88 320  319
+3E,Stl,Dec,-1,0,Cnc
+Be,Sou,Nce,-1,0,E95
+Y4,Tij,Clq,-1,0,320
+Sa,Wvb,Cpt,Y,0,Cr2
+9C,Sha,Zuh,-1,0,320
+5J,Mnl,Nrt,-1,0,320
+Zh,Can,Ybp,Y,0,737
+Ai,Bdq,Del,-1,0,320
+Jt,Cgk,Soc,-1,0,739
+Bl,Sgn,Pqc,-1,0,320
+Et,Fra,Got,Y,0,32A 321
+Tf,Bma,Klr,Y,0,S20
+Fz,Njf,Dxb,-1,0,73H
+Lx,Vie,Zrh,-1,0,320 32A 319 321 Ar1
+Fr,Bll,Bud,-1,0,738
+Us,Dfw,Spi,-1,0,Erd Er4
+Od,Cgp,Kul,-1,0,739
+Jd,Enh,Wuh,-1,0,319
+Wj,Yif,Yhr,-1,0,Be1
+Ke,Cnx,Icn,-1,0,772
+Md,Tnr,Jnb,-1,0,733
+Hf,Abj,Dkr,-1,0,319
+U2,Sxf,Szg,-1,0,319
+Fr,Man,Agp,-1,0,738
+Hq,Bru,Fnc,-1,0,319 320
+Mu,Kmg,Wuh,-1,0,733 738
+Aa,Lhr,Agp,Y,0,320
+Fr,Ace,Crl,-1,0,738
+4U,Dus,Drs,-1,0,319 Crj
+Aa,Lex,Dfw,Y,0,Erd Er4
+Un,Dme,Ovb,-1,0,735 734 763
+Ab,Alc,Muc,-1,0,320 738
+Mo,Yth,Yfo,-1,0,Frj
+V7,Muc,Bod,-1,0,717
+Jt,Dps,Bmu,Y,0,Atr
+Nk,Mco,Ord,-1,0,320
+Cz,Can,Kix,-1,0,321
+Ae,Oka,Rmq,-1,0,E90
+Us,Clt,Ric,-1,0,319
+Wn,Aus,Hou,-1,0,73W 735 73C
+Oa,Skg,Her,-1,0,320
+Ws,Las,Yyj,-1,0,73H
+Su,Otp,Svo,-1,0,737 Su9
+Bm,Ncl,Bru,-1,0,Er4
+Pk,Man,Lhe,-1,0,777
+Y7,Kja,Krr,-1,0,738
+Gq,Mjt,Rho,-1,0,J41
+Ga,Lop,Bmu,-1,0,At7
+Gs,Inc,Lhw,-1,0,Erj
+Md,Sin,Bkk,Y,0,777
+Wn,Sjc,Las,-1,0,73W 733 73C 73H
+Lo,Fra,Krk,Y,0,735 733 321 32A 319
+Sc,Rmq,Tao,-1,0,738
+Cz,Xiy,Xnn,-1,0,320
+Sv,Ruh,Jfk,-1,0,777
+Fr,Bgy,Rak,-1,0,738
+Vt,Uap,Auq,-1,0,Dht
+Ca,Pzi,Ctu,-1,0,319
+Hu,Dus,Txl,-1,0,738 320 73G
+Ul,Dme,Cmb,-1,0,332
+De,Fue,Pad,-1,0,32S
+Eu,Ctu,Szx,-1,0,319
+4O,Rex,Mex,-1,0,Su9
+A3,Ksj,Jsh,-1,0,Dh8
+Dl,Bdl,Mco,Y,0,Cr9
+Fl,Bwi,Mbj,-1,0,73G
+Ib,Mad,Grx,Y,0,Crk Cr9 Cr2
+Bj,Cdg,Mir,-1,0,320
+Wn,Den,Tul,-1,0,735 73W
+Az,Atl,Gpt,Y,0,Crj Cr7
+Tom,Man,Hrg,-1,0,75W
+Ba,Agp,Lcy,Y,0,E90
+M6,Atm,Bel,-1,0,Em2
+9W,Ccu,Dac,-1,0,738
+Un,Dme,Lgw,-1,0,320
+Dl,Mty,Dtw,-1,0,319
+Vt,Mvt,Ppt,-1,0,Atr
+Wx,Jer,Cwl,-1,0,F50
+Jt,Tmc,Dps,Y,0,Atr
+Cy,Lca,Tlv,-1,0,320
+Nt,Ace,Tfn,-1,0,At7
+Qf,Pom,Syd,Y,0,738
+Sk,Svg,Ncl,Y,0,Dh4
+Sy,Msp,Rsw,-1,0,738 73G
+Ms,Cai,Atz,-1,0,E70
+Cz,Dlc,Wuh,-1,0,321
+Vt,Mkp,Ppt,-1,0,Atr
+Sv,Sah,Jed,-1,0,320
+Mu,Pvg,Oka,-1,0,320
+Fl,Lbb,Hrl,Y,0,735
+Ac,Yyz,Fra,-1,0,77W
+Ue,Krt,Jub,-1,0,733
+Sa,Jnb,Msu,Y,0,Er3
+Ah,Lys,Czl,-1,0,738
+Ua,Ewr,Fco,-1,0,764
+Ca,Pek,Mad,-1,0,330
+Kl,Aku,Urc,Y,0,737
+Hv,Vrn,Ams,-1,0,73H
+Fl,Lax,Mke,Y,0,73W
+Av,Vvi,Lim,-1,0,319
+Fr,Bcn,Fue,-1,0,738
+Mh,Szb,Aor,Y,0,At7
+Ua,Ewr,Lis,-1,0,752
+At,Rak,Lys,-1,0,738
+Sq,Sin,Kix,-1,0,333
+Kl,Hgh,Ctu,Y,0,320
+Aa,Clt,Orf,-1,0,319
+Aa,Lax,Ind,-1,0,738
+P0,Lun,Mfu,-1,0,J41
+Os,Dus,Vie,Y,0,320 319 321 100 Cr9
+Cz,Pek,Xnn,-1,0,320
+Ac,Yhz,Ysj,-1,0,Beh
+9W,Jai,Del,-1,0,73H
+Az,Ciy,Lin,-1,0,E90
+Cz,Urc,Tse,-1,0,73G
+Vy,Bcn,Grx,-1,0,320
+Y7,Aer,Kja,-1,0,738
+Md,Can,Bkk,-1,0,343
+Dl,Sat,Mty,Y,0,Er4
+Gk,Cts,Kix,-1,0,320
+Kl,Mem,Atl,Y,0,M88 320
+8T,Yfs,Yzf,-1,0,Dht
+Am,Hmo,Cjs,Y,0,Erj
+Ak,Pen,Bki,-1,0,320
+Fl,Ind,Las,Y,0,73W
+Vy,Fez,Bcn,-1,0,320
+Jt,Bdo,Jog,Y,0,Atr
+Un,Dme,Kgf,-1,0,735
+Vs,Pns,Atl,Y,0,M90
+Ca,Xiy,Urc,-1,0,738 320
+Ey,Yyz,Bru,-1,0,330
+Us,Ord,Dsm,-1,0,Erd Er4
+Lh,Muc,Hkg,-1,0,346
+Ku,Dxb,Kwi,-1,0,320 310 Ab6
+Tp,Bsb,Lis,-1,0,332
+Ke,Ist,Icn,-1,0,772
+Af,Cdg,Man,-1,0,321 320
+Ai,Ccu,Ixb,-1,0,319 320
+Ca,Ckg,Szx,-1,0,738 737
+Jl,Kix,Cju,Y,0,739
+Af,Cdg,Sin,-1,0,77W
+Mh,Drw,Kul,-1,0,738
+Tk,Ksy,Ist,-1,0,319 738
+Cz,Can,Fuk,-1,0,319
+Us,Oma,Ord,-1,0,Cr7
+Sa,Syd,Jnb,Y,0,744
+Aa,Oak,Phx,-1,0,319 Cr9
+Rj,Amm,Ath,-1,0,E75 E95
+Nh,Kix,Hnd,-1,0,320 772 737 767
+Az,Trn,Fco,-1,0,32S 319 320 E75
+Sw,Ers,Ond,-1,0,Er3
+Ms,Cai,Fra,-1,0,330 738
+Hy,Tas,Ist,-1,0,767
+Xl,Gye,Jfk,-1,0,763
+Az,Vce,Nrt,-1,0,772
+W6,Gdn,Dsa,-1,0,320
+Ws,Yyz,Lga,-1,0,736 73W
+Nz,Per,Bqb,Y,0,F50
+Aa,Lhr,Mia,-1,0,77W 777
+Su,Svo,Dok,-1,0,Su9 320 319
+Lh,Add,Fra,Y,0,788
+Fr,Sft,Stn,-1,0,738
+Jj,Cnf,Ssa,-1,0,320
+6E,Hyd,Dxb,-1,0,320
+Tg,Nrt,Bkk,-1,0,330 380
+Fr,Gro,Crl,-1,0,738
+Fl,Isp,Fll,Y,0,73W
+Ek,Dxb,Cgk,-1,0,77W
+Qn,Evn,Aer,-1,0,735
+Pk,Isb,Skz,-1,0,Atr
+Wn,Tpa,Hou,-1,0,738 73W 73H 73C
+La,Lim,Lpb,Y,0,319
+6L,Yev,Zfm,-1,0,Dht
+Ga,Cgk,Tkg,-1,0,738
+Z8,Lpb,Uyu,-1,0,Crj
+Wy,Mct,Zrh,-1,0,332
+Mh,Per,Kul,-1,0,333
+8E,Otz,Ome,-1,0,Pa2
+Va,Akl,Adl,Y,0,320
+Mu,Pek,Hia,-1,0,320
+Tcx,Bfs,Tfs,-1,0,321
+Jl,Cts,Ngo,Y,0,73H
+Tom,Ema,Nbe,-1,0,73H
+Su,Evn,Mrv,-1,0,319
+9Q,Gdt,Slx,-1,0,Cnt
+Nk,Dfw,Myr,-1,0,319
+Jt,Nbx,Amq,Y,0,Atr
+Dl,Msp,Dsm,Y,0,Crj Cr9
+B6,Aus,Fll,-1,0,E90
+Fl,Bwi,Day,Y,0,73W
+Qr,Rgn,Doh,-1,0,319
+At,Cph,Cmn,-1,0,738 73G
+Zh,Pek,Wux,-1,0,738
+Us,Lga,Cho,Y,0,Erd
+7H,Vdz,Anc,-1,0,Dh8 Be1
+Sg,Blr,Goi,-1,0,737
+Fr,Bgy,Vlc,-1,0,738
+Fj,Suv,Nan,Y,0,At5
+Ca,Hrb,Ctu,-1,0,321
+Ls,Ncl,Alc,-1,0,73C 733 752 75W
+Aa,Dfw,Lex,Y,0,Erd Er4
+Hu,Pek,Hak,-1,0,738
+Kc,Gyd,Ala,-1,0,E90
+Ca,Cgo,She,-1,0,320
+Sq,Kix,Sin,-1,0,333
+Us,Mia,Pns,-1,0,Er4
+Lo,Waw,Svo,-1,0,E95 E75
+Hv,Saw,Ams,-1,0,73H 73W
+U2,Mad,Edi,-1,0,319 320
+Sv,Dmm,Has,-1,0,E70
+Ad,Jtc,Vcp,-1,0,At7
+Qc,Abj,Los,-1,0,737
+J9,Hmb,Kwi,-1,0,320
+Tr,Sin,Per,-1,0,320
+Tom,Stn,Pmi,-1,0,73H
+Ja,Cph,Sjj,-1,0,At7
+Mu,Ktm,Kmg,-1,0,737
+Ah,Orn,Alc,-1,0,736 Atr
+At,Rak,Mxp,-1,0,738
+Ba,Lcy,Iom,Y,0,S20
+Ua,Btv,Ord,Y,0,Cr7 Erj Crj
+De,Hav,Fra,-1,0,767
+Ay,Bru,Lis,Y,0,321 320 319 100
+Ua,Den,Yyc,-1,0,738 320 739
+Qr,Doh,Ath,-1,0,333 321 332
+Nh,Nrt,Ist,Y,0,77W 332
+Am,Trc,Gdl,Y,0,Erj
+Hv,Pmi,Rtm,-1,0,73H
+Zl,Nra,Syd,-1,0,Sf3
+Aa,Phx,Sbp,Y,0,Cr9 Crj
+G8,Del,Ixj,-1,0,320
+Ls,Blk,Fao,-1,0,733
+Nh,Ctu,Nrt,-1,0,763
+Pr,Yyz,Yvr,-1,0,773
+9U,Kiv,Fco,-1,0,E90
+Am,Hmo,Gdl,Y,0,Erj
+Up,Nas,Cri,-1,0,Dh8
+Sk,Arn,Puy,-1,0,717
+Us,Dca,Mia,-1,0,738
+Ba,Lcy,Zrh,Y,0,E90 E70
+B6,Sti,Sju,-1,0,E90
+Fj,Hnl,Nan,-1,0,73H
+Su,Svo,Her,-1,0,321
+Ba,Agp,Lhr,-1,0,320
+Oz,Icn,Khh,-1,0,M90
+O6,Bsb,Cgr,-1,0,318
+Fr,Opo,Tuf,-1,0,738
+Km,Mla,Dus,-1,0,319 320
+B6,Bos,Puj,-1,0,320
+Bt,Fco,Rix,-1,0,73C
+Mf,Foc,Tsn,-1,0,738
+Mu,Tna,Sha,-1,0,321
+Fr,Ein,Mla,-1,0,738
+Ua,Sfo,Stl,-1,0,320 319
+Cc,Tgu,Gua,-1,0,L4T
+Tl,Elc,Mng,-1,0,Em2
+Kq,Nbo,Bzv,-1,0,738 73W
+Cz,Ynt,Ctu,-1,0,321
+Wf,Lkn,Ret,-1,0,Dh1 Dh2
+Dl,Cul,Mty,-1,0,Er4
+Lh,Aoi,Muc,Y,0,Cr9 E95
+Jq,Syd,Per,-1,0,321
+9W,Shj,Cok,-1,0,73H
+Wn,Bwi,Den,-1,0,73W
+Ib,Lhr,Bwi,Y,0,767
+Mu,Pek,Ljg,-1,0,737
+G4,Pie,Sgf,-1,0,320
+Am,Hmo,Mex,-1,0,737
+Ua,Stt,Sju,Y,0,Cna
+Fl,Las,Sna,-1,0,73G
+Cz,Syx,Foc,Y,0,737
+Ios,Ovb,Nzh,-1,0,Cr2
+Ps,Dok,Lca,-1,0,737
+Su,Cdg,Svo,-1,0,320 321
+Qr,Doh,Bah,-1,0,320 321 319 333
+Ke,Icn,Cgk,-1,0,77W 332
+Sk,Had,Vxo,Y,0,Sf3
+Sq,Syd,Sin,-1,0,773 388 772
+Fr,Edi,Bcn,-1,0,738
+Pc,Ayt,Saw,-1,0,738 320
+Ib,Lde,Mad,Y,0,Cr9
+Hu,Scn,Txl,Y,0,73G 320
+Jl,Yeg,Yzf,Y,0,73W
+9W,Hyd,Del,Y,0,738 73W
+Ib,Lpa,Vlc,Y,0,Crk
+Dl,Dtw,Ngo,-1,0,744
+Ep,Kih,Bnd,-1,0,At7
+Fr,Lbc,Psa,-1,0,738
+Dy,Lgw,Tfs,-1,0,73H
+Us,Fra,Clt,-1,0,333 332
+Mu,Nay,Sha,Y,0,737
+Dl,Pdx,Jfk,-1,0,73H 752 757
+9M,Yoj,Yeg,-1,0,Beh
+To,Ory,Oud,-1,0,73H
+Pw,Dar,Znz,-1,0,At7 At4
+Ca,Szx,Gys,-1,0,319
+Dl,Las,Dtw,-1,0,757 320 739 738
+Lg,Lux,Bcn,-1,0,Dh4
+7H,Ain,Atk,Y,0,Cnc
+Dy,Osl,Bud,-1,0,733
+De,Dus,Tfs,-1,0,757
+Ua,Muc,Iah,-1,0,764
+Aa,Lhr,Maa,Y,0,777
+Kr,Fru,Sgc,-1,0,320
+Om,Icn,Uln,-1,0,763
+Uj,Dok,Ist,-1,0,320
+Fd,Hkg,Dmk,-1,0,320
+Hq,Aga,Bru,-1,0,320
+Fr,Dub,Bzg,-1,0,738
+Av,Bog,Iah,-1,0,752 73G
+Fd,Szx,Dmk,-1,0,320
+Am,Gdl,Sfo,-1,0,738
+Ny,Ifj,Rkv,-1,0,Dh8
+Pk,Auh,Khi,-1,0,310 73H
+F9,Cvg,Den,-1,0,320 319
+Os,Ksc,Vie,Y,0,100 Dh4
+Wn,Rsw,Pvd,-1,0,73C
+Fr,Dub,Ryg,-1,0,738
+Af,Ory,Cfe,-1,0,Crk At7
+Us,Tpe,Lax,-1,0,77W
+Fl,Mdw,San,Y,0,73H 73W 738
+Ad,Cgr,Gru,-1,0,E95
+Ay,Ayt,Hel,-1,0,320
+Ib,Bcn,Fra,Y,0,320
+Vy,Pmi,Bio,-1,0,320
+Aa,Hsv,Ord,Y,0,Er4
+Su,Hel,Svo,-1,0,319
+Wb,Jro,Dar,-1,0,Crj
+S2,Del,Ded,Y,0,73H 738 At7
+Ey,Auh,Mel,-1,0,77W
+Fr,Aho,Mad,-1,0,738
+Ke,Icn,Tpe,-1,0,333 73H
+Ro,Otp,Dxb,-1,0,73W
+Cz,Icn,Ynj,-1,0,321
+Fr,Ibz,Gro,-1,0,738
+Ca,Szx,Hfe,Y,0,738 320
+Fr,Trf,Alc,-1,0,738
+Sv,Jed,Ruh,-1,0,333 777 773 321 320 772 744 74E
+Ca,Pek,Inc,-1,0,738
+Az,Fco,Nap,-1,0,32S 319
+Aa,Hpn,Ord,Y,0,Erd
+U2,Ams,Sxf,-1,0,319 320
+Az,Fco,Cag,-1,0,319 32S 320 321
+Ua,Bjx,Lax,-1,0,319
+Lt,Muc,Vno,-1,0,E75 Cr2
+Vn,Sgn,Foc,-1,0,321
+Ig,Vrn,Fue,-1,0,320
+Ir,Tbz,Bnd,-1,0,100
+5J,Ceb,Sug,-1,0,Atr
+Af,Jer,Cwl,Y,0,F50
+F9,Lbl,Ddc,Y,0,Be1
+Ux,Mad,Lim,-1,0,332
+Kl,Ams,Jfk,-1,0,330 777 74M 747
+Ca,Ngb,Pek,-1,0,738
+Wf,Boo,Ssj,-1,0,Dh1 Dh2
+U2,Lgw,Bgo,-1,0,319
+Q6,Dmd,Ong,-1,0,Dh1
+Ro,Otp,Beg,-1,0,At5 At7
+Sv,Krt,Jed,-1,0,772
+Sv,Ynb,Jed,-1,0,E70 320 321
+Kc,Ist,Tse,-1,0,320
+9E,Atl,Cha,-1,0,Crj
+Eb,Mad,Cun,-1,0,744
+Fm,Txn,Ckg,-1,0,737
+Ix,Maa,Kul,-1,0,738
+Ac,Yyz,Cph,-1,0,763
+Mu,Wuh,Hgh,-1,0,320
+Fz,Ruh,Dwc,-1,0,73H
+Kl,Blq,Ams,Y,0,Emj
+Dy,Osl,Beg,-1,0,733
+Ab,Ibz,Bsl,-1,0,320
+Us,Las,Ord,-1,0,M83 738
+Us,Mia,Lax,-1,0,777 763 757
+Ps,Hrk,Kbp,-1,0,735
+Sv,Jed,Thr,-1,0,74E Ab6
+Mu,Dlu,Kmg,-1,0,737 733
+Wn,Oak,Mdw,-1,0,73H 73W 738
+G9,Shj,Cjb,-1,0,320
+Fr,Gdn,Brs,-1,0,738
+Ad,Vcp,Ios,-1,0,E95
+Mu,Jng,Hrb,-1,0,737
+Ua,Lch,Iah,Y,0,Erj
+Hu,Pek,Syx,-1,0,738
+9V,Pmv,Ccs,-1,0,732
+Zb,Man,Ace,-1,0,321 320
+Qf,Dxb,Jed,Y,0,388
+Ws,Pvr,Yeg,-1,0,73W
+G3,Fln,Eze,-1,0,738
+Et,Adl,Sin,-1,0,333
+Az,Lys,Cta,-1,0,320
+Dl,Lax,Atl,-1,0,763 757 73H 76W
+Zh,Cgo,Hgh,Y,0,319
+Hv,Ams,Alc,-1,0,73H 73W
+Af,Flr,Cdg,-1,0,318
+Ep,Syz,Lrr,-1,0,At7
+Dt,Vhc,Meg,-1,0,73G
+Xq,Bsl,Ayt,-1,0,738
+Am,Mex,Las,-1,0,737
+Jl,Shm,Hnd,-1,0,E70
+Ua,Iah,Sjo,-1,0,738
+Sc,Tyn,Dsn,-1,0,Cr2
+Cz,Ams,Xmn,Y,0,777
+Ca,Cgo,Lhw,Y,0,738
+Ua,Mdt,Ord,-1,0,320 319
+Br,Akj,Tpe,-1,0,332
+Sq,Ngo,Sin,-1,0,333
+4U,Agp,Str,-1,0,320 319
+Fr,Ork,Gdn,-1,0,738
+6E,Bom,Blr,-1,0,320
+9N,Cun,Bze,-1,0,Cnc
+Jj,Mia,Mao,-1,0,763 738
+Wn,Sna,Sfo,-1,0,73W
+Vs,Lhr,Bos,-1,0,333 764
+Nz,Epr,Per,Y,0,F50
+Mo,Ybk,Ycs,-1,0,At4
+D2,Vko,Cee,-1,0,Cr2
+U6,Mrv,Svx,-1,0,320
+Tu,Tun,Dxb,-1,0,319
+6E,Vtz,Blr,-1,0,320
+Kl,Den,Atl,Y,0,757 M90
+Fr,Pgf,Crl,-1,0,738
+Tk,Ist,Isu,-1,0,321 738 739
+Qz,Upg,Sub,-1,0,320
+4U,Cgn,Fao,-1,0,319 320
+Ix,Bah,Doh,-1,0,738
+5J,Mnl,Pek,-1,0,320
+Be,Gci,Jer,-1,0,Dh4
+Dl,Slc,Las,-1,0,320 757 73H 738
+Bi,Bwn,Mel,-1,0,787
+Hv,Dlm,Rtm,-1,0,73H
+R3,Krr,Ist,-1,0,73W
+4T,Prn,Zrh,-1,0,320
+Dl,Sfo,Dtw,-1,0,763 739
+U2,Tlv,Gva,-1,0,320
+Ey,Auh,Syd,-1,0,77W 346
+Jt,Dps,Wgp,Y,0,Atr
+Ps,Ist,Ods,-1,0,320 734 738
+U2,Lgw,Pmi,-1,0,319 320
+Az,Tys,Atl,Y,0,717
+As,Ogg,Oak,-1,0,73H
+Hu,Nbo,Auh,-1,0,320
+Ei,Dub,Gva,-1,0,320
+Kl,Atl,Evv,Y,0,Crj
+7I,Pos,Pbm,-1,0,733
+Hg,Vie,Cfu,-1,0,320
+Ua,Ida,Den,Y,0,Crj
+Af,Atl,Dus,Y,0,76W
+Sg,Blr,Hbx,-1,0,Dh8
+De,Ace,Lgw,Y,0,757
+Fr,Tps,Man,-1,0,738
+To,Her,Bhx,-1,0,75W
+Nh,Nrt,Ngo,-1,0,320 735
+Kl,Lhr,Msp,Y,0,767
+Dy,Cph,Psa,-1,0,73H
+Qr,Doh,Goi,-1,0,321
+U2,Lpl,Jer,-1,0,319
+Gl,Umd,Juk,-1,0,Bh2
+Dl,Mdw,Atl,-1,0,319 320 717
+W6,Bud,Vko,-1,0,320
+J2,Gyd,Saw,-1,0,319
+My,Czh,Spr,-1,0,Cnc
+Ba,Cdg,Lhr,-1,0,319 320 321
+U6,Krr,Svx,-1,0,320
+Ku,Trv,Kwi,-1,0,310 Ab6
+Wt,Xks,Ytl,-1,0,Beh
+Ab,Bcn,Txl,-1,0,738 320 321
+Ux,Mad,Tfn,-1,0,332 738
+Aa,Gla,Lhr,Y,0,319 320 321
+Aa,Dfw,Elp,-1,0,M80 319
+Tk,Lax,Ist,-1,0,77W
+Ua,Evn,Vie,Y,0,320 321
+Av,Gye,Lim,-1,0,320 319
+Sj,Sub,Cgk,-1,0,734 735 733
+Tg,Icn,Hkt,-1,0,330
+Lh,Muc,Fra,-1,0,321 320 32A 319
+As,Atl,Orf,Y,0,M90 M88 319
+Wn,Bwi,Phx,-1,0,73W 738
+Ay,Hel,Ivl,-1,0,319 320
+D2,Dme,Kvk,-1,0,Cr2
+Ms,Acc,Cai,-1,0,738
+5J,Bcd,Dvo,-1,0,320
+Wn,Sju,Tpa,-1,0,73H 73W
+Cz,Pek,Ams,-1,0,332
+Gs,Cgo,Urc,-1,0,321
+Ab,Str,Ayt,-1,0,738 320
+Et,Krt,Add,-1,0,738 Dh8
+G3,Gru,Ros,-1,0,738 73G
+Us,Clt,Stl,-1,0,319
+Be,Nwi,Gci,Y,0,D38
+Wn,Mdw,Jax,-1,0,73W
+Dy,Fco,Bgo,-1,0,73H
+Fr,Agp,Nyo,-1,0,738
+Sv,Ruh,Ahb,-1,0,320
+Oz,Icn,Rgn,-1,0,763
+Lh,Bcn,Ewr,Y,0,752
+Aa,Sjo,Clt,-1,0,319
+Ei,Ork,Muc,-1,0,320
+Cz,Csx,Kwe,Y,0,737
+B6,Bdl,Fll,-1,0,320
+Uy,Bgw,Tbs,-1,0,M83
+Us,Phx,Oak,-1,0,319
+Gs,Xiy,Tsn,-1,0,E90 320 321
+7F,Yzf,Ycb,-1,0,73M At7
+Av,Sal,Cun,-1,0,321 320 E90
+Qf,Mel,Hnl,Y,0,332
+Dl,Eyw,Atl,-1,0,73W
+Cz,Can,Sgn,-1,0,738
+Ge,Tsa,Pvg,-1,0,321
+Jj,Gru,Dfw,-1,0,77W
+Ay,Bma,Mmx,Y,0,Ar1 Ar8
+Qb,Bnd,Kih,-1,0,F50
+Ob,Lpb,Tja,-1,0,733
+Af,Jfk,Cdg,-1,0,332 772 388 343
+To,Lgw,Agp,-1,0,73H
+Ua,Iah,Tus,Y,0,Erj Cr7
+Fr,Pdv,Stn,-1,0,738
+Ab,Olb,Ham,-1,0,320
+Vy,Pmi,Grx,-1,0,320
+Lx,Zrh,Nrt,-1,0,343
+4H,Dac,Bzl,-1,0,Dh8
+To,Adb,Bhx,-1,0,75W
+Dy,Fao,Arn,-1,0,73H
+Us,Ric,Dfw,-1,0,M80 M83
+Ua,Den,Yeg,-1,0,319
+9W,Ixb,Ccu,-1,0,738
+Cz,Tao,Hgh,-1,0,320 738
+Ix,Maa,Trv,-1,0,738
+Ua,Los,Fra,Y,0,333
+Fl,Dca,Mke,-1,0,717
+Wy,Jed,Sll,-1,0,E75
+Fl,Cmh,Atl,-1,0,717
+Us,Lax,Okc,Y,0,Cr7
+Ig,Zrh,Cta,Y,0,320
+Lh,Tao,She,-1,0,343
+2O,Kln,Kyk,-1,0,Bni
+Fr,Ein,Mrs,-1,0,738
+Wn,Oak,Ont,-1,0,733 73C 73W
+Wf,Mol,Bgo,-1,0,Dh3 Dh4
+Ep,Kbl,Mhd,-1,0,100
+Us,Dfw,Bhm,-1,0,M80 M83
+Af,Atl,Ecp,Y,0,717 M88
+U2,Lil,Bod,-1,0,319
+Aa,Lga,Stl,Y,0,Cr7
+Jq,Akl,Syd,-1,0,320
+Su,Gdz,Svo,-1,0,320 319
+Ca,She,Xiy,Y,0,320
+Cz,Tao,Wuh,-1,0,738 73G
+Mk,Run,Mru,-1,0,319 343 At7 332
+Aa,Dca,Roc,Y,0,E70 Crj
+Cz,Pnh,Can,-1,0,321 319
+3U,Wuh,Ckg,-1,0,319
+Us,Phl,Cmh,Y,0,Crj E75 E70
+Br,Kwl,Tpe,-1,0,M90
+Ib,Mad,Ssg,-1,0,319
+Fr,Bri,Blq,-1,0,738
+Wn,Mdw,Bkg,-1,0,73W
+Fl,Mdw,Puj,-1,0,73G
+Ca,Hgh,Kwe,-1,0,320 319
+Fm,Pvg,Wuh,-1,0,738
+Oa,Kit,Ath,-1,0,Dh4
+Jl,Pvg,Ngs,Y,0,319
+Be,Lsi,Abz,Y,0,Sf3 S20
+Dl,Ind,Bos,Y,0,E75
+Ke,Icn,Rgn,-1,0,73H
+Us,Dfw,Yul,-1,0,738
+U2,Vce,Nap,-1,0,319 320
+Tk,Ist,Mct,-1,0,739 738
+Zh,Kwl,Nkg,-1,0,738
+Qf,Cnj,Tsv,Y,0,Dh4
+Lh,Bru,Nsi,Y,0,332
+G3,Slz,Bsb,-1,0,738
+Qs,Prg,Fra,-1,0,At7 319
+Sh,Lst,Bwt,-1,0,Swm
+Jq,Ntl,Mel,-1,0,320
+U2,Alc,Brs,-1,0,319 320
+Az,Fco,Bru,-1,0,32S 320 319
+Ua,Fat,Den,Y,0,Cr7 Crj
+8L,Ljg,Kwe,-1,0,319
+S4,Lis,Opo,Y,0,100 320 Er4 319
+Cz,Hzh,Can,-1,0,E90
+Aa,Msy,Dca,Y,0,E75 E70 319
+5J,Bxu,Mnl,-1,0,320
+Be,Koi,Lsi,Y,0,Sf3
+Us,Tpa,Dfw,-1,0,738 M83 M80
+F9,Den,Iah,-1,0,319 320
+Un,Vvo,Dme,-1,0,773
+Wn,Stl,Rdu,-1,0,73W
+Ur,Arh,Nnm,-1,0,An4
+Mh,Kul,Sdk,-1,0,738
+Dc,Gse,Vby,-1,0,At7
+Ig,Kiv,Mxp,-1,0,737
+Nz,Knx,Per,Y,0,100
+Ua,Pty,Iad,-1,0,73G
+Az,Atl,Sat,Y,0,M90 757
+Aa,Phl,Mht,Y,0,Crj E75 E70
+Be,Sou,Lig,-1,0,Dh4
+Ir,Awz,Thr,-1,0,M82 100 Ab4
+2N,Had,Arn,-1,0,Sf3 Atp
+Ua,Yqr,Ord,Y,0,Crj
+6E,Del,Gau,-1,0,320
+Fr,Bva,Opo,-1,0,738
+Dl,Slc,Psp,Y,0,Crj
+G8,Ccu,Ixz,-1,0,320
+Ay,Cph,Hel,-1,0,320 319 321
+Y9,Awz,Thr,-1,0,Tu3 M80
+Aa,Tls,Lhr,Y,0,320 319
+Nt,Lpa,Rai,Y,0,Cr9
+Bu,Fbm,Jnb,-1,0,320
+Mu,Sha,She,Y,0,738
+Qr,Doh,Ord,-1,0,77W
+Jl,Hna,Fuk,Y,0,E70
+Hu,Szx,Ctu,-1,0,333 738
+8V,Vee,Fyu,-1,0,Cnc
+Tp,Mrs,Lis,Y,0,Er4 100
+7R,Esl,Dme,-1,0,Cr2
+Kl,Ams,Otp,-1,0,737
+Aa,Rsw,Dus,Y,0,330
+Ho,Sha,Ckg,-1,0,320
+Dl,Gdl,Atl,-1,0,320
+Y4,Tij,Sjd,-1,0,320
+Kq,Nbo,Mba,-1,0,733 E90
+G4,Las,Lrd,-1,0,M80
+Ab,Lnz,Her,-1,0,321
+Br,Tpe,Yvr,-1,0,744
+Mu,Hmi,Pvg,-1,0,320
+Iy,Dxb,Riy,-1,0,310
+Su,Cmn,Cdg,Y,0,320 319
+Am,Mex,Cul,-1,0,Emj 737
+Aa,Phl,Cmh,Y,0,Crj E75 E70
+3U,Ctu,Tsa,-1,0,320
+Aa,Phl,Puj,-1,0,319 332 320
+Ca,Kwe,Hfe,Y,0,738
+Kn,Nay,Bav,-1,0,737
+Nh,Nrt,Icn,Y,0,321 333 738 772 74E
+Jt,Plm,Tkg,-1,0,739
+Cy,Svo,Lca,-1,0,320
+Tj,Nev,Sju,-1,0,Pl2
+Dl,Atl,Fco,-1,0,333
+Bm,Svg,Got,-1,0,Er4
+Fr,Stn,Rho,-1,0,738
+Us,Dfw,Pbc,-1,0,Erd
+Me,Bey,Jed,-1,0,320 332
+A3,Jkl,Ath,-1,0,Dh8
+Wn,Phx,Mdw,-1,0,73W 73H 738
+Hd,Hnd,Akj,-1,0,735 763
+S2,Blr,Cjb,Y,0,At7
+Xl,Gye,Scy,-1,0,319
+Sj,Amq,Upg,-1,0,738
+2K,Scy,Gye,-1,0,319 320
+Ua,Iah,Slc,Y,0,Erj Cr7 E70
+Zh,Pek,Txn,Y,0,737
+Jq,Dud,Akl,-1,0,320
+Aa,Oaj,Dca,Y,0,Crj
+Cu,Hav,Svo,Y,0,332
+Vx,Las,Lax,-1,0,320
+Ac,Pek,Yyz,-1,0,77W
+Fr,Szz,Stn,-1,0,738
+U6,Krr,Tas,-1,0,320
+Zh,Szx,Xiy,-1,0,320
+Tm,Dar,Pol,-1,0,E90
+Br,Tsa,Sha,-1,0,333
+Jl,Pvg,Cts,Y,0,321 320
+Ab,Nue,Hrg,-1,0,738
+Sn,Bru,Dkr,-1,0,333
+Uu,Run,Hah,-1,0,738
+Zh,Ctu,Tao,Y,0,320
+Ul,Trz,Cmb,-1,0,320
+Ox,Dmk,Hkt,-1,0,M82
+Pk,Lhr,Lhe,-1,0,777
+Fl,Mco,Mem,Y,0,73C 73W
+Ir,Thr,Omh,-1,0,100 M82
+Aa,Mco,Dfw,-1,0,738 M83 M80 757
+W3,Jos,Los,-1,0,73G
+Mf,Xmn,Tna,-1,0,737
+Lh,Lej,Vie,Y,0,Dh4
+Sk,Blq,Cph,-1,0,Cr9 319
+Zh,Het,She,-1,0,320
+F9,Mdt,Den,-1,0,319
+To,Pfo,Ema,-1,0,73H
+Wy,Bah,Mct,-1,0,E75 73G 738
+Lh,Ssg,Abv,-1,0,343
+Fr,Snn,Nce,-1,0,738
+Lh,Ams,Ord,Y,0,763
+Ab,Vie,Skg,-1,0,E90
+Ab,Txl,Mxp,-1,0,738 73G 320
+Sg,Hyd,Idr,-1,0,Dh8
+Un,Svx,Hkt,-1,0,763
+Ua,Iah,Cun,-1,0,739 738
+Jj,Rao,Cgh,-1,0,319 320
+Ka,Pus,Hkg,-1,0,321 320
+Vr,Bvc,Rai,-1,0,At7
+5H,Lok,Edl,-1,0,Dh8
+Fm,Sha,Tyn,-1,0,738
+Mh,Nrt,Kul,-1,0,772
+Fr,Stn,Fue,-1,0,738
+Bk,Xmn,Csx,-1,0,738
+Zh,Csx,Ctu,Y,0,320 319
+Ua,Gnv,Tpa,Y,0,Sf3
+Nk,Rsw,Ord,-1,0,319
+Ke,Icn,Ror,-1,0,73H
+Kl,Ams,Trf,Y,0,Emj
+Ah,Mrs,Qsf,-1,0,738
+Zh,Ynt,Wuh,-1,0,320
+Ah,Alg,Nce,-1,0,736 738
+Vy,Scq,Bru,-1,0,320
+Ab,Cly,Cgn,-1,0,73G
+2Z,Cgr,Dou,-1,0,At7
+Av,Clo,Ctg,-1,0,318 320
+Pc,Tzx,Saw,-1,0,738 320
+Az,Blq,Cta,-1,0,320
+3L,Zrh,Szg,-1,0,Dh3
+Tr,Sin,Pen,-1,0,320
+Zb,Bhx,Fao,-1,0,321
+Fl,Atl,Bos,-1,0,717
+Ek,Dxb,Kix,-1,0,77W
+3U,Kmg,Tpe,-1,0,320
+Et,Kwi,Add,-1,0,738
+Ar,Mdz,Sla,Y,0,E90
+Us,Bna,Dfw,-1,0,M80 738 M83
+Su,Icn,Uus,-1,0,737
+F9,Fmn,Als,Y,0,Be1
+Az,Ruh,Fco,Y,0,320
+Zh,Het,Ctu,-1,0,320
+Nh,Gum,Kix,Y,0,73G 738
+Jh,Kmj,Nkm,-1,0,E70
+Hv,Ein,Ath,-1,0,73H 73W
+Ua,Aia,Cdr,Y,0,Be1
+Ek,Nbo,Dxb,-1,0,77W 77L
+La,Eze,Gye,Y,0,319
+Kl,Cun,Mex,Y,0,767
+Dl,Dsm,Msp,Y,0,Cr9 Crj
+Dy,Lax,Arn,Y,0,788
+Cz,Nrt,Pek,Y,0,73H 767
+Pl,Nas,Tbi,-1,0,Atp
+Qf,Isa,Drw,Y,0,E70
+Dt,Lad,Gig,-1,0,77W
+Us,Dca,Yul,Y,0,Crj
+Ms,Jed,Cai,-1,0,738 333 330 340 320
+Cz,Bhy,Sjw,-1,0,321
+Ua,Lis,Ewr,-1,0,752
+Uo,Hkg,Rmq,-1,0,320
+Ua,Mex,Sfo,-1,0,320
+Us,Sna,Ord,-1,0,738
+Az,Jax,Atl,Y,0,757
+Kl,Atl,Ags,Y,0,717 M88 Crj
+D7,Kul,Ctu,-1,0,330
+Oa,Ath,Lxs,Y,0,Dh4
+Hu,Hrb,Tsn,-1,0,738
+Ca,Tyn,Bav,Y,0,Cr7
+Us,Lax,Mia,-1,0,757 777 763 738
+La,Scl,Mdz,-1,0,320 319
+Vy,Zag,Bcn,-1,0,320
+Aa,Dtw,Phx,-1,0,319 321
+Mh,Fra,Dfw,-1,0,777
+Cz,Sym,Kmg,-1,0,733
+S4,Cph,Lis,Y,0,320
+Ts,Yqb,Yul,-1,0,310
+Ua,Iah,Hux,Y,0,Erj
+Ba,Lhr,Edi,-1,0,319 767 321 320
+Us,Dfw,Bpt,-1,0,Erd
+Ca,Ngb,Tao,Y,0,738
+Ua,Lax,Jfk,-1,0,757
+S2,Blr,Goi,Y,0,At7
+Fr,Kgs,Bgy,-1,0,738
+Ua,Ewr,San,-1,0,739 738
+X3,Rho,Lej,-1,0,73H
+Cz,Urc,Lhw,-1,0,752 319 320
+Br,Tpe,Cdg,-1,0,77W
+Dv,Plx,Tse,-1,0,Crj
+Gv,Kvc,Cdb,-1,0,Bec
+Wn,Atl,Msy,-1,0,73W
+Y4,Zcl,Tij,-1,0,320
+5T,Yhk,Yzf,-1,0,Dh8
+Sv,Ruh,Lhr,-1,0,777
+Cz,Hak,Foc,Y,0,737
+Wy,Ktm,Mct,-1,0,738
+Ca,Pek,Lgw,-1,0,330
+Q2,Mle,Trv,-1,0,Dh8 320
+Aa,Lax,Gru,-1,0,777
+Us,Jfk,Sfo,-1,0,32B 763
+Ke,Ruh,Icn,-1,0,332
+Cz,Jjn,Szx,Y,0,737
+W6,Skp,Ltn,-1,0,320
+Ad,Rec,Vcp,-1,0,E95
+Sa,Jnb,Sez,-1,0,332
+Ac,Yyz,Pek,-1,0,77W
+Aa,Bos,Clt,-1,0,319 321 320 E90
+Pr,Klo,Pus,-1,0,320
+Mu,Lhw,Kmg,-1,0,320
+Mu,Bkk,Ngb,-1,0,320
+Af,Cdg,Bom,-1,0,332
+Lh,Fra,Trn,-1,0,735 E90 Cr7
+Ib,Mad,Agp,Y,0,32S
+Az,Ias,Fco,Y,0,733
+Hu,Hfe,Hrb,-1,0,738
+Nh,Cts,Ngo,-1,0,767 320 737
+G4,Gsp,Fll,-1,0,M80
+Hu,Pek,Ovb,-1,0,320
+Fr,Bds,Crl,-1,0,738
+Av,Sal,Sap,-1,0,320 Atr E90 319
+Pq,Ceb,Mnl,-1,0,320
+Fr,Dub,Tuf,-1,0,738
+Gk,Kix,Fuk,-1,0,320
+Nk,Myr,Crw,-1,0,319
+U2,Stn,Dbv,-1,0,319
+Az,Prg,Lin,-1,0,319 E75
+La,Syd,Scl,Y,0,744
+Fr,Gdn,Wmi,-1,0,738
+Ou,Txl,Spu,-1,0,319
+3U,Ckg,Inc,-1,0,321
+Ca,Mfm,Nkg,-1,0,321
+Cz,Yiw,Pek,-1,0,738
+La,Scl,Mex,-1,0,763
+Tv,Ctu,Lxa,-1,0,319
+Mu,Xiy,Khn,-1,0,320
+Ar,Afa,Luq,Y,0,E90
+Hx,Syx,Hkg,-1,0,320
+Lh,Ala,Tse,-1,0,333
+Tp,Fao,Fra,Y,0,32A 321 320
+At,Cmn,Oxb,-1,0,738 73G
+Dy,Cgn,Tfs,-1,0,73H
+Lx,Zrh,Pmi,-1,0,321 320
+Tom,Fue,Bhx,-1,0,75W
+8E,Otz,Wtk,-1,0,Cnc
+As,Gdl,Lax,-1,0,73H
+Ca,Hak,Tsn,-1,0,738
+Fm,Dyg,Pvg,-1,0,738
+Ua,Tpa,Iah,-1,0,73G 320 739 738
+Us,Sea,Ord,-1,0,738
+Ga,Tjq,Cgk,-1,0,735 Crk
+F9,Puj,Stl,-1,0,319
+Ac,Ywk,Yzv,Y,0,Dh1
+Wf,Bjf,Hft,-1,0,Dh2
+Wn,Stl,San,-1,0,73W
+Lh,Jed,Fra,-1,0,333
+Aa,Dfw,Crw,Y,0,Crj
+Ib,Alc,Bio,Y,0,Cr9 Cr2
+Ai,Del,Ist,Y,0,330
+Aa,Bda,Jfk,-1,0,738
+Ay,Arn,Hel,-1,0,319 320
+Jq,Mel,Lst,-1,0,320
+U2,Ams,Lis,-1,0,319
+Ge,Sha,Tsa,-1,0,321
+Av,Sjo,Sap,-1,0,Atr
+Wf,Hov,Bgo,-1,0,Dh1
+B6,Jfk,Ord,-1,0,320 E90
+U2,Chq,Lgw,-1,0,320
+Ps,Dok,Tlv,-1,0,734
+X7,Apf,Mia,-1,0,Cna
+Aa,Yyc,Lax,-1,0,737
+Fr,Gro,Fkb,-1,0,738
+Ac,Yqr,Yyz,-1,0,E90
+Cx,Mxp,Hkg,-1,0,77W
+Ls,Dlm,Ncl,-1,0,752
+Wu,Hrk,Kut,-1,0,320
+Nh,Itm,Nrt,-1,0,738 767
+Wn,Phl,Mco,-1,0,73W 73C 733
+Ib,Nkc,Lpa,-1,0,319
+Aa,Ewn,Clt,-1,0,Dh8 Dh3
+Fi,Kef,Man,-1,0,75W
+At,Ndr,Fra,-1,0,738
+Ba,Lhr,Ams,-1,0,767 320 319 321
+Fr,Mjv,Dub,-1,0,738
+7H,Shh,Waa,Y,0,Cnt
+Kq,Apl,Nbo,-1,0,E90 E70
+A3,Waw,Ath,-1,0,320
+Us,Mia,Scl,-1,0,763
+Lt,Prg,Vno,-1,0,Cr2
+Q9,Ypn,Ygv,-1,0,Pag
+9W,Ajl,Ccu,Y,0,At7
+Tk,Kan,Ndj,-1,0,738
+Os,Vie,Tfs,Y,0,320
+Cg,Ung,Dau,-1,0,Dh8
+Fr,Gro,Mla,-1,0,738
+Mu,Pvg,Ctu,-1,0,320 319 738
+S7,Dme,Alc,-1,0,320
+Ab,Nap,Txl,-1,0,320 73G
+Hu,Urc,Lhw,-1,0,738
+3M,Mco,Rsw,-1,0,Sf3
+Af,Lgg,Bia,-1,0,320
+9E,Evv,Atl,-1,0,Crj
+B2,Lca,Msq,-1,0,733
+Gs,Het,Wua,-1,0,Erj
+Aa,Sna,Phx,-1,0,320 319 321
+Kl,Hah,Nbo,Y,0,73W
+Ad,Vcp,Jdo,-1,0,E90
+Ua,Pni,Tkk,-1,0,73G 738
+Fr,Bcn,Scq,-1,0,738
+Su,Pee,Svo,-1,0,Su9 320
+Q7,Nas,Fpo,-1,0,Sf3
+Fm,Mig,Pvg,-1,0,738
+Zb,Agp,Bhx,-1,0,321
+Ac,Yyz,Ymm,-1,0,E90 320 319
+Nt,Tfn,Gmz,Y,0,At7
+Bt,Rix,Waw,-1,0,Dh4
+La,Lim,Iqt,-1,0,319
+Mu,Wux,Hkg,-1,0,320
+Or,Bon,Ams,-1,0,763
+Bv,Dme,Fco,-1,0,737
+Fl,Cak,Atl,-1,0,717
+Mj,Dmm,Cmb,Y,0,343
+Us,Dfw,Pty,-1,0,738
+7H,Bet,Wtl,Y,0,Cna
+Tm,Pol,Bew,-1,0,Em2
+Eo,Tuu,Cai,-1,0,320
+Ab,Mah,Muc,-1,0,738
+Lh,Muc,Pvg,-1,0,346
+Dx,Bll,Svg,-1,0,At5 Sf3
+Us,Ogg,Phx,-1,0,752
+De,Dus,Rho,-1,0,32S
+Dl,Bos,Ric,Y,0,Cr9 Cr7
+G4,Sgf,Pie,-1,0,320
+To,Ace,Ltn,-1,0,75W 73H
+Su,Rov,Led,-1,0,A81 319
+4H,Dac,Ccu,-1,0,At7
+Pk,Pjg,Khi,-1,0,Atr
+Fr,Fkb,Ace,-1,0,738
+Dl,Slc,Rdu,-1,0,320 73H
+Mu,Ctu,Nay,Y,0,737
+Ua,Ewr,Buf,Y,0,Dh4 Erj Dh3 Dh2
+Zh,Foc,Csx,-1,0,320
+Us,Dfw,Mci,-1,0,M80 M83
+Jw,Tpe,Nrt,-1,0,320
+Jj,Joi,Cgh,-1,0,319
+B6,Ewr,Fll,-1,0,320
+U2,Tll,Lgw,-1,0,319 320
+8Q,Ayt,Svo,-1,0,321
+Ay,Lis,Ams,Y,0,320 319
+Fr,Bds,Ein,-1,0,738
+Us,Yyz,Ord,-1,0,Er4 Cr7
+Mh,Cmb,Fco,-1,0,332 343
+Vy,Tng,Bcn,-1,0,320
+Ei,Cfu,Dub,-1,0,320
+Pr,Bne,Drw,-1,0,320
+Wn,Mdw,Cle,-1,0,73W 73C
+Us,Geg,Phx,-1,0,319
+Jd,Cgo,Syx,-1,0,320
+Af,Atl,Orf,Y,0,M88 M90
+Cx,Hkg,Wnz,-1,0,321 320
+Vb,Gdl,Mex,-1,0,733
+Mf,Wus,Xmn,-1,0,737
+W3,Kan,Abv,-1,0,Dh4
+Jj,Pek,Mad,-1,0,330
+Sn,Bru,Tls,-1,0,Ar1
+Zh,Ctu,Khn,-1,0,738
+Aa,Mem,Ord,Y,0,Cr7 Er4 Erd
+Tcx,Brs,Ayt,-1,0,320
+3U,Ngb,Hak,-1,0,321
+Be,Bhd,Gla,-1,0,Dh4
+Hg,Vie,Skg,-1,0,E90
+Tr,Hdy,Sin,-1,0,320
+5N,Svo,Scw,-1,0,735
+Dl,Lga,Fll,-1,0,M88 738 319
+Lh,Mia,Fra,-1,0,388
+Fr,Ema,Pmi,-1,0,738
+Ps,Rov,Kbp,-1,0,73J
+Ir,Kul,Ika,-1,0,74L
+Ua,Sfo,Bfl,Y,0,Em2
+Fd,Dmk,Cnx,-1,0,320
+Ac,Roc,Yyz,Y,0,Beh
+Aa,Hnd,Hnl,-1,0,777
+Pc,Mlx,Saw,-1,0,738 320
+U2,Pfo,Edi,-1,0,320
+W6,Otp,Cuf,-1,0,320
+Ca,Xmn,Tao,Y,0,738
+Fr,Lba,Pmi,-1,0,738
+W6,Cra,Bgy,-1,0,320
+Ib,Dtm,Bcn,-1,0,320
+9W,Auh,Ccj,-1,0,320
+Ba,Psa,Lhr,-1,0,320 321
+4U,Zad,Str,-1,0,319
+Pk,Isb,Mux,-1,0,Atr
+Ix,Jai,Shj,-1,0,738
+M4,Ssh,Hbe,-1,0,Dh4
+Dy,Nce,Bgo,-1,0,73H
+Ju,Hga,Mgq,-1,0,737
+B6,Ewr,Tpa,-1,0,320
+Ca,Wnz,She,-1,0,320
+8L,Tyn,Het,-1,0,321
+Br,Tpe,Bne,-1,0,332
+Dl,Msp,Psc,Y,0,Cr9
+Oz,Icn,Fuk,-1,0,333 321 77L 763
+Aa,Dfw,Gua,-1,0,738
+A3,Ath,Phl,Y,0,332
+Wn,Jax,Las,-1,0,73W
+Us,Dfw,Smf,-1,0,M83
+Wn,Phx,Buf,-1,0,73W
+Sw,Jnb,Wdh,-1,0,319 Er3
+Wy,Dmm,Mct,-1,0,738 E75 73G
+Hu,Hak,Nng,-1,0,738
+Ak,Bki,Sin,-1,0,320
+6E,Dib,Gau,-1,0,320
+Jl,Nrt,Icn,-1,0,73H
+Kl,Okc,Atl,Y,0,Cr9 M88
+5H,Mba,Nbo,-1,0,Crj
+Qz,Jog,Sin,-1,0,320
+Dl,Msn,Slc,Y,0,Cr7
+Mu,Llf,Szx,-1,0,737
+Lx,Prn,Gva,-1,0,320
+Ro,Kiv,Otp,-1,0,At5 At7
+Cz,Tsn,Xmn,Y,0,737
+Kl,Atl,Dal,Y,0,Crj
+Ua,Iah,Grr,Y,0,Erj Crj
+8U,Dxb,Tip,-1,0,332
+Ai,Del,Kbl,-1,0,320
+Ua,Dtw,Iah,-1,0,320 319 73G
+Dl,Ngo,Dtw,-1,0,744
+Nz,Vli,Akl,-1,0,320
+Os,Vie,Dnk,Y,0,F70 100
+Fr,Cia,Ibz,-1,0,738
+Hy,Gyd,Tas,-1,0,320
+De,Lej,Dje,-1,0,32S
+Fr,Nrn,Chq,-1,0,738
+6E,Del,Rpr,-1,0,320
+Fr,Cuf,Aho,-1,0,738
+Ak,Blr,Kul,-1,0,320
+X3,Dlm,Haj,-1,0,73H
+Lh,Txl,Vko,-1,0,320
+Aa,Phl,Doh,-1,0,777
+3U,Xiy,Xnn,-1,0,319
+Ca,Mfm,Pvg,-1,0,321
+Sg,Blr,Maa,-1,0,Dh8
+Jp,Lju,Vie,-1,0,Cr9 Cr2
+Ka,Tao,Hkg,-1,0,333 320
+Se,Fdf,Cdg,-1,0,333
+Fr,Stn,Agp,-1,0,738
+Wf,Eve,Tos,-1,0,Dh3 Dh1 Dh2
+Fr,Ace,Brs,-1,0,738
+Hv,Bjv,Ein,-1,0,73H
+Aa,Ord,Abq,Y,0,E75
+Cz,Cgo,Hrb,-1,0,320
+Ua,Den,Gjt,-1,0,Dh4
+Dl,Dtw,Ams,-1,0,777 333 332 76W
+G3,Pvh,Mao,-1,0,73G
+K6,Han,Pnh,-1,0,321
+Se,Cdg,Ptp,-1,0,333
+Ac,Yvr,Fra,Y,0,744
+U2,Stn,Cag,-1,0,319
+Ua,Sbn,Ord,Y,0,Cr7 Erj Crj E70
+Ay,Hel,Bkk,-1,0,343
+Mh,Mct,Auh,Y,0,320
+Tg,Bkk,Rgn,-1,0,330 Ab6 333
+De,Ayt,Haj,-1,0,32S 321
+Ir,Tbz,Mhd,-1,0,M82 100 Ab4
+Wt,Yfh,Yqt,-1,0,Pl2 Beh
+Xv,Dom,Sxm,-1,0,J32
+Oz,Doh,Icn,Y,0,333
+Az,Fco,Ath,-1,0,32S 321 319
+V0,Vig,Ccs,-1,0,E90
+Sv,Maa,Dmm,-1,0,333
+Ib,Lhr,Lba,Y,0,319
+Ci,Bkk,Ams,-1,0,343
+Mf,Hgh,Cgo,-1,0,737
+Xk,Fsc,Mrs,-1,0,At7
+Zh,Can,Wxn,Y,0,737
+Bb,Sju,Sdq,-1,0,Sf3
+7H,Anc,Fai,-1,0,Dh8 Be1
+Fl,Puj,Mdw,-1,0,73G
+Su,Svo,Mla,-1,0,319
+Hy,Dme,Nvi,-1,0,320
+Ca,Cgk,Xmn,-1,0,738
+5J,Ceb,Iao,-1,0,Atr
+Cz,Can,Bkk,-1,0,320 738 763
+Mj,Shj,Cmb,-1,0,321
+Aa,Ama,Dfw,Y,0,Er4 Crj Erd
+Az,Cdg,Edi,Y,0,Ar8
+4U,Cgn,Szg,-1,0,319
+3U,Mel,Ctu,-1,0,330
+Az,Tun,Fco,-1,0,32S 319 E90 E75
+Qz,Bdo,Kul,-1,0,320
+Ls,Ncl,Pfo,-1,0,752
+R3,Mcx,Krr,-1,0,Dh4
+Vs,Del,Lhr,-1,0,333 346
+Mu,Syd,Nkg,-1,0,332
+Hu,Yih,Szx,-1,0,738
+Fr,Cfu,Stn,-1,0,738
+Nz,Akl,Zqn,-1,0,320
+Bk,Syx,Ngb,-1,0,738
+Fl,Mdw,Cle,-1,0,73W
+Wn,Bna,Stl,-1,0,73W 73C
+Wf,Rvk,Trd,-1,0,Dh1 Dh2
+9K,Ewb,Hpn,-1,0,Cna
+Gf,Bah,Auh,-1,0,320
+Aa,Phx,Abq,Y,0,Cr9 Crj
+Vy,Agp,Bru,-1,0,320
+Af,Atl,Ind,Y,0,320 M88 M90
+Wf,Trd,Tos,-1,0,Dh4
+Lh,Blr,Fra,-1,0,74H
+Ps,Led,Kbp,-1,0,E90 734 735 73N
+Px,Hir,Nan,-1,0,737
+Pn,Nkg,Ckg,-1,0,320
+As,Sea,Lih,-1,0,73H
+Aa,Koa,Lax,-1,0,757
+Us,Lis,Ewr,Y,0,343 332
+Wj,Ybx,Yif,-1,0,Dht Be1
+Nu,Mmy,Oka,-1,0,734
+Ul,Hri,Jed,-1,0,343
+Ab,Hrg,Txl,-1,0,321
+Jl,Tao,Ngo,Y,0,321
+A5,Sxb,Mrs,-1,0,Cr7 Er4 E70
+Lh,Kul,Fra,-1,0,346
+Kl,Ams,Atl,-1,0,777
+Aa,Kul,Nrt,-1,0,763
+Km,Cta,Mla,-1,0,319 320
+Kq,Wdh,Lun,-1,0,Er3
+Dl,Cdg,Sea,-1,0,332
+Q5,Fai,Hkb,-1,0,Cna
+Un,Dme,Mrv,-1,0,735
+Oz,Icn,Hrb,-1,0,763
+4U,Cgn,Klu,-1,0,Crj
+Un,Dme,Msq,Y,0,735
+Px,Dps,Pom,-1,0,738
+Ab,Dme,Txl,-1,0,738
+Dl,Iad,Cdg,-1,0,388 77W
+Af,Atl,Dhn,Y,0,Crj
+Kl,Ams,Ord,-1,0,74M
+Ua,Tus,Den,Y,0,Erj Crj Cr7
+Ac,Rsw,Yyz,-1,0,320
+Dy,Agp,Arn,-1,0,73H
+Fr,Edi,Alc,-1,0,738
+Md,Kul,Bkk,Y,0,333
+Eg,Led,Tju,-1,0,320
+X3,Bvc,Sid,-1,0,73H
+Us,Phx,Dro,Y,0,Crj Cr9
+Fl,Cle,Den,-1,0,73W
+Dl,Fwa,Atl,Y,0,Crj
+A2,Skg,Cfu,-1,0,143
+Ua,Sfo,Sat,Y,0,Cr7
+En,Vrn,Muc,-1,0,E95
+Px,Bua,Rab,-1,0,100 Dh8
+Aa,Lgw,Tpa,Y,0,777
+Ap,Cta,Lys,-1,0,320
+Aa,Phl,Yyz,Y,0,Crj E75
+Sk,Svg,Fra,Y,0,733 735 319
+Ts,Yul,Puj,-1,0,310
+Mo,Yth,Yqd,-1,0,Frj
+Fr,Fao,Pik,-1,0,738
+Zh,Pek,Sha,Y,0,777 747 737 330
+Ns,Szx,Sjw,-1,0,73G
+Wn,Alb,Bwi,-1,0,73W
+Vy,Iev,Bcn,-1,0,320
+8R,Mdz,Nqn,-1,0,Sf3
+Bi,Sub,Bwn,-1,0,320
+Wf,Soj,Hft,-1,0,Dh1 Dh2
+Jj,Mao,Stm,-1,0,320
+Dl,Dtw,Sbn,Y,0,Crj
+Fr,Aho,Bva,-1,0,738
+Ac,Bdl,Yul,Y,0,Beh
+Cn,Inc,Pek,-1,0,738
+Lg,Lux,Var,-1,0,73H
+Ib,Bcn,Drs,Y,0,320
+Ios,Njc,Oms,-1,0,Cr2
+Md,Ftu,Tle,-1,0,733
+Cz,Xiy,Tyn,-1,0,320 319
+Cx,Hkg,Sfo,-1,0,77W 744
+Ca,Hyn,Can,Y,0,320
+Ir,Kih,Awz,-1,0,M82
+Us,Lax,Ogg,-1,0,757
+As,Sea,Oak,-1,0,73H 73G 734
+8L,Ljg,Ckg,-1,0,321
+Kl,Fih,Bzv,Y,0,737 738
+Dl,Dmm,Kwi,Y,0,332 330
+3U,Xmn,Kmg,-1,0,320
+Wn,Bur,Smf,-1,0,73W
+5J,Mnl,Hkg,-1,0,320
+Af,Can,Ckg,Y,0,319
+Wn,Pdx,Den,-1,0,73W 73H
+Ou,Lhr,Zag,-1,0,319 320
+Fr,Krk,Bhx,-1,0,738
+Sk,Biq,Cph,-1,0,Cr9
+3U,Swa,Ckg,-1,0,319
+Lo,Lwo,Waw,-1,0,E95 E70
+Sq,Usm,Sin,Y,0,319
+Am,Cun,Dtw,Y,0,320
+Ua,Hkg,Ord,-1,0,777
+Su,Svo,Kzn,-1,0,320 319 Su9 321
+Aa,Lhr,Dfw,-1,0,77W 777
+Pc,Ayt,Bru,-1,0,738
+Ei,Ncl,Ork,Y,0,At7
+Fl,Den,Tus,Y,0,73W 73C
+4T,Zrh,Rmf,-1,0,320
+Lh,Fra,Hkg,-1,0,74H
+Qr,Bcn,Jfk,Y,0,763
+7C,Cju,Cjj,-1,0,737
+Ua,Tul,Den,Y,0,Crj Erj Cr7
+Aa,Nrt,Icn,-1,0,737
+Vt,Mau,Bob,-1,0,Atr
+S2,Gau,Ixs,Y,0,At7
+Fb,Sof,Waw,-1,0,E75
+G3,Nvt,Cgh,-1,0,73G
+Af,Cai,Cdg,-1,0,332 343
+Tom,Mla,Man,-1,0,73H
+At,Oud,Ory,-1,0,738
+Ad,Pmw,Bsb,-1,0,At7
+Cg,Hgu,Lae,-1,0,Dh8
+5J,Mnl,Vrc,-1,0,319
+Kk,Ist,Tbs,-1,0,320
+U2,Bsl,Rak,-1,0,320 319
+Ac,Yvr,Yxe,Y,0,Crj
+Jl,Cgk,Nrt,-1,0,773 777
+Az,Ams,Txl,Y,0,737
+Us,Clt,Puj,-1,0,319 752 321 320
+Tr,Han,Sin,-1,0,320
+Mh,Aor,Kul,-1,0,738 734
+Az,Bcn,Pmi,Y,0,E90
+K8,Cnx,Hgn,-1,0,Cnc
+Lw,Iah,Vct,Y,0,Pa2
+B6,Bos,Lax,-1,0,320
+At,Vil,Cmn,-1,0,738
+Ca,Mfm,She,-1,0,319
+Dy,Bgo,Trf,-1,0,73H
+Kc,Ala,Kzn,-1,0,E90
+Nk,Dfw,Oak,-1,0,319
+Zb,Man,Lei,-1,0,321
+Lm,Ppw,Wry,-1,0,Bni
+Ab,Txl,Tlv,-1,0,321 738 320
+Ua,Nas,Ewr,-1,0,320 738
+G3,Joi,Cgh,-1,0,73G
+3U,Hkg,Zha,-1,0,319
+Dl,Msp,Nrt,-1,0,332 777
+Ua,Bon,Iah,-1,0,738
+Sk,Cph,Nce,-1,0,321 320
+Cz,Pek,Xiy,-1,0,333 320 321
+Af,Cwl,Gla,Y,0,F50
+Vn,Dad,Ctu,-1,0,321
+Dl,Lft,Atl,Y,0,Crj
+Us,Zrh,Sin,-1,0,388
+Mu,Wux,Sin,-1,0,320
+Av,Mia,Sap,-1,0,320 E90 319
+Tk,Ist,Med,-1,0,321 343 330 332
+Be,Ext,Man,-1,0,Dh4
+Mu,Ctu,Hfe,-1,0,320
+Ls,Vce,Lba,-1,0,733
+2J,Coo,Lfw,-1,0,M87
+To,Pmi,Lba,-1,0,73H
+Ua,Puj,Ewr,-1,0,753 739
+Tg,Bkk,Arn,-1,0,773
+St,Tfs,Erf,-1,0,73G
+Tu,Ams,Tun,-1,0,319 736
+Ab,Jer,Str,-1,0,Dh4
+Cz,Urc,Kwe,-1,0,73G
+W9,Aky,Rgn,-1,0,At7
+Tw,Tae,Cju,-1,0,737
+Qf,Per,Zne,-1,0,73H
+Cz,Xmn,Csx,-1,0,320
+Ac,Yyz,Ccc,-1,0,319
+N3,Jbq,Aua,-1,0,J32
+Dl,Sjc,Slc,-1,0,738
+Ze,Nrt,Icn,-1,0,738
+Cg,Gur,Lsa,-1,0,Dh8
+O6,Bsb,Ssa,-1,0,318
+Sj,Mlg,Cgk,-1,0,733
+5J,Dpl,Mnl,-1,0,320 319
+O6,Mcz,Ssa,-1,0,320
+Ua,Msn,Ord,Y,0,Erj Cr7 Crj
+Jj,Aju,Gru,-1,0,320
+Li,Anu,Bgi,-1,0,At4 At7
+Ei,Dub,Man,-1,0,320
+Fr,Vlc,Ibz,-1,0,738
+Hv,Psa,Ams,-1,0,73H
+Us,Clt,Tri,-1,0,Crj
+Et,Add,Enu,-1,0,752
+Vb,Trc,Cun,-1,0,733
+Z8,Asu,Vvi,-1,0,Crj
+Ca,Dlc,Ntg,Y,0,738
+A5,Ory,Rdz,-1,0,At7
+Ad,For,Slz,-1,0,E95
+Wf,Sdn,Sog,-1,0,Dh1
+9U,Fco,Kiv,-1,0,E90
+Ba,Ctu,Lhr,-1,0,777 788
+Ge,Khh,Foc,-1,0,320
+Tg,Cph,Man,Y,0,320 717 Cr9
+Qr,Muc,Doh,-1,0,788
+Aa,Yvr,Lax,-1,0,737
+Fb,Sof,Bru,-1,0,E90 319
+Sj,Mdc,Tte,-1,0,735
+7R,Krr,Vog,-1,0,Cr2
+Mu,Lhw,Tna,-1,0,320
+Aa,Pvg,Lax,-1,0,777
+P6,Yqb,Yhu,-1,0,J32 Pl2
+Oz,Mfm,Icn,-1,0,321
+Qf,Lax,Ppt,-1,0,343
+Jj,Cgr,Cgh,-1,0,320
+Kl,Atl,Lft,Y,0,Crj
+To,Vrn,Lgw,-1,0,75W 73H
+Ua,Iad,Fll,-1,0,752
+7H,Auk,Emk,Y,0,Cna
+Bc,Ngo,Cts,-1,0,737
+Ey,Cok,Auh,-1,0,320
+Us,Cho,Phl,Y,0,Dh8
+Qf,Sgn,Syd,Y,0,330
+Fr,Fmm,Snn,-1,0,738
+Ua,Mry,Lax,Y,0,Crj
+Ws,Yyc,Ykf,-1,0,73W
+Mh,Lhr,Hel,Y,0,320 321
+8R,Eqs,Crd,-1,0,Sf3
+Dl,Anc,Slc,-1,0,738
+U6,Oss,Dme,-1,0,320
+Su,Vvo,Icn,-1,0,319 737
+Us,Clt,Fco,-1,0,333
+Ad,Cwb,Cnf,-1,0,E95
+Aa,Phl,Sfo,-1,0,320 321
+Ir,Kih,Syz,-1,0,M82
+Fr,Kun,Alc,-1,0,738
+Jd,Hld,Pek,-1,0,319
+Ba,Lhr,Sea,-1,0,744 777
+G9,Nag,Shj,-1,0,320
+Ux,Svq,Pmi,-1,0,738
+Mh,Kul,Cgk,-1,0,738
+8E,Eli,Ome,-1,0,Cnc
+Fr,Brs,Ace,-1,0,738
+Mu,Tao,She,-1,0,320
+Hq,Lgg,Rho,-1,0,320
+Iy,Ade,Jed,-1,0,320 330
+Us,Mht,Phl,-1,0,Crj
+Nh,Kix,Wux,Y,0,738
+Ks,Stg,Anc,-1,0,Sf3
+Fr,Dub,Bva,-1,0,738
+Y4,Mty,Tij,-1,0,320 319
+Ab,Lgw,Szg,Y,0,734
+5H,Edl,Nbo,-1,0,Dh8 Crj
+Mf,Hgh,Xmn,-1,0,737
+G4,Cha,Pie,-1,0,320
+Nz,Dud,Akl,-1,0,320
+Ai,Amd,Del,-1,0,319 321
+Fi,Yyz,Kef,-1,0,75W
+Dl,Sea,Lhr,-1,0,76W
+Az,Fco,Muc,-1,0,319 32S
+Kq,Nbo,Gbe,-1,0,E90
+Fr,Fue,Mad,-1,0,738
+Dl,Bos,Lax,-1,0,73H
+Wn,Abq,Las,-1,0,73C 73W 733
+Ab,Lpa,Zrh,-1,0,320
+S2,Bom,Bhu,Y,0,73G
+Jl,Hkg,Cts,Y,0,744
+Dl,Jfk,Dub,-1,0,752
+Kr,Oss,Ovb,-1,0,320
+Dl,Lga,Eyw,-1,0,73W
+Us,Lax,Pbi,Y,0,738
+G4,Sfb,Abe,-1,0,320 M80
+Fr,Lpl,Trf,-1,0,738
+Fr,Boh,Ace,-1,0,738
+Ac,Ewr,Yvr,-1,0,319
+Pg,Mdl,Bkk,-1,0,320
+Aa,Lax,Yyz,-1,0,738
+Cz,Ctu,Urc,-1,0,738 320 752
+Pr,Dpl,Mnl,-1,0,320
+Jl,Kij,Pvg,Y,0,319
+Kl,Dab,Atl,Y,0,M90 M88
+U2,Edi,Krk,-1,0,319 320
+Tj,Ack,Hpn,-1,0,Pl2
+Cm,Pty,Bga,-1,0,E90
+Pr,Bxu,Mnl,-1,0,320
+Dl,Bwi,Cvg,-1,0,Erj
+Ba,Fao,Lgw,-1,0,319 734 320
+Ux,Lpa,Svq,-1,0,738
+Ib,Mad,Tlv,-1,0,319
+Aa,Sea,Lax,Y,0,737
+Y4,Mex,Sjd,-1,0,320
+Ts,Yyt,Mco,Y,0,737
+Ua,Sat,Iah,-1,0,319 739 738 73G 320
+Mj,Cok,Cmb,Y,0,320
+Mf,Syx,Foc,-1,0,737
+Hu,Hkg,Hgh,-1,0,332 320
+Us,Sjd,Dfw,-1,0,M80 M83
+U2,Tfs,Brs,-1,0,320 319
+Hx,Oka,Hkg,-1,0,332 333
+Vn,Sgn,Nrt,-1,0,330 777 321
+Zh,Pek,Hmi,Y,0,737
+Xy,Dxb,Ruh,-1,0,320
+U2,Gva,Dbv,-1,0,320
+Pc,Bru,Bjv,-1,0,738
+Zh,Bkk,Szx,-1,0,738
+W2,Por,Hel,Y,0,Sf3
+Su,Cek,Led,-1,0,319
+Ib,Flr,Pmo,-1,0,320
+W6,Rix,Bgo,-1,0,320
+B6,Fll,Bos,-1,0,320 E90
+Nz,Pbo,Per,Y,0,100
+Af,Lcy,Ams,Y,0,Ar8
+Wy,Mct,Bom,-1,0,738
+Af,Lir,Atl,Y,0,738 757
+Tg,Akl,Bkk,-1,0,777
+Cg,Mas,Lae,-1,0,Dh8
+Os,Szg,Cgn,Y,0,319
+Sc,Kwl,Xmn,-1,0,738
+Aa,Jfk,Man,-1,0,757
+G3,Cgh,Cgr,-1,0,738 73G
+To,Ory,Rak,-1,0,73H 320
+Ca,She,Het,Y,0,320
+Dl,Atl,Aby,Y,0,Crj
+Cz,Urc,Gyd,-1,0,73G
+S7,Uud,Pek,-1,0,738
+Cz,Hjj,Csx,-1,0,320
+Dd,Dmk,Sno,-1,0,738
+Ab,Gwt,Muc,-1,0,Dh4 73G
+Jl,Nrt,Han,-1,0,767
+Ca,Szx,Nng,Y,0,738
+Js,Fnj,She,-1,0,T20
+Lh,Den,Fra,-1,0,744
+Vb,Cul,Sjd,-1,0,733
+G5,Hdg,Dlc,-1,0,Cr9
+To,Nbe,Ncl,-1,0,73H
+Mh,Hkt,Pen,Y,0,At7
+2Z,Udi,Gru,-1,0,At7
+Wn,Dsm,Mdw,-1,0,73W 733
+Cz,Ctu,Nny,-1,0,E90
+Wn,Lga,Mdw,-1,0,73H 73W
+Fr,Wro,Agp,-1,0,738
+U2,Lis,Bsl,-1,0,319
+Wn,San,Den,-1,0,73W 73H 738
+Ky,Cgo,Kmg,-1,0,73G
+U2,Alc,Ltn,-1,0,319 320
+U2,Vce,Ltn,-1,0,319
+Fo,Riy,Ade,-1,0,Cr7
+Yi,Stt,Dom,-1,0,Cnt
+Ts,Yyz,Mbj,Y,0,738 310
+Ua,Grb,Ord,Y,0,Erj Crj
+Tcx,Mla,Man,-1,0,321
+Hu,Got,Txl,-1,0,73G
+Be,Bhx,Dus,-1,0,E75 Dh4 E95
+Gs,Urc,Aku,-1,0,320 E90
+Zh,Hgh,Ctu,Y,0,320
+Qf,Pqq,Syd,Y,0,Dh3 Dh4 Dh8
+A3,Ath,Bud,-1,0,320
+Dy,Dbv,Arn,-1,0,73H
+6E,Maa,Ccu,-1,0,320
+Dn,Bru,Dkr,-1,0,333
+Ua,Den,Okc,Y,0,Dh4 Erj Crj
+La,Bhi,Aep,Y,0,320
+F7,Cdg,Lej,-1,0,S20
+Oz,Khh,Icn,-1,0,M90
+La,Cun,Lim,Y,0,320
+Fr,Ork,Wro,-1,0,738
+Sq,Sin,Vtz,Y,0,319
+Ib,Lcg,Bio,Y,0,320
+Pd,Ytz,Bos,-1,0,Dh4
+Nk,Dtw,Myr,-1,0,320
+Ba,Lhr,Gyd,-1,0,321
+Dy,Krn,Arn,-1,0,73H
+Un,Ssh,Dme,-1,0,772
+Ib,Ord,Dub,Y,0,763
+U2,Edi,Lys,-1,0,319
+Ab,Str,Olb,-1,0,320 738 73G
+2N,Ajr,Lyc,-1,0,Atp
+Mu,Jhg,Ljg,-1,0,737
+Aa,Msp,Phx,-1,0,320 321 319
+Lh,Fra,Nce,-1,0,32A 319 321 320
+Br,Tpe,Han,Y,0,M90 321
+Dl,Lax,Oak,Y,0,Cr7
+De,Pad,Tfs,-1,0,32S
+Ab,Str,Beg,-1,0,733 319
+Av,Sal,Uio,-1,0,320 319
+Ca,Pvg,Lax,Y,0,788
+Hv,Lis,Ein,-1,0,73H 73W
+B6,Bos,Fll,-1,0,320 E90
+Ay,Arn,Txl,Y,0,321 738 320 319
+Am,Mex,Mam,Y,0,Erj
+Wn,Sat,Bna,-1,0,73C 73W
+U6,Svx,Klv,-1,0,320
+Ua,Ctg,Mia,Y,0,318 320
+Ac,Bru,Yul,-1,0,333
+Un,Vko,Fra,-1,0,738 73G
+Cz,Csx,Szx,-1,0,752 320
+Ua,Xna,Ewr,Y,0,Erj
+Ca,Jjn,Can,Y,0,320
+Us,Mia,Czm,-1,0,738
+Ba,Lux,Lhr,-1,0,319
+B6,San,Jfk,-1,0,320
+Bc,Isg,Oka,-1,0,737
+Hv,Ams,Dlm,-1,0,73H
+Az,Cph,Cdg,Y,0,318 319 320
+Or,Cur,Ams,-1,0,763
+Dl,Msp,Lhr,-1,0,764
+Ak,Kch,Sin,-1,0,320
+Fz,Mle,Dwc,-1,0,73H
+U2,Ory,Tls,-1,0,320 319
+Aa,Ilm,Dca,Y,0,Crj
+Lh,Hre,Add,Y,0,788
+Dl,Bos,Lga,Y,0,E75
+Dl,Roc,Atl,-1,0,M90 M88
+Jq,Hkt,Syd,-1,0,788
+Mf,Pek,Hgh,-1,0,737
+3F,Ktb,Hyl,-1,0,Dhp
+Ca,Pek,Dus,-1,0,330
+Ei,Dub,Muc,-1,0,320
+Fr,Lis,Mrs,-1,0,738
+U6,Tas,Goj,-1,0,320
+Ua,Dfw,Ord,-1,0,319
+Ov,Spu,Tll,-1,0,Cr9
+Sk,Arn,Ist,-1,0,738 321
+Jq,Syd,Ayq,-1,0,320
+Ib,Mad,Lin,-1,0,321 320
+Qf,Get,Per,Y,0,Dh4
+Wx,Rtm,Lcy,-1,0,F50 Ar8
+9E,Atl,Fwa,-1,0,Crj
+Us,Sav,Clt,-1,0,Cr7 Crj
+Mu,Tyn,Kmg,-1,0,737 738
+Dl,Jfk,Fra,-1,0,76W
+Yj,Heh,Mdl,-1,0,At7
+Zk,Pga,Igm,-1,0,Be1
+Cx,Hkg,Xmn,-1,0,333 321 320
+Af,Lys,Bru,Y,0,Er4
+Su,Led,Arn,-1,0,319
+Jt,Djj,Nbx,Y,0,Atr
+Ib,Mad,Mia,-1,0,333 346
+Lh,Dus,Ham,-1,0,320 319
+Sk,Arn,Skg,-1,0,736
+Nh,Sdj,Fuk,-1,0,735
+Cx,Hkg,Ctu,-1,0,320 333 321
+Aa,Sfo,Phx,-1,0,321 320
+Cz,Csx,Foc,Y,0,737
+Hu,Lyi,Szx,-1,0,738
+Zi,Ory,Bja,-1,0,320 319
+Ua,Bdl,Iad,-1,0,738 319 320
+Cz,Ljg,Hgh,Y,0,737
+5N,Arh,Led,-1,0,735
+Ua,Iah,Bog,-1,0,752 73G
+Ca,Tlv,Pek,Y,0,763
+Sn,Fra,Bru,Y,0,E90 735 733 Cr7 319 321 320 32A
+Gs,Fug,Wnz,-1,0,E90
+Fr,Mrs,Chq,-1,0,738
+J5,Jnu,Hns,-1,0,Cnc Cna
+Gs,Tsn,Bav,-1,0,Erj
+Hu,Pek,Ala,-1,0,738
+Gs,Rlk,Xiy,-1,0,E90
+Ek,Dmm,Dxb,-1,0,332 773 772
+Wn,Eyw,Tpa,-1,0,73W
+Az,Cdg,Abz,Y,0,E70
+Dl,Atl,Roa,-1,0,319
+Vb,Pxm,Mex,-1,0,733
+Ke,Kwj,Cju,-1,0,739 73H
+To,Cfu,Brs,-1,0,75W
+B7,Dlc,Tpe,Y,0,332 321 738
+Sg,Ccu,Blr,-1,0,737
+Ad,Rbr,Pvh,-1,0,E90 E95
+Fr,Alc,Gse,-1,0,738
+Dl,Slc,Rks,Y,0,Em2
+Am,Bwi,Atl,Y,0,M88 757 73W 320
+Cz,Cgo,Bav,-1,0,738
+B6,Tpa,Sju,-1,0,320
+A5,Lde,Ory,-1,0,Cr7
+Us,Dca,Msp,Y,0,E70 E75
+Ey,Fco,Zrh,Y,0,Emj
+Wn,Sat,Stl,-1,0,733 73C 73W
+Mu,Urc,Htn,Y,0,738
+Sk,Txl,Osl,-1,0,738 73W 73G
+Ak,Bki,Kch,-1,0,320
+Ou,Spu,Lhr,-1,0,320
+En,Vrn,Fra,-1,0,E95
+J4,Uyl,Krt,-1,0,737
+P6,Yqb,Ybc,-1,0,J32
+Sn,Bru,Lin,-1,0,Ar1 319
+Ua,Fra,Lax,Y,0,74H
+Zh,Ntg,Can,-1,0,320
+4E,Mcg,Tct,-1,0,Pag
+Xq,Ada,Adb,-1,0,738
+Sv,Krt,Ruh,-1,0,772
+Cz,Csx,Icn,-1,0,320
+Pg,Kul,Hkt,Y,0,738
+U2,Muc,Lgw,-1,0,319 320
+Wn,Sfo,Sna,-1,0,73W
+Jp,Cdg,Lju,-1,0,Cr9 319 Cr2
+4O,Tlc,Las,-1,0,320
+Fz,Ufa,Dwc,-1,0,73H
+Fr,Dub,Alc,-1,0,738
+Us,Tyr,Dfw,-1,0,Erd Er4
+Nl,Auh,Lhe,-1,0,734
+Mu,Hgh,Tao,-1,0,320
+Ad,Cgb,Bvh,-1,0,At7
+Ac,Yyz,Gru,-1,0,763
+Eq,Lim,Uio,-1,0,E70
+Us,Ord,Msn,Y,0,Er4 Erd
+Nz,Pvg,Mel,Y,0,330
+Dy,Vce,Arn,-1,0,73H
+Fl,Atl,Mci,-1,0,717
+Fl,San,Sat,Y,0,73W
+Ua,Iah,Sna,-1,0,738 320 319 73G
+Vy,Bcn,Mla,-1,0,320
+Ep,Lrr,Dxb,-1,0,100 At7
+Be,Nce,Sou,-1,0,E95
+Jq,Drw,Mel,-1,0,320
+Jj,Lim,Cuz,Y,0,319
+Fo,Dmm,Ade,-1,0,Cr7
+Wn,Mdw,Ont,-1,0,73W
+S7,Ovb,Lbd,-1,0,320
+Hu,Bru,Bio,-1,0,319
+Wn,Mdw,Aus,-1,0,73W
+Us,Muc,Ath,Y,0,320
+Fm,Sha,Foc,-1,0,738
+Aa,Yyz,Las,-1,0,737
+G9,Shj,Syz,-1,0,320
+Sk,Vaa,Arn,Y,0,At7 S20
+Wn,Bos,Bna,-1,0,73W 73C
+Wf,Svg,Fro,-1,0,Dh3
+Ad,Rec,Mcz,-1,0,At7
+Cz,Xmn,Ctu,Y,0,737
+Dl,Cle,Msp,-1,0,Erj
+Q8,Pnr,Lbv,-1,0,733
+Uj,Kbp,Sip,-1,0,320
+Fr,Vlc,Tsf,-1,0,738
+7I,Clt,Cur,-1,0,M83
+Cz,Mxz,Zuh,-1,0,E90
+Ux,Jfk,Mad,-1,0,332
+Lh,Ist,Fra,-1,0,321
+Sd,Shj,Auh,-1,0,Ab6
+Ca,Can,Xiy,Y,0,738 320
+3U,Ctu,Hkg,-1,0,320
+9W,Bom,Cok,-1,0,73H
+7F,Yxp,Yvm,-1,0,At4
+Lh,Ewr,Bcn,Y,0,752
+Tf,Sdl,Bma,Y,0,S20
+Y9,Kih,Dxb,-1,0,M80 F50
+Lx,Vlc,Zrh,-1,0,321 320
+Ms,Kwi,Hbe,-1,0,320 738
+Lh,Txl,Zrh,Y,0,321 320
+Aa,Amm,Jfk,Y,0,340 330
+Pc,Saw,Doh,-1,0,738
+Hu,Hgh,Cgo,-1,0,738
+Ib,Bud,Lhr,Y,0,320
+Ek,Wlg,Syd,Y,0,73H
+B2,Led,Msq,-1,0,Crj E75 E95
+Sa,Hds,Cpt,Y,0,Cr2
+Y9,Thr,Tbz,-1,0,Tu3
+Jj,Cnf,Mia,-1,0,763
+Ey,Dac,Auh,-1,0,77W
+G4,Bli,Psp,-1,0,M80
+Gq,Cfu,Pvk,-1,0,J41
+Aa,Lhr,Lys,Y,0,319
+S7,Feg,Ovb,-1,0,320
+Ky,Nng,Ljg,-1,0,73G
+Cz,Tas,Urc,-1,0,752
+Lr,Tmu,Sjo,Y,0,Cna
+G3,For,Eze,-1,0,738
+Vy,Fco,Agp,-1,0,320
+Oz,Ngb,Icn,-1,0,321
+3R,Tiv,Dme,-1,0,Su9 73G
+Hu,Ctu,Auh,Y,0,332
+Od,Lgk,Kul,-1,0,739
+To,Agp,Cwl,-1,0,73H
+Cz,Nkg,Szx,-1,0,320 321
+6E,Trv,Blr,-1,0,320
+Cz,Kwe,Zuh,-1,0,73G 738
+Ts,Yul,Mbj,Y,0,738
+U6,Oss,Cek,-1,0,320
+3U,Sgn,Nng,-1,0,320
+Sb,Wls,Nan,-1,0,320
+Cu,Hav,Pmv,-1,0,A58
+Az,Cdg,Arn,Y,0,320 321 32A 319
+Lx,Bru,Lin,-1,0,Ar1 319
+G9,Shj,Kwi,-1,0,320
+Az,Atl,Oma,Y,0,M88 M90
+Sg,Jlr,Bom,-1,0,Dh8
+Aa,Mad,Jfk,-1,0,757 330 340
+U2,Cph,Man,-1,0,319 320
+Us,Ont,Dfw,-1,0,M80 M83
+Wx,Ory,Lcy,-1,0,F50
+Ai,Bom,Goi,-1,0,321
+Sa,Jnb,Nbo,-1,0,320 319
+Nz,Npe,Wlg,Y,0,Dh3 At7
+To,Fue,Lgw,-1,0,73H
+Ws,Yvr,Yxs,-1,0,73W Dh4
+Av,Jfk,Bog,-1,0,319 330
+Y7,Kja,Thx,-1,0,At5
+Hg,Ayt,Vie,-1,0,321
+Nh,Bkk,Cei,Y,0,734
+Ly,Fra,Tlv,-1,0,738
+A5,Mpl,Lys,-1,0,At5
+S7,Khv,Pkc,-1,0,320
+Fr,Lba,Tfs,-1,0,738
+Ab,Ham,Alc,-1,0,320
+Ib,Bcn,Cwl,Y,0,320
+Ab,Fue,Zrh,-1,0,320
+Wn,Las,Bur,-1,0,73W 73H
+Jj,Aju,Ssa,-1,0,319
+G3,Gru,Jfk,-1,0,764
+Us,Dca,Yhz,Y,0,Crj
+Nh,Ist,Nrt,Y,0,332 77W
+Os,Fra,Szg,Y,0,100
+Sv,Lko,Jed,-1,0,333
+Be,Man,Iom,-1,0,Dh4 E75
+To,Gla,Bjv,-1,0,75W
+Ab,Zrh,Fnc,-1,0,320
+9C,Kwl,Sjw,-1,0,320
+Sc,Xmn,Hgh,-1,0,738
+Os,Vie,Tgd,Y,0,100 Dh4
+Ah,Aae,Orn,-1,0,Atr
+Kl,Atl,Slc,Y,0,763 757
+Sn,Rob,Bru,-1,0,333
+As,Sea,Bur,-1,0,73H 73G
+Gs,Hak,Aqg,-1,0,E90
+Lh,Fra,Lys,-1,0,32A 319 733 321 735
+Un,Tas,Vko,-1,0,772
+Sa,Pnr,Coo,-1,0,320 319
+S4,Lis,Lhr,Y,0,319 321
+At,Lgw,Rak,-1,0,738
+W6,Cta,Otp,-1,0,320
+Mu,Nkg,Tao,-1,0,321 320
+Us,Clt,Buf,-1,0,319 320 734
+Wn,Tpa,Phx,-1,0,73W
+Jd,Yih,Pek,-1,0,320
+5N,Tos,Mmk,Y,0,An4
+Ay,Dme,Hel,-1,0,319
+Gr,Brs,Gci,-1,0,At7
+Pc,Sjj,Saw,-1,0,738 320
+Ca,Ctu,Tyn,-1,0,321
+Gl,Llu,Jju,-1,0,Bh2
+Af,Rtm,Lcy,-1,0,F50 Ar8
+Ts,Yqb,Puj,-1,0,310
+Mu,Pvg,Fuk,-1,0,738 320
+Sc,Hfe,Csx,-1,0,738
+Mu,Kmg,Cmb,-1,0,737
+Us,Sna,Dfw,-1,0,738
+Ab,Hel,Zrh,-1,0,319
+W6,Bva,Wro,-1,0,320
+Hy,Nvi,Led,-1,0,320
+Tv,Ctu,Lzy,-1,0,319
+Pg,Lpt,Bkk,-1,0,At7
+Qg,Sub,Bdj,-1,0,320
+To,Lys,Ath,-1,0,73H
+Fr,Scq,Bcn,-1,0,738
+Q9,Yna,Zgs,-1,0,Beh
+Tg,Bom,Bkk,-1,0,777
+4U,Cgn,Prg,-1,0,319 320 Crj
+Ws,Lir,Yyz,-1,0,73W
+8E,Wbb,Ome,-1,0,Pa2
+Cg,Rab,Kvg,-1,0,Dh8
+Cz,Ngb,Csx,-1,0,738
+8B,Icn,Hkt,-1,0,763
+Ms,Cai,Ruh,-1,0,738 333 330
+Af,Cdg,Auh,Y,0,346
+Mf,Sha,Jjn,-1,0,737
+Ua,Fra,Iah,-1,0,763
+Ci,Tpe,Sgn,-1,0,343 333
+Os,Grz,Muc,Y,0,Cr9 Cr7
+As,Dca,Pdx,-1,0,73H
+Kl,Sit,Jnu,Y,0,737
+Wf,Bjf,Bvg,-1,0,Dh1 Dh2
+Pc,Saw,Vas,-1,0,320 738
+Us,Rdu,Mia,-1,0,738
+Dl,Atl,Man,-1,0,76W
+Dy,Tfs,Ham,-1,0,73H
+Cz,Wuh,Tna,-1,0,73G
+X3,Fra,Kgs,-1,0,73H
+As,Bil,Sea,Y,0,Dh4
+G3,Gru,The,-1,0,738
+Ga,Dps,Per,-1,0,738
+Cz,Nkg,Het,Y,0,737
+Tk,Eze,Gru,-1,0,343
+Ws,Yyz,Nas,-1,0,73W
+B6,Lgb,Iad,-1,0,320
+Az,Mxp,Ruh,Y,0,320
+Mu,Sha,Yih,Y,0,737
+Wn,Bwi,Las,-1,0,73H 73W 738
+S3,Pty,Ccs,-1,0,757
+Tu,Mrs,Dje,-1,0,736
+Cz,Hfe,Xmn,-1,0,733
+Hu,Cgo,Syx,-1,0,738
+Yt,Tmi,Ktm,-1,0,J41
+Fl,Tpa,Cak,-1,0,717
+Dl,Puj,Jfk,-1,0,738
+Iy,Sah,Bah,Y,0,320
+Pr,Mnl,Sfo,-1,0,744
+La,Lim,Cun,Y,0,320
+Y7,Khv,Vvo,-1,0,738 733
+Qr,Osl,Doh,-1,0,788
+Us,Rno,Phx,-1,0,319 320
+Oa,Chq,Skg,Y,0,320
+Bm,Tls,Bre,-1,0,Er4
+Mh,Pen,Lgk,Y,0,At7
+Ha,Sfo,Las,Y,0,320
+Jl,Fuk,Sgn,Y,0,321
+Ln,Mra,Ben,-1,0,320 Cr9
+Bu,Mjm,Fih,-1,0,100 320
+Us,Phx,Psp,Y,0,Cr9 Crj
+Sz,Ala,Dyu,-1,0,737
+7F,Yut,Ybk,-1,0,At4
+St,Bre,Lej,-1,0,319
+Zk,Aty,Msp,-1,0,Be1
+Ac,Yul,Yuy,Y,0,Dh1
+Qf,Bme,Kta,Y,0,E70
+7H,Otz,Ian,Y,0,Cnc
+Mu,Sha,Hkg,-1,0,332
+Lx,Zrh,Prg,-1,0,Ar1
+Mu,Dlc,Xiy,-1,0,320
+Su,Svo,Ham,-1,0,738 321
+Dl,Rno,Slc,-1,0,73H
+Tk,Tlv,Saw,-1,0,738
+G9,Shj,Bom,-1,0,320
+W9,Mdl,Rgn,-1,0,At7
+Sv,Abt,Dmm,-1,0,320
+Ca,Iad,Pek,Y,0,777
+Et,Jij,Dir,-1,0,Dh8
+Mu,Sha,Khn,-1,0,320
+Qz,Pen,Sub,-1,0,320
+Fd,Kkc,Dmk,-1,0,320
+Zh,Csx,Wux,-1,0,738
+Mu,Cgo,Inc,-1,0,320
+Cz,Xiy,Uyn,-1,0,319 320
+G4,Pie,Far,-1,0,M80
+Vn,Hkg,Han,-1,0,321
+Jj,Jfk,Gig,-1,0,763
+Zh,Hak,Nkg,-1,0,320
+Ai,Ktm,Vns,-1,0,321
+Pk,Isb,Bcn,-1,0,310
+Aa,Mia,Tgu,-1,0,757
+De,Ayt,Lej,-1,0,757
+La,Tbp,Lim,-1,0,320
+Yc,Svx,Noj,-1,0,Cr2
+Fz,Dxb,Bah,-1,0,73H
+Be,Bhx,Jer,-1,0,Dh4 E75
+Ul,Mle,Hri,-1,0,320
+7H,Fai,Fyu,Y,0,Be1
+4O,Tlc,Aca,-1,0,320
+Ls,Ace,Lba,-1,0,75W 752
+Ba,Anu,Lgw,-1,0,777
+Fr,Boh,Ibz,-1,0,738
+Ac,Ewr,Yul,Y,0,Crj
+Jj,Bsb,Nat,-1,0,320
+Su,Lbd,Led,-1,0,320
+Fr,Svq,Pmo,-1,0,738
+Vy,Ory,Pmi,-1,0,320
+Fr,Trs,Aho,-1,0,738
+Aa,Mia,Ewr,-1,0,738 757
+Kl,Ams,Tpe,-1,0,777
+Dl,Ord,Msp,-1,0,M88 M90 320 319
+4U,Cgn,Her,-1,0,320 319
+Mu,Foc,Pvg,-1,0,321 320 319
+Lx,Bos,Zrh,-1,0,333
+Nl,Jed,Lhe,-1,0,333 320
+Pc,Saw,Adb,-1,0,738 320
+Ua,Xna,Iah,Y,0,Erj Crj
+Cx,Hkg,Bkk,-1,0,772 333 343 77W 773
+Vn,Sgn,Fuk,-1,0,321
+Fm,Sha,Txn,-1,0,737
+3M,Fll,Fpo,-1,0,Sf3
+Ca,Xmn,Cgo,Y,0,738
+E2,Fna,Rob,-1,0,M82
+Nl,Khi,Pew,-1,0,734 320
+Ek,Ist,Dxb,-1,0,77W
+W3,Lhr,Los,Y,0,332
+Fl,Bwi,Slc,Y,0,73W
+Ab,Lpa,Vie,-1,0,320
+Lx,Bru,Zrh,-1,0,Ar1 320
+Nk,Pbg,Myr,-1,0,320
+Fr,Tsf,Ein,-1,0,738
+Et,Add,Jij,-1,0,Dh8
+Ab,Mjt,Dus,-1,0,738
+Vs,Man,Mco,-1,0,744
+Ib,Pmi,Dme,Y,0,320
+Mf,Xmn,Txn,-1,0,737
+Pr,Tac,Mnl,-1,0,320
+A2,Jkh,Skg,-1,0,143
+Ua,Pni,Ksa,-1,0,738
+Aa,Lih,Phx,-1,0,757
+Ca,Tpe,Pvg,-1,0,744 340 77W
+Cm,Pty,Tpa,-1,0,73G 738
+Ts,Tls,Yul,-1,0,310
+W6,Ktw,Ltn,-1,0,320
+Ab,Str,Agp,-1,0,320 738
+Un,Dme,Vra,-1,0,763
+Ua,Stt,Iad,-1,0,73G
+W6,Beg,Bva,-1,0,320
+Lo,Waw,Rze,Y,0,Dh4 E95 E75
+4U,Cgn,Xry,-1,0,319
+Pg,Nrt,Bkk,-1,0,767
+Us,Mia,Tpa,-1,0,738
+Wn,Hrl,Sat,-1,0,735
+Km,Svo,Mla,-1,0,319
+To,Man,Vce,-1,0,73H
+Dl,Msp,Abq,-1,0,320
+Us,Clt,Hsv,-1,0,Crj Cr7
+Pr,Mnl,Cyp,-1,0,Dh4
+Ln,Tip,Hbe,-1,0,320 330
+Ps,Kbp,Fco,-1,0,73R 73N 734
+Dl,Dtw,Sav,Y,0,Cr7
+Et,Amh,Add,-1,0,Dh8
+5J,Mnl,Bwn,-1,0,320
+Us,Dfw,Msn,-1,0,Er4
+V7,Trn,Pmo,-1,0,717
+Nhg,Poa,Sra,-1,0,L4T
+Ua,Kgl,Nbo,Y,0,332
+Ac,Bna,Yyz,Y,0,Crj
+Et,Dkr,Cky,Y,0,73W
+Fr,Fez,Nte,-1,0,738
+9W,Doh,Del,-1,0,73H
+De,Pmi,Muc,-1,0,32S 757
+Az,Svo,Vce,Y,0,321 320
+Ay,Cta,Txl,Y,0,321 320 738
+8R,Crd,Nqn,-1,0,Sf3
+Ns,Hak,Wnz,-1,0,738
+Su,Tas,Mrv,-1,0,319
+Mu,Pek,Spn,-1,0,333
+Az,Cdg,Man,Y,0,320 321
+V7,Vce,Lmp,-1,0,717
+Px,Wbm,Pom,-1,0,Dh8
+Sc,Sjw,Inc,-1,0,738
+Sk,Boo,Osl,-1,0,738 73G 736 73H 73W
+Zb,Bhx,Lei,-1,0,321
+Ly,Dme,Tlv,-1,0,739 763 738 73G 772
+Ios,Gdx,Yks,-1,0,An4
+Us,Cou,Ord,Y,0,Er4 Erd
+Sz,Lbd,Led,-1,0,737
+V7,Vce,Pmo,-1,0,717
+W6,Waw,Dsa,-1,0,320
+Cz,Tyn,Csx,-1,0,738
+Fy,Kua,Sin,-1,0,At7
+Tp,Lis,Prg,-1,0,319 320
+9C,Hgh,She,-1,0,320
+Ae,Csx,Tpe,Y,0,320 738 333
+K3,Cga,Klw,-1,0,Dhp
+Aa,Tul,Mia,-1,0,738
+Nh,Cts,Pek,Y,0,738
+Kl,Atl,Abq,Y,0,757
+R7,Ccs,Bla,-1,0,M80 Dc9
+Wn,Bna,Mci,-1,0,73W 73C 733
+Kl,Lga,Atl,Y,0,757 M88 73W
+Us,Swf,Phl,Y,0,Crj Dh8
+Hs,Ble,Orb,-1,0,J32
+Be,Ext,Bhd,-1,0,Dh4
+3U,Ckg,Kmg,-1,0,319 320
+Ad,Phb,For,-1,0,At7
+Ua,Ewr,Orf,Y,0,Dh3 Dh4 Dh2
+Pn,Lhw,Urc,-1,0,320
+Md,Bkk,Tnr,-1,0,343
+Ay,Hel,Ham,-1,0,319
+To,Mir,Nte,-1,0,73H
+Ad,Aax,Poj,-1,0,At4
+Ua,Nrt,Hnl,-1,0,744
+3U,Szx,Wxn,-1,0,319
+Lj,Vte,Icn,-1,0,738
+Te,Sdu,Cfb,-1,0,L4T
+S7,Nrt,Vvo,-1,0,320
+Ad,For,Bel,-1,0,E95
+Jj,Ssa,Gru,-1,0,321 320
+Qf,Syd,Scl,-1,0,744
+Vs,Las,Lgw,-1,0,744
+Mh,Sin,Bki,Y,0,320 319
+U2,Gva,Nte,-1,0,319 320
+Aa,Sjc,Lih,Y,0,737
+Ua,Rsw,Eyw,Y,0,Sf3
+Ac,Yul,Yqm,Y,0,Dh4
+Be,Gci,Sou,-1,0,Dh4
+Jl,Kix,Hel,Y,0,333
+Gf,Doh,Bah,-1,0,320
+Ba,Lhr,Fco,-1,0,767 321 320 319
+W6,Bgo,Vno,-1,0,320
+Pc,Saw,Mad,-1,0,738
+Ua,Den,Bfl,Y,0,Crj
+Qg,Bpn,Sub,-1,0,320
+Mi,Sin,Kmg,-1,0,320 319
+Vt,Moz,Rfp,-1,0,Atr
+Ib,Bcn,Fez,Y,0,320
+Ab,Zrh,Ace,-1,0,320
+U2,Cdg,Tls,-1,0,319 320
+W6,Gdn,Gla,-1,0,320
+Vy,Fco,Cta,-1,0,320
+Wb,Kgl,Mba,-1,0,738
+Mh,Kul,Bki,-1,0,734 738
+Lh,Bri,Muc,Y,0,E95
+U2,Ham,Lgw,-1,0,319
+G4,Sfb,Hts,-1,0,M80
+Lg,Pmi,Lux,-1,0,73H 73W
+Tk,Saw,Van,Y,0,738
+8E,Eli,Glv,-1,0,Pa2
+Ab,Ace,Fue,-1,0,321 320
+B7,Hgh,Rmq,-1,0,M90
+Ef,Mxv,Uln,-1,0,Dh4
+Fr,Ryg,Vno,-1,0,738
+Af,Sou,Bes,Y,0,Dh4
+Wn,Bur,Den,-1,0,73W
+Fr,Mad,Lpa,-1,0,738
+3M,Mcn,Atl,-1,0,Sf3
+Sv,Ccj,Jed,-1,0,772
+Af,Lrh,Sou,Y,0,Dh4
+Mj,Bah,Cmb,-1,0,320 321
+Jj,The,Gru,-1,0,320
+Fr,Dub,Lis,-1,0,738
+Fr,Psa,Tps,-1,0,738
+Dl,Las,Lgw,Y,0,744
+9R,Uib,Eoh,-1,0,At5
+Mh,Kul,Dwc,-1,0,333
+Sa,Jnb,Wvb,Y,0,Cr7
+U2,Lgw,Ace,-1,0,320
+Ay,Mad,Fra,Y,0,32A
+Cz,Wuh,Bkk,-1,0,73G
+U2,Man,Prg,-1,0,319
+Fz,Dwc,Ods,-1,0,73H
+Sk,Cph,Lpi,-1,0,At7
+Us,Far,Ord,Y,0,Er4
+Nk,San,Pdx,-1,0,319
+Sk,Waw,Cph,-1,0,Cr9 319
+Fd,Dmk,Rgn,-1,0,320
+Nhg,Pet,Poa,-1,0,L4T
+Vs,Tul,Atl,Y,0,Cr7 Cr9 M88
+Ca,Tao,Cgo,Y,0,738
+Nk,Las,Iah,-1,0,319
+Ir,Mhd,Ifn,-1,0,320 M82 100
+Ac,Msy,Den,Y,0,320 738 Erj
+Sv,Mct,Med,-1,0,320
+4U,Bri,Cgn,-1,0,319
+Ac,Yul,Dca,Y,0,Crj
+Wn,Lga,Atl,-1,0,73W
+Gs,Het,Dsn,-1,0,Erj
+Fr,Dub,Vlc,-1,0,738
+Lh,Gru,Muc,-1,0,346
+Kn,Nay,Bfj,-1,0,737
+Br,Tpe,Can,-1,0,332 744
+Ua,Ccs,Iah,-1,0,739
+Hu,Tyn,Sha,-1,0,738
+Fo,Ahb,Ade,-1,0,Cr7
+Fm,Sha,Wuh,-1,0,738
+Fj,Vli,Hir,-1,0,73W
+Vn,Sgn,Tbb,Y,0,At7
+Kl,Dal,Atl,Y,0,Crj
+Ac,Yyc,Fra,-1,0,77W
+Az,Fco,Bio,-1,0,320 32S
+Fr,Chq,Fmm,-1,0,738
+Aa,Dca,Mem,Y,0,Crj
+As,Ogg,San,-1,0,73H
+F9,Ttn,Mdw,-1,0,319
+Fr,Wro,Brs,-1,0,738
+Az,Ams,Cph,Y,0,737 E90
+Us,Pit,Jfk,-1,0,Er4
+A3,Ath,Mad,-1,0,320
+De,Lej,Lpa,-1,0,321
+Fr,Agp,Bts,-1,0,738
+Tr,Mfm,Sin,-1,0,320
+Ms,Ath,Her,-1,0,Dh4
+B6,Las,Bos,-1,0,320
+Ws,Yyc,Yeg,-1,0,Dh4 73W 736
+Us,Hts,Clt,Y,0,Dh8 Dh3
+Qf,Dxb,Lgw,Y,0,77W 388
+Pg,Bkk,Lpt,-1,0,At7
+To,Bvc,Lgw,-1,0,75W
+Ua,Ewr,Man,-1,0,752
+S2,Ccu,Ixa,Y,0,At7
+W6,Waw,Ein,-1,0,320
+C8,Ssg,Dla,-1,0,146
+Nz,Iue,Akl,-1,0,320
+Ca,Xmn,Nkg,-1,0,738
+Os,Tfs,Vie,Y,0,320
+Rj,Vie,Muc,Y,0,E90
+8E,Kka,Skk,-1,0,Cnc
+Mf,Nng,Xmn,-1,0,737
+Aa,Mfe,Dfw,-1,0,M83 M80 319
+5J,Can,Mnl,-1,0,320
+B6,Nas,Mco,-1,0,E90
+Az,Blq,Fco,-1,0,319 E75
+4U,Her,Str,-1,0,319
+Ly,Jfk,Tlv,-1,0,744
+Ua,Gsp,Iah,Y,0,Erj
+Ts,Yyc,Fra,-1,0,330
+Mk,Rrg,Mru,-1,0,At7
+4U,Her,Dus,-1,0,319
+Pw,Dar,Ebb,-1,0,Crj
+Sv,Khi,Jed,-1,0,772
+Ls,Bjv,Ncl,-1,0,752
+Fr,Stn,Kir,-1,0,738
+Nz,Gdl,Lax,Y,0,319
+Ab,Led,Txl,-1,0,73G 738
+Sv,Alg,Med,-1,0,Ab6
+Gl,Juv,Upk,-1,0,Bh2
+Jj,Mia,Bel,-1,0,763
+Vs,Atl,Jfk,Y,0,319 752 738 M88 73H
+Hu,Mxp,Bru,Y,0,319 Ar1
+Fr,Bcn,Ndr,-1,0,738
+Qh,Fru,Tas,-1,0,735
+Cz,Zuh,Kmg,-1,0,738
+Ad,Stm,Tmt,-1,0,At7
+Ws,Yyz,Atl,Y,0,Cr9 Cr7
+Us,Phx,Ogg,-1,0,752
+3U,Tna,Kmg,-1,0,320
+V0,Ccs,Lfr,-1,0,Crj
+Zh,Tna,Szx,-1,0,738
+Pk,Lhr,Isb,-1,0,777
+Tcx,Cun,Man,-1,0,332
+Fr,Tps,Wmi,-1,0,738
+Va,Chc,Ool,-1,0,320
+Wn,Atl,Bos,-1,0,73W
+Dy,Fco,Lgw,-1,0,73H
+Ws,Yhm,Yqm,-1,0,73W
+Sc,Jnz,Tao,-1,0,Cr7
+Nh,Itm,Kmi,-1,0,737 735 Dh8
+Aa,Phx,Den,-1,0,320 321
+Ka,Oka,Hkg,-1,0,333
+Ho,Sha,Cih,-1,0,320
+Lh,Muc,Txl,-1,0,320 321 319
+Sg,Vtz,Maa,-1,0,Dh8
+W3,Bni,Abv,-1,0,Cr9 73G
+Sc,Tao,Ynj,-1,0,737
+Cz,Can,Wuh,-1,0,738 73G
+Ab,Dje,Dus,-1,0,321
+Qf,Dxb,Syd,-1,0,388
+Mu,Kmg,Xic,-1,0,737
+Dl,Atl,Bda,-1,0,319
+Cz,Khn,Xmn,Y,0,737
+Mj,Maa,Cmb,Y,0,332 320 343
+Az,Tgm,Otp,Y,0,At5
+Oz,Khv,Icn,-1,0,321
+Cz,Kwl,Foc,Y,0,737
+Am,Mex,Eze,-1,0,763 762 777
+Y8,Gru,Udi,-1,0,Em2
+U2,Fao,Ory,-1,0,320
+Mu,Pvg,Xmn,-1,0,320
+2P,Mnl,Klo,-1,0,320
+Dl,Lga,Mco,-1,0,319 M88 738
+Nx,Icn,Mfm,-1,0,321 319 320
+Qf,Dxb,Bne,Y,0,388
+Kl,Acc,Ams,-1,0,330
+Aa,Lax,Bdl,-1,0,738
+Tk,Bkk,Sgn,-1,0,77W
+A5,Gva,Biq,-1,0,Cr7
+Cz,Urc,Ala,-1,0,73G
+Us,Dfw,Mia,-1,0,738 763 757
+Fr,Bts,Ltn,-1,0,738
+Aa,Cho,Clt,-1,0,Dh8 Crj Dh3
+Fr,Fue,Dub,-1,0,738
+4U,Sjj,Txl,-1,0,319
+Ms,Vie,Cai,-1,0,738 E70
+Dl,Mex,Ord,-1,0,737
+6E,Ccu,Hyd,-1,0,320
+Lh,Mla,Cta,Y,0,319
+Dy,Bgo,Arn,-1,0,73H
+Ei,Dub,Fra,-1,0,320
+Vs,Dtw,Atl,Y,0,M88 73H 757 320 738 739
+Lh,Muc,Pmo,Y,0,E95 319
+8L,Tsn,Ctu,-1,0,737
+Va,Atl,Sjd,Y,0,73W 738
+G3,Poa,Mvd,-1,0,738
+Km,Gla,Mla,-1,0,320
+Dy,Ory,Cph,-1,0,73H
+Mh,Kul,Nrt,-1,0,772
+Vn,Din,Han,-1,0,At7
+Nt,Fnc,Lpa,-1,0,Dh4
+Pc,Saw,Lwo,-1,0,738
+Aa,Clt,Sby,-1,0,Dh8
+Tk,Dla,Lbv,-1,0,739
+Ah,Qsf,Ory,-1,0,738
+Ab,Haj,Pmi,-1,0,738 321
+Fr,Mrs,Ein,-1,0,738
+Cm,Pei,Bog,-1,0,320 318 At7 319
+Gs,Khn,Kow,-1,0,Erj
+Tom,Nap,Man,-1,0,73H
+Hu,Ord,Pvg,Y,0,777
+6H,Tlv,Fco,-1,0,320
+Lh,Otp,Muc,-1,0,320 321
+Ac,Ccc,Yyz,-1,0,319
+Av,Eze,Lim,-1,0,330 321
+Jl,Bkk,Cnx,Y,0,747 320 773
+Qr,Bgw,Doh,-1,0,320
+Ay,Bne,Hkg,-1,0,333
+Ir,Gbt,Zah,-1,0,100
+Ca,Dlc,Szx,Y,0,738
+4U,Str,Skg,-1,0,319 320
+Ua,Ywg,Ord,Y,0,Crj Erj
+8L,Wuh,Tao,-1,0,321
+Hg,Hrg,Szg,-1,0,320 321
+Ai,Nag,Rpr,-1,0,319
+Dy,Trd,Dbv,-1,0,73H
+Hu,Pek,Pus,Y,0,333
+Ca,Hgh,She,Y,0,320
+6E,Ccu,Ixa,-1,0,320
+Aa,Mel,Syd,Y,0,737 763
+Ab,Fue,Vie,-1,0,321
+Kl,Lun,Ams,-1,0,330
+Kl,Sat,Atl,Y,0,757 M90
+Ly,Lhr,Tlv,-1,0,772 763
+S7,Dme,Goa,-1,0,320
+Ah,Cfk,Mrs,-1,0,736
+Fr,Ltn,Rze,-1,0,738
+Su,Svo,Vce,-1,0,321 320
+S7,Msq,Dme,-1,0,735
+Fd,Mfm,Dmk,-1,0,320
+6E,Ccu,Pnq,-1,0,320
+Jd,Pek,Jxa,-1,0,319
+Us,Mia,Sjo,-1,0,757 738
+Os,Tia,Vie,Y,0,100 320
+Af,Lil,Mrs,-1,0,319
+Wb,Dla,Bzv,-1,0,73W
+Ci,Tpe,Szx,-1,0,744
+G4,Cvg,Pgd,-1,0,M80
+2Z,Uba,Gru,-1,0,At7
+Dy,Osl,Bts,-1,0,73H 733
+9N,Sqs,Bze,-1,0,Cnc
+Sx,Brn,Ham,-1,0,D38
+Nh,Lhr,Waw,Y,0,734
+Af,Atl,Vld,Y,0,Crj
+Ca,Tyn,Szx,-1,0,738
+Ib,Xry,Mad,Y,0,Crk Cr2 Cr9
+3M,Tpa,Fll,-1,0,Sf3
+Fr,Gro,Poz,-1,0,738
+Os,Led,Vie,Y,0,100 F70
+Mu,Hnd,Pek,Y,0,767
+Ro,Otp,Kiv,-1,0,At7
+At,Eun,Cmn,-1,0,738
+Wn,Las,Sjc,-1,0,73W 73H 73C 733
+Vn,Cdg,Han,-1,0,777
+R3,Dyu,Ikt,-1,0,73W
+U2,Lis,Bod,-1,0,319
+Nz,Syd,Wlg,-1,0,320
+Fr,Ace,Bgy,-1,0,738
+Jj,Gig,For,-1,0,320 321
+Mu,Ljg,Tcz,-1,0,733
+Us,Dfw,Yeg,-1,0,319
+To,Dlm,Man,-1,0,76W 73H 75W
+Oc,Fuj,Ngs,-1,0,Dh8
+Cz,Kwl,Ngb,-1,0,738
+Tk,Ist,Aer,-1,0,321
+Us,Mdt,Bos,Y,0,Dh8
+Jl,Itm,Kij,Y,0,E70
+Tom,Stn,Ace,-1,0,73H
+Ca,Urc,Lhw,Y,0,738
+Zl,Adl,Bhq,-1,0,Sf3
+Aa,Akl,Ppt,Y,0,340
+Aa,Dca,Yhz,Y,0,Crj
+To,Bhx,Tfs,-1,0,73H 75W
+S2,Blr,Del,Y,0,73H 739 738
+Fo,Tai,Jib,-1,0,Cr7
+Fi,Svg,Kef,-1,0,75W
+Ba,Fao,Lhr,-1,0,320
+Tk,Bio,Ist,-1,0,320
+Tp,Mxp,Opo,Y,0,Er4 100
+Xq,Lnz,Ayt,-1,0,738
+Ae,Tpe,Ngb,Y,0,320 333 343
+Dd,Ubp,Dmk,-1,0,738
+Ad,Cwb,Igu,-1,0,E95
+Ns,Tsn,Cgo,-1,0,738
+Ay,Rdu,Lhr,Y,0,763
+W9,Thl,Rgn,-1,0,At7
+V7,Sxb,Pmo,-1,0,717
+Pk,Mhd,Uet,-1,0,737
+Kq,Znz,Dar,Y,0,At7
+Pb,Yhz,Ycl,-1,0,Sfb
+Pm,Ace,Lpa,-1,0,At4
+Md,Tnr,Dza,-1,0,At7 733
+Ey,Auh,Bom,-1,0,320 346
+G5,Nng,Wuz,-1,0,Cr9
+Cx,Cgo,Hkg,-1,0,320
+Fl,Mht,Tpa,Y,0,73W
+Af,Iah,Cdg,-1,0,77W
+Tt,Syd,Mel,-1,0,320
+X3,Dus,Rho,-1,0,73H
+Ux,Ccs,Mad,-1,0,332
+Ab,Pmi,Cgn,-1,0,738 332 320
+Tom,Man,Lpa,-1,0,75W
+W6,Dtm,Beg,-1,0,320
+Ek,Dxb,Ist,-1,0,77W
+Et,Fra,Lis,Y,0,321 32A
+To,Lba,Dlm,-1,0,73H
+Ho,Csx,Sha,-1,0,320
+Nk,Myr,Dfw,-1,0,319
+Fr,Lig,Lba,-1,0,738
+Kl,Myy,Kch,Y,0,737
+Fw,Sdj,Kmq,-1,0,Crj
+U2,Lgw,Lei,-1,0,319 320
+Zb,Her,Lba,-1,0,320
+Fr,Aar,Agp,-1,0,738
+Mu,Can,Hgh,-1,0,320
+U6,Rov,Dme,-1,0,320
+Su,Led,Tjm,-1,0,319
+Xy,Kwi,Ruh,-1,0,320
+Aa,Gdl,Lax,Y,0,737
+Aa,Dfw,Bjx,-1,0,319
+Va,Per,Kgi,Y,0,E90 100
+Ca,Het,Tsn,Y,0,738
+Ca,Pek,Tyn,-1,0,738
+Zk,Svc,Phx,-1,0,Be1
+Hy,Nma,Led,-1,0,752
+Gl,Agm,Tqi,-1,0,Bh2
+Dy,Lax,Cph,Y,0,788
+Os,Osl,Vie,Y,0,319 100 F70
+9U,Ist,Kiv,-1,0,320 E90
+Lh,Hnd,Fra,-1,0,744
+Fl,Den,Lax,Y,0,73W 73C
+Va,Jnb,Cpt,Y,0,772
+Mi,Usm,Sin,-1,0,319
+U2,Man,Tlv,-1,0,320
+Us,Ord,Hsv,-1,0,Er4
+B6,Iad,Bos,-1,0,E90
+Ib,Mad,Orn,-1,0,319
+Dt,Sdd,Vpe,-1,0,73G
+Ua,Msn,Ewr,Y,0,Erj
+Ho,Ljg,Wuh,-1,0,320
+Az,Fco,Suf,-1,0,32S 321 320 319
+Ib,Fco,Prg,Y,0,320
+Nh,Gum,Ngo,Y,0,73G 738
+Af,Cdg,Fra,-1,0,318
+Af,Tus,Atl,Y,0,M90
+Mu,Mnl,Pvg,-1,0,320
+Qf,Rok,Mky,Y,0,Dh4 Dh3
+U2,Cdg,Ltn,-1,0,319 320
+Ua,Lax,Iah,-1,0,739 320 738 319 752 753
+Zb,Man,Vce,-1,0,320 321
+Mu,Jgn,Lhw,-1,0,320
+Ah,Azr,Orn,-1,0,Atr
+Zh,Uyn,Ctu,Y,0,319
+Us,Ord,Mco,-1,0,738 M83 M80
+Am,Mex,Cpe,Y,0,Emj E70
+Yo,Nce,Mcm,-1,0,Nde
+F7,Zrh,Gva,-1,0,S20
+Ib,Lhr,Waw,Y,0,320
+Ju,Beg,Saw,-1,0,733
+Nh,Pek,Nrt,-1,0,763
+Ua,Yyz,Ewr,Y,0,E75 Erj Dh4 Cra E90
+Ab,Gwt,Dus,-1,0,Dh4 319 738 320
+Qr,Jfk,Ord,Y,0,738
+Si,Gva,Jer,-1,0,At5 At4
+Lg,Lux,Dus,Y,0,Cnj
+3S,Cur,Sdq,-1,0,At5
+Rj,Ssh,Amm,-1,0,320
+U2,Olb,Gva,-1,0,319 320
+Vs,Ord,Lhr,-1,0,343
+Jl,Kmi,Hnd,-1,0,73H
+De,Lca,Dus,-1,0,757
+Us,Dfw,Phx,-1,0,321 738 M80 319 320 M83
+Ca,Sdj,Pvg,-1,0,738
+Kl,Myr,Atl,Y,0,Cr7 Cr9 717 319
+Aa,Phx,Dca,-1,0,757 320 319
+Pk,Tuk,Shj,-1,0,Atr
+Ms,Jnb,Cai,-1,0,330
+Q2,Mle,Fvm,-1,0,Dh2
+Zl,Syd,Wga,-1,0,Sf3
+Us,Dfw,Bro,Y,0,Crj Er4
+Af,Lcy,Flr,Y,0,Ar8
+Az,Led,Fco,-1,0,32S 319
+W6,Dsa,Wro,-1,0,320
+Fg,Kbl,Kdh,-1,0,734
+Nu,Isg,Oka,-1,0,734
+Cz,Icn,Hrb,-1,0,320
+Fr,Mrs,Stn,-1,0,738
+Be,Haj,Bhx,-1,0,E75
+Ua,Bze,Ewr,-1,0,738
+Jd,Sjw,Hrb,-1,0,320
+Dl,Mty,Cuu,-1,0,Er4
+Hu,Wua,Xiy,-1,0,738
+Gs,Swa,Cgo,-1,0,E90
+Sk,Bgo,Cph,-1,0,320 319 Cr9 321 717 73G 73W 738 736
+Mh,Kul,Tgg,-1,0,734 738
+Ci,Akl,Syd,-1,0,333
+Af,Cun,Atl,Y,0,757 320 M88
+Fl,Lit,Stl,Y,0,73W
+Fl,Chs,Bwi,Y,0,73W 73C
+Qr,Ord,Jfk,Y,0,738
+Lh,Zrh,Haj,Y,0,Ar1 100 320
+Ek,Per,Dxb,-1,0,77W
+9W,Auh,Del,-1,0,73H 320
+9W,Atq,Del,-1,0,738
+Mh,Kch,Pnk,Y,0,At7
+4U,Haj,Saw,-1,0,319
+Sa,Dur,Els,Y,0,Cr2
+Tp,Dxb,Lis,Y,0,77W
+Ay,Cph,Vie,Y,0,E90
+Lh,Fra,Jed,-1,0,333
+G4,Sfb,Dsm,-1,0,M80
+Ca,Pek,Sgn,-1,0,737
+Fl,Cak,Bos,-1,0,717
+As,Lax,Mco,Y,0,757 738
+Eu,Tna,Ctu,-1,0,319
+Dl,Lax,Tpe,Y,0,744
+9R,Bog,Czu,-1,0,At7
+Us,Dfw,Xna,-1,0,M80 Er4
+Cg,Gka,Lae,-1,0,Dh8
+Vx,Sfo,Pdx,-1,0,320
+Cz,Pek,Kmg,-1,0,321 737 333
+Zh,Pek,Tyn,Y,0,737
+Sx,Brn,Vie,-1,0,D38
+Hy,Tas,Aer,-1,0,767
+Us,Dfw,Rdu,-1,0,M80 M83 738
+Az,Cdg,Fco,-1,0,32S 321 319
+Ua,Mli,Den,Y,0,Erj
+Wn,Pvd,Mdw,-1,0,73H 73W
+Az,Pit,Atl,Y,0,M88
+Dl,Msp,Yqr,Y,0,Crj
+Lh,Ord,Cdg,Y,0,763
+Kl,Ams,Got,-1,0,Emj
+Fr,Alc,Boh,-1,0,738
+Su,Kbp,Led,-1,0,A81
+Dl,Iah,Mem,Y,0,Crj
+Wn,Ecp,Stl,-1,0,73C 73W
+Ms,Fra,Cai,-1,0,330 738
+Kl,Sju,Atl,Y,0,73H 757 753
+Wn,Tpa,Mht,-1,0,73W 73H
+Li,Pos,Slu,-1,0,At7
+Wn,Bwi,Tpa,-1,0,73C 73W 738 73H
+Lh,Muc,Mla,-1,0,319 320
+Aa,Ord,Sju,-1,0,738
+Qr,Doh,Dar,-1,0,320
+Ac,Yvr,Yxc,Y,0,Dh3
+Aa,Phx,Flg,Y,0,Crj
+Ba,Lcy,Abz,Y,0,E70 S20
+Tg,Bkk,Cmb,-1,0,320
+U2,Edi,Dlm,-1,0,320 319
+Ga,Cgk,Pnk,-1,0,738 735 Crk
+Hv,Fnc,Ams,-1,0,73H
+Fl,Sju,Ont,Y,0,73H
+Ey,Trv,Auh,-1,0,320
+Ts,Mbj,Yul,Y,0,738
+Ir,Mhd,Zah,-1,0,M82
+Fr,Aga,Crl,-1,0,738
+Ca,Csx,Pek,-1,0,321 738
+Mf,She,Tao,-1,0,737
+Cx,Hkg,Csx,-1,0,320 321
+Wn,Den,Rdu,-1,0,73W
+Zh,Xiy,Hgh,-1,0,320
+Aa,Mct,Auh,Y,0,777
+J4,Krt,Pzu,-1,0,737
+G3,Bsb,Mab,-1,0,738 73G
+Az,Fco,Cmn,-1,0,319 320 32S E90
+G4,Las,Gjt,-1,0,M80
+Kl,Gig,Ams,-1,0,777
+Mw,Koa,Jhm,-1,0,Cna
+Eo,Elq,Cai,-1,0,320
+Ua,Ord,Sat,Y,0,Cr7 E70
+Ad,Pav,Ssa,-1,0,At7
+Ho,Pvg,Cgq,-1,0,320
+Sg,Myq,Blr,-1,0,Dh8
+La,Scl,Bog,Y,0,763
+Te,Sdu,Sjk,-1,0,L4T
+Cx,Dxb,Hkg,-1,0,333
+U6,Tju,Dme,-1,0,320
+7R,Dme,Mcx,-1,0,Cr2
+Ac,Yyz,Ysj,Y,0,Dh4
+Ua,Pns,Iah,Y,0,Erj
+Az,Fsc,Mrs,-1,0,At7
+Fm,Ctu,Sha,-1,0,757 737 738
+Ty,Lif,Tgj,-1,0,Dht
+Tf,Bma,Rnb,Y,0,S20
+Yk,Fru,Kzn,-1,0,146
+Af,Lcy,Dub,Y,0,Ar8
+Ah,Alg,Nim,-1,0,738
+Sk,Ams,Arn,-1,0,717 73W 736
+Lx,Fra,Bsl,Y,0,Cr7
+Ua,Iad,Sxm,-1,0,73G
+Eq,Uio,Lim,-1,0,E70
+Lx,Gva,Lhr,-1,0,320 319
+Aa,Bgr,Phl,Y,0,E75 Crj
+Gs,Xil,Het,-1,0,Erj
+Ek,Dxb,Syd,-1,0,388
+Qg,Djb,Cgk,-1,0,320
+Aa,Iah,Dfw,-1,0,M80 M83
+Lx,Iad,Zrh,Y,0,763 764
+Ay,Muc,Hel,-1,0,319 320
+U2,Lgw,Mjv,-1,0,319 320
+Sk,Tll,Osl,Y,0,E70
+Hv,Lpa,Ein,-1,0,73H 73W
+Be,Alc,Sou,-1,0,E95
+Us,Opo,Mad,Y,0,Er4
+Ju,Bud,Beg,-1,0,At7
+Fb,Vie,Sof,-1,0,E90 319
+Ua,Pia,Ord,Y,0,Er4 Erj Crj
+9W,Bom,Sin,-1,0,73H
+Cz,Tpe,Urc,-1,0,752 333
+Us,Dfw,Mbj,-1,0,738
+2L,Bds,Zrh,-1,0,100
+Aa,Clt,Syr,-1,0,Cr9 319 320
+Kc,Ala,Dyu,-1,0,320 757
+Aa,Bpt,Dfw,Y,0,Crj Erd Er4
+Dl,Bos,Slc,-1,0,73H 738
+4U,Haj,Mxp,-1,0,319
+Ba,Mad,Dfw,Y,0,777
+Ef,Ulo,Uln,-1,0,Dh4
+Us,Ord,Bna,-1,0,Er4 Cr7
+Sv,Jed,Yyz,-1,0,777
+Ie,Hir,Mua,-1,0,Dh8 Dht
+S2,Maa,Cok,Y,0,At7 73H
+Ai,Sxr,Ixj,-1,0,320
+U2,Edi,Tfs,-1,0,320
+U6,Oss,Svx,-1,0,320
+Ux,Mad,Lgw,-1,0,738
+Zh,Tao,Ctu,Y,0,320
+Fl,Atl,Aus,-1,0,73G
+Kl,Atl,Tys,Y,0,Cr7 Crj 717 Cr9
+3O,Tng,Bcn,-1,0,320
+Va,Vli,Bne,Y,0,73H
+Jl,Jfk,Msy,Y,0,E90
+W6,Tsf,Prg,-1,0,320
+Us,Mlu,Dfw,-1,0,Er4
+Ls,Lba,Her,-1,0,75W 73H
+D7,Kul,Per,-1,0,330
+Dy,Lgw,Cph,-1,0,73H
+Dl,Jfk,Sea,-1,0,752 757
+Cz,Wuh,Urc,-1,0,320 738 73G
+Cz,Khn,Xiy,Y,0,737
+Aa,Mco,Clt,-1,0,321 757 767 319
+M6,Stm,Orx,-1,0,Em2
+Ps,Kbp,Kgd,-1,0,73G 735
+Ac,Yvr,Yow,-1,0,320 763
+Ac,Yow,Yhz,-1,0,E90
+G3,Mgf,Cwb,-1,0,73G 738
+Zb,Man,Aga,-1,0,320
+Tn,Akl,Bne,Y,0,73H
+A3,Her,Bru,-1,0,320
+X3,Ace,Str,-1,0,73H
+Tk,Ist,Fra,-1,0,320 330 321 343 332
+Fm,Kwl,Pvg,-1,0,738 757
+Sq,Sin,Ngo,-1,0,333
+Us,Mem,Dca,-1,0,Crj
+Vn,Kul,Han,-1,0,321
+F9,Ddc,Lbl,Y,0,Be1
+U2,Lpl,Cdg,-1,0,319 320
+Vs,Edi,Lhr,Y,0,320
+Wn,Elp,Las,-1,0,735 73W 73C
+Mf,Foc,Sin,-1,0,738
+Sn,Rix,Bru,Y,0,735 Dh4
+Cm,Scl,Pty,-1,0,738
+Ua,Ewr,Dfw,-1,0,319 73G 738
+Zh,Sha,Tsn,Y,0,737
+Us,Hpn,Phl,Y,0,Dh8 Crj
+Ts,Yyz,Cun,-1,0,330 310
+S9,Acc,Kms,-1,0,143
+Mm,Isg,Kix,-1,0,320
+Pk,Isb,Cdg,-1,0,777
+Lh,Ord,Fra,-1,0,74H 744
+Vh,Vln,Pmv,-1,0,M80
+Tv,Ctu,Xnn,-1,0,319
+Ca,Tna,Urc,Y,0,738
+U2,Gva,Bio,-1,0,319
+As,Sea,Bil,Y,0,Dh4
+Os,Cgn,Vie,Y,0,319 100 F70 320
+9C,She,Lya,-1,0,320
+At,Cmn,Fna,-1,0,73G
+Dl,Atl,Bwi,-1,0,M88 M90 757 320 73W
+Ab,Her,Lnz,-1,0,321
+Eu,Ctu,Pvg,-1,0,319
+Pc,Ada,Saw,-1,0,738 320
+Us,Phl,Slc,-1,0,320
+Wn,Hou,Ecp,-1,0,73C 733 73W
+Dy,Alc,Aes,-1,0,73H
+Hu,Ckg,Xnn,-1,0,738
+Ls,Vce,Man,-1,0,733 738
+Ux,Mad,Puj,-1,0,333
+Ls,Zth,Man,-1,0,738
+Us,Phl,Bgm,Y,0,Dh8
+Fg,Dxb,Kdh,-1,0,734
+Fr,Hhn,Vol,-1,0,738
+Ac,Lhr,Yyc,-1,0,333
+Az,Atl,Gso,Y,0,73H M88 320 738
+Ua,Den,Sea,-1,0,320 738 739
+Bk,Tsn,Het,-1,0,Yn7
+Rz,Sjo,Glf,-1,0,Cna
+Aa,Phx,Dfw,-1,0,M80 M83 319 738 321 320
+Tp,Lis,Arn,-1,0,320
+9M,Yvr,Ywl,-1,0,Beh
+Ke,She,Icn,-1,0,773 332 73H 744
+Ab,Beg,Fra,-1,0,319
+Us,Cmh,Ord,-1,0,Er4
+Sj,Tte,Mdc,-1,0,735
+Ib,Vie,Bcn,Y,0,320 321
+Ua,Iad,Pvd,Y,0,Dh4 Cr7 Dh2 Crj
+Ba,Lhr,Str,-1,0,319 321 320
+Tu,Zrh,Dje,-1,0,736 32A
+3U,Wux,Ctu,-1,0,320
+Yn,Yts,Ymo,-1,0,Dh1 Bec
+W2,Fmo,Zrh,-1,0,J32
+Hv,Agp,Ein,-1,0,73H 73W
+Os,Mla,Vie,Y,0,319 320
+Q2,Kdm,Mle,-1,0,Dh3 Dh2
+Az,Mxp,Mrs,-1,0,At7
+Aa,Sea,Pek,Y,0,787
+Ly,Zrh,Tlv,-1,0,738 73G
+Ac,Den,Yyc,Y,0,Crj 738 320 739
+Q8,Coo,Lbv,-1,0,732 733
+Aa,Jfk,Cun,-1,0,738
+Jj,Bel,Gru,-1,0,320
+Ke,Gmp,Kix,-1,0,772
+To,Tfs,Gla,-1,0,75W
+Ro,Skg,Otp,-1,0,At5
+At,Cmn,Ams,-1,0,738
+Su,Svo,Gva,-1,0,320 319
+Kl,Lhr,Sea,Y,0,76W
+Dy,Rak,Cph,-1,0,73H
+G3,For,Slz,-1,0,738
+Us,Skg,Ath,Y,0,320
+Sc,Tao,Kix,Y,0,763
+Dy,Ume,Alc,-1,0,73H
+Sg,Hyd,Cjb,-1,0,Dh8
+Gf,Dwc,Bah,-1,0,320 321
+Lo,Lju,Waw,-1,0,Cr2
+Am,Pty,Pap,Y,0,73G 738
+De,Fue,Lej,-1,0,321
+Ou,Spu,Muc,-1,0,Dh4
+Cx,Bkk,Khi,-1,0,333
+Dy,Cph,Krp,-1,0,At7
+Aa,Lax,Pdx,Y,0,737
+Vs,Bos,Atl,Y,0,M90 757 M88 320 319
+Fl,Hou,Gsp,Y,0,73W
+Un,Vko,Pek,-1,0,763
+Fl,Mco,Jan,Y,0,73W
+Ux,Scq,Lpa,-1,0,738
+6E,Ktm,Del,-1,0,320
+Ws,Ydf,Yyz,-1,0,73W
+Ek,Bom,Dxb,-1,0,77W 772 73H 332 773
+Qs,Prg,Nce,-1,0,319
+Ls,Mjv,Ncl,-1,0,733 73C
+F9,Den,Ind,-1,0,320 319
+At,Ory,Fez,-1,0,738
+V0,Ccs,Cum,-1,0,E90
+4U,Dus,Pmi,-1,0,320
+U6,Rmi,Dme,-1,0,321
+Kl,Atl,Mht,Y,0,320
+Av,Cuc,Mde,-1,0,318
+Wn,Sjc,Den,-1,0,73W
+Cz,Urc,Pek,-1,0,73G 777 321 330 752 738
+Aa,Pbi,Dfw,-1,0,738
+Pk,Auh,Isb,-1,0,310
+Un,Yks,Dme,-1,0,763 T20
+5H,Myd,Nbo,-1,0,Dh8
+Ua,Sju,Iah,-1,0,738
+Ba,Zrh,Lhr,-1,0,320 319 321
+Ua,Sal,Sfo,Y,0,319 320
+La,Pmc,Puq,-1,0,320
+Ka,Hkg,Bki,-1,0,321 320
+Az,Orn,Fco,-1,0,E75
+To,Mru,Lgw,-1,0,788
+Dl,Dtw,Yow,Y,0,Crj
+Dl,Tpa,Lax,-1,0,320
+La,Puj,Mia,-1,0,763
+Dl,Phx,Atl,-1,0,757 739
+Mu,Tpe,Ynz,-1,0,320
+Hx,Hgh,Hkg,-1,0,320 332
+Hg,Lpa,Szg,-1,0,320
+Aa,Hyd,Lhr,Y,0,767
+Wn,Atl,Bdl,Y,0,717
+De,Mco,Gla,Y,0,330
+Mu,Pvg,Tae,-1,0,321 320
+Ei,Mad,Dub,-1,0,320
+Bx,Csx,Pus,-1,0,321
+Wy,Khs,Mct,-1,0,Atr
+Ua,Mex,Ord,-1,0,320
+6E,Goi,Hyd,-1,0,320
+Sk,Osl,Zrh,-1,0,73G 738 736
+Dl,Yul,Lga,-1,0,Erj Cr7
+Ob,Tja,Vvi,-1,0,733
+7R,Dme,Grv,-1,0,Cr2
+Mj,Cmb,Sin,Y,0,320
+Ns,Cgo,Tsn,-1,0,738
+Us,Ist,Iad,Y,0,330
+Us,Phx,Dtw,-1,0,321 319
+H2,Scl,Cjc,-1,0,319 320
+Fr,Bcn,Pmi,-1,0,738
+Af,Atl,Jfk,Y,0,319 752 M88 738
+Ei,Dub,Nce,-1,0,320
+Wf,Mqn,Trd,-1,0,Dh1 Dh2
+Fr,Fmm,Opo,-1,0,738
+5J,Zam,Dvo,-1,0,319
+Cx,Jfk,Yvr,-1,0,77W
+Ca,Icn,Ckg,-1,0,763 321
+Cu,Hav,Nas,-1,0,At4
+U2,Ltn,Fao,-1,0,319 320
+Wn,Mci,Dal,-1,0,73W 733
+Vn,Auh,Sgn,Y,0,332
+Fr,Tps,Gro,-1,0,738
+Aa,San,Bos,Y,0,737
+Wn,Oak,Pdx,-1,0,733 73W 73C
+Mu,Lxa,Ctu,-1,0,319
+Ku,Kwi,Dxb,-1,0,320 310 Ab6
+4Y,Kkh,Kwk,-1,0,Cna
+Fr,Tps,Kun,-1,0,738
+Sa,Mpm,Jnb,-1,0,319 Er4 Dh4
+Su,Sxf,Svo,-1,0,320 321 319 738
+Ua,Iad,Lax,-1,0,753 320 319 752 739 738
+Gs,Foc,Hfe,-1,0,E90
+Va,Auh,Sin,Y,0,332
+Us,Xna,Dfw,-1,0,Er4 M80
+Ua,Hsv,Iad,Y,0,Erj Crj
+Ca,Rgn,Pek,-1,0,738
+G3,Slz,Gru,-1,0,738
+De,Las,Man,Y,0,330
+Oz,Icn,Khn,-1,0,321
+Or,Aua,Cur,-1,0,763
+Kl,Lhr,Atl,Y,0,764 77L 76W
+Gs,She,Dat,-1,0,E90
+H2,Scl,Anf,-1,0,319 320
+Eu,Ctu,Lyg,-1,0,319
+Fl,Mci,Msy,Y,0,73W
+Sv,Jed,Gbt,-1,0,320
+Pr,Mnl,Syd,-1,0,343
+Ua,Pit,Ewr,-1,0,Dh4
+Aa,San,Ord,-1,0,738
+Ua,Pos,Ewr,-1,0,738
+As,Lws,Sea,Y,0,Dh4
+Aa,Phl,Clt,-1,0,757 321 E90 737 767 332 319 320
+Ib,Bcn,Osl,Y,0,320
+G5,Jgn,Inc,-1,0,Cr2
+Cz,Dat,Cih,-1,0,320
+Dl,Nrt,Ror,-1,0,752
+Gs,Hak,Txn,-1,0,E90
+At,Nsi,Cmn,-1,0,738
+Am,Mex,Slw,Y,0,Erj
+Hu,Can,Urc,-1,0,738
+Ay,Gva,Opo,Y,0,319
+S7,Kbp,Ovb,-1,0,735
+Eu,Syx,Ctu,-1,0,319
+Xq,Ayt,Cgn,-1,0,738
+2I,Lim,Huu,-1,0,141
+Un,Vra,Dme,-1,0,763
+Bg,Dac,Ktm,-1,0,313
+St,Erf,Lpa,-1,0,73G
+6E,Cok,Bom,-1,0,320
+Aa,Sts,San,Y,0,Dh4
+Cz,Urc,Sjw,-1,0,320 319
+Fr,Vlc,Scq,-1,0,738
+Hu,Tsn,Sha,-1,0,738
+Sn,Nbo,Bru,-1,0,332
+Us,Phx,Oma,-1,0,319
+Jt,Amq,Cgk,-1,0,739
+4U,Jmk,Cgn,-1,0,319
+Tt,Bne,Adl,-1,0,320
+Lh,Muc,Poz,-1,0,Cr7 Cr9
+Aa,Nan,Lax,Y,0,330
+Ay,Lhr,Phl,-1,0,777 767
+Vx,Las,Jfk,-1,0,320
+Lg,Lux,Dub,-1,0,Dh4
+Dl,Nrt,Lax,-1,0,744
+Dl,Nrt,Jfk,-1,0,744
+Mh,Kul,Xmn,-1,0,738
+3H,Yul,Ygl,-1,0,73M
+Af,Cdg,Lju,-1,0,E70
+Un,Ped,Led,-1,0,733
+Us,Dfw,Bna,-1,0,738 M80 M83
+U6,Dyu,Cek,-1,0,320
+Jd,Syx,Sjw,-1,0,320
+Wn,Bna,Pit,-1,0,73C 733
+Eu,Ctu,Kmg,-1,0,319
+Ab,Txl,Scn,-1,0,73G 320
+Ib,Ibz,Bio,Y,0,320
+Fr,Sxf,Dub,-1,0,738
+Cz,Cgq,Het,-1,0,319 320
+Et,Add,Amh,-1,0,Dh8
+Px,Pom,Bua,-1,0,100
+Hn,Kdh,Kbl,-1,0,Cr2
+Ua,Ord,Dca,-1,0,320 319 738 73G 752
+Tp,Lis,Hor,-1,0,319 320
+Tk,Nim,Oua,-1,0,739
+Ib,Agp,Ovd,Y,0,320
+Ig,Olb,Cdg,-1,0,M80 320
+Sc,Tna,Tpe,-1,0,738
+7H,Nme,Ook,Y,0,Cna
+Us,Clt,Oma,Y,0,Cr9
+Ab,Ibz,Fdh,-1,0,320
+Us,Phl,Gso,Y,0,Crj E75
+G9,Dme,Shj,-1,0,320
+Cm,Pty,Cuc,Y,0,E90
+Tg,Bkk,Maa,-1,0,333
+Nh,Cgk,Nrt,-1,0,763 777
+4U,Spu,Cgn,-1,0,319
+Us,Dfw,Ogg,-1,0,763
+Kl,Ams,Lcy,Y,0,Arj
+To,Man,Kgs,-1,0,73H
+Fg,Kdh,Kbl,-1,0,734
+Se,Lpa,Cdg,-1,0,738
+Ua,Grr,Iah,Y,0,Erj
+Qv,Vte,Sin,-1,0,320
+Ca,Hgh,Xiy,-1,0,319 320
+Qf,Knx,Bme,Y,0,E70
+Ib,Pos,Uvf,Y,0,777
+Dl,Pih,Slc,Y,0,Crj Em2
+4U,Fao,Str,-1,0,319 320
+Qv,Vte,Lxg,-1,0,At7
+Qf,Ruh,Dxb,Y,0,773 772
+Ix,Mct,Ixe,-1,0,738
+Mu,Pvg,Hmi,-1,0,320
+Fr,Stn,Luz,-1,0,738
+Jj,Gig,Slz,-1,0,320
+Ua,Tgu,Iah,-1,0,73G
+Jj,Bsb,Fln,-1,0,320
+Nh,Axt,Cts,Y,0,Dh8
+Dl,Tys,Dtw,Y,0,Crj
+Ci,Tpe,Rgn,-1,0,738
+Fr,Opo,Dle,-1,0,738
+Lh,Sea,Fra,-1,0,333 343
+U2,Cmn,Mxp,-1,0,320 319
+At,Cmn,Pnr,-1,0,738
+Ua,Rob,Bru,Y,0,333
+Az,Pmo,Nap,Y,0,E75
+Fl,Dal,Sfo,Y,0,73W
+O6,Cgb,Cgr,-1,0,100
+Gs,Jic,Lhw,-1,0,Erj
+G4,Las,Atw,-1,0,M80
+Su,Blq,Svo,-1,0,320
+Cz,Kwe,Can,-1,0,738
+W6,Dtm,Skp,-1,0,320
+Ib,Bio,Txl,Y,0,320
+U2,Lil,Tls,-1,0,319
+Fr,Alc,Wmi,-1,0,738
+Ac,Las,Yvr,-1,0,319
+Yc,Nym,Ufa,-1,0,Cr2
+U6,Mrv,Dxb,-1,0,320
+Us,Lax,Aus,-1,0,M83 738
+Pk,Mux,Shj,-1,0,737 73H
+Zh,Ckg,Szx,-1,0,738 739
+Us,Bos,Lax,-1,0,738 757
+B6,Azs,Jfk,-1,0,320
+Od,Jhb,Szb,-1,0,At7
+Yc,Dme,Noj,-1,0,735
+Fr,Suf,Blq,-1,0,738
+X3,Str,Ace,-1,0,73H
+Su,Tlv,Rov,-1,0,319
+9M,Yll,Yyc,-1,0,Beh
+5J,Tac,Mnl,-1,0,320
+Ws,Yyz,Cun,-1,0,73H 73W
+Pc,Ayt,Ada,-1,0,738
+Jq,Mel,Hnl,-1,0,332
+Ar,Aep,Irj,Y,0,E90
+Ad,Poa,Ria,-1,0,At7
+Az,Abj,Cdg,Y,0,772
+To,Bhx,Pmi,-1,0,75W
+Ho,Bhy,Szx,-1,0,320
+9W,Bru,Yyz,-1,0,332 333
+Q6,Auu,Cns,-1,0,Dh1
+Dl,Sin,Nrt,-1,0,777 76W
+Zl,Mya,Mim,-1,0,Sf3
+Kl,Atl,Sgf,Y,0,Crj Cr9
+Os,Vie,Nrt,-1,0,772
+Wn,Mdw,Hou,-1,0,73W 73H
+5J,Mfm,Mnl,-1,0,319
+Nh,Myj,Icn,Y,0,321
+3H,Ypj,Ykg,-1,0,Dht Dh8
+Nz,Sfo,Akl,-1,0,772 744
+Uu,Dza,Hah,-1,0,738
+Su,Mla,Svo,-1,0,319
+9W,Del,Bkk,-1,0,73H
+Av,Sjo,Clt,-1,0,319
+9U,Otp,Kiv,-1,0,Em2
+Kl,Sdf,Atl,Y,0,M88
+Mh,Kch,Bki,-1,0,738
+Fr,Agp,Pmi,-1,0,738
+Vy,Bcn,Vll,-1,0,320
+Nh,Icn,Fsz,Y,0,320
+Ke,Ngo,Cju,-1,0,73H
+Ib,Scq,Agp,Y,0,320
+F7,Pmo,Lmp,Y,0,At7
+Hu,Hrb,Tna,-1,0,738
+Hv,Fao,Rtm,-1,0,73H 73W
+Nk,San,Sjd,-1,0,319
+Ah,Ist,Czl,-1,0,738
+Ps,Mad,Kbp,-1,0,738 73G
+Tg,Cei,Bkk,-1,0,734
+Zh,Bpx,Ctu,Y,0,319
+Wn,San,Mci,-1,0,73W 738
+Hy,Nma,Dme,-1,0,752 320
+Ba,Man,Got,Y,0,Frj
+Ls,Fco,Man,-1,0,73H 733
+Vs,Muc,Man,Y,0,77W
+Et,Add,Oua,-1,0,752
+Zb,Lba,Lca,-1,0,320
+Hu,Kwe,Can,-1,0,738
+Ba,Lcy,Dus,-1,0,Ar8 E70
+W6,Mmx,Gdn,-1,0,320
+Qg,Bpn,Dps,-1,0,320
+Su,Svo,Sip,-1,0,320 321
+Aa,Tus,Lax,Y,0,Crj
+Lj,Icn,Crk,-1,0,738
+A9,Cdg,Tbs,-1,0,735
+Aa,Vij,Sju,-1,0,Dht
+Vs,Lhr,Bom,-1,0,333
+Et,Mba,Jro,-1,0,Dh8
+U2,Pmo,Fco,-1,0,319
+Ha,Kix,Hnl,-1,0,332
+Dv,Bon,Cur,-1,0,Bni
+Fr,Ace,Ltn,-1,0,738
+3U,Ckg,Dyg,-1,0,320
+Aa,Clt,Czm,-1,0,319
+Et,Sin,Adl,-1,0,333
+Sn,Kgl,Ebb,-1,0,332
+Zb,Lgw,Pmi,-1,0,321 752
+G4,Fwa,Pgd,-1,0,M80
+Af,Vie,Lys,Y,0,Dh4 F70
+Ie,Vao,Hir,-1,0,Dht Bni
+Um,Vfa,Buq,-1,0,732
+5J,Han,Mnl,-1,0,319
+Az,Atl,Mem,Y,0,M88
+Mu,Dtw,Pek,Y,0,777
+Nk,Rsw,Dtw,-1,0,319
+Gs,Xiy,Hia,-1,0,E90
+Us,Aus,Jfk,-1,0,738
+Be,Str,Bhx,-1,0,E75 Dh4
+Ua,Lir,Iah,-1,0,739 738
+Dy,Lgw,Cta,-1,0,73H
+Cz,Tyn,Tao,-1,0,738
+Aa,Oak,Pdx,Y,0,Dh4
+Il,Pkn,Srg,-1,0,737 At7
+Ac,Yxe,Ywg,Y,0,Crj
+P4,Tgu,Lce,-1,0,L4T
+Tk,Esb,Tzx,Y,0,738
+Gs,Wnz,Nng,-1,0,E90
+Fr,Aoi,Aho,-1,0,738
+Ay,Mia,Mxp,Y,0,763
+Ib,Bio,Lcg,Y,0,320
+Ba,Dur,Cpt,Y,0,734 733
+Hv,Lis,Ams,-1,0,73H 73W
+Ke,Xmn,Icn,-1,0,73H 73J
+4H,Dac,Cgp,-1,0,Dh8
+Ws,Ymm,Yyz,-1,0,73W
+Cz,Szx,Cgo,-1,0,738 733 73G
+9W,Hyd,Kul,Y,0,738
+S2,Bom,Goi,Y,0,73H 73G 738
+Gs,Jgn,Lhw,-1,0,Erj
+Ua,Cmh,Iah,Y,0,E70 Erj Cr7
+Dl,Jax,Jfk,Y,0,Cr9
+Hu,Foc,Csx,-1,0,738
+G3,The,Bsb,-1,0,73G 738
+Iy,Krt,Sah,-1,0,320
+Dl,Dtw,Slc,-1,0,320 73H 319 738
+Sk,Cph,Abz,-1,0,Cr9 Cr2
+Pz,Mvd,Gru,-1,0,320
+Aa,Bru,Phl,-1,0,767
+Aa,Tpa,Mia,-1,0,738
+Ke,Dxb,Icn,-1,0,332
+Bb,Stx,Stt,-1,0,Dht
+U2,Otp,Lgw,-1,0,319 320
+Tg,Zrh,Bkk,-1,0,346
+Un,Dme,Vno,-1,0,735
+Kl,Atl,Bwi,Y,0,757 320 M90
+Sv,Ruh,Bah,-1,0,E70 320
+As,Anc,Hom,Y,0,Be1 Dh8
+Ba,Mrs,Lhr,-1,0,319 320
+Ba,Jmk,Lhr,-1,0,320
+Mh,Bth,Szb,Y,0,At7
+U6,Aer,Dme,-1,0,320
+Ac,Sfo,Yul,-1,0,319
+4U,Cgn,Sjj,-1,0,319
+Fm,Dlc,Pvg,-1,0,738 737
+Et,Add,Lfw,-1,0,788 73W
+4E,Tlj,Mcg,-1,0,Pag
+Aa,Lga,Day,Y,0,Erd
+3M,Elh,Pbi,-1,0,Sf3
+As,Abq,Lax,Y,0,Cr7 Crj
+Us,Tul,Dfw,-1,0,M80 738 M83 757
+Mh,Kix,Kul,-1,0,333
+Cz,Urc,Sha,-1,0,752 73G
+U2,Ory,Fao,-1,0,320
+Li,Sxm,Dom,-1,0,Dh3
+Un,Tse,Vko,-1,0,73H
+Dy,Oak,Arn,Y,0,788
+Eq,Lgq,Uio,-1,0,E70 E90
+Dl,Rdu,Fll,Y,0,Cr9
+Ca,Xmn,Nrt,Y,0,763
+Ios,Dme,Oms,-1,0,Cr2
+G8,Bom,Pat,-1,0,320
+Ps,Vie,Kbp,-1,0,E90 73G 735
+Af,Nbs,She,Y,0,320
+To,Psa,Ory,-1,0,73H
+Ci,Tpe,Pus,-1,0,738 333
+Up,Fll,Fpo,-1,0,Dh8
+Mu,Hia,Sha,-1,0,320
+Tm,Vnx,Inh,-1,0,Dh4 Em2
+Ga,Dps,Upg,-1,0,Crk 738
+Cg,Pom,Lnv,-1,0,Dh8
+X3,Rho,Dus,-1,0,73H
+Ay,Yul,Jfk,Y,0,Erd
+Wn,Bna,Phx,-1,0,73W
+Uj,Cai,Tuu,-1,0,320
+Mu,Cif,Hrb,-1,0,320
+Nh,Kix,Ist,Y,0,332
+Gk,Nrt,Myj,-1,0,320
+Bg,Jed,Cgp,-1,0,772
+Z3,Cga,Klw,-1,0,Dhp
+Bc,Nrt,Ygj,-1,0,737
+Cz,Tsn,Can,-1,0,738 73G 319
+Ab,Szg,Dus,-1,0,Dh4
+Cz,Svo,Urc,-1,0,738
+Jd,Syx,Hgh,-1,0,320
+Qf,Bne,Syd,-1,0,333 73H 744 763
+Ns,Sjw,Ngb,-1,0,E90
+Ga,Pku,Cgk,-1,0,738
+Y7,Uud,Kja,-1,0,At5
+Mu,Urc,Pvg,-1,0,320
+Ga,Bkk,Cgk,-1,0,738
+Su,Svo,Bud,-1,0,320
+Az,Jfk,Fco,-1,0,772 330
+Sc,Lhw,Ycu,-1,0,738
+Ho,Wuh,Pvg,-1,0,320
+Ir,Kwi,Ifn,-1,0,100 320
+Ios,Bqs,Vvo,-1,0,Cr2
+Bv,Vrn,Tia,-1,0,737
+Jj,Bsb,Ssa,-1,0,320 319
+Fl,Mdw,Alb,Y,0,73H
+Fr,Pmi,Lpl,-1,0,738
+Ix,Ccj,Mct,-1,0,738
+Cz,Wux,Szx,-1,0,321
+Jq,Akl,Ool,-1,0,320
+Us,Bhm,Phl,-1,0,Crj
+Or,Sfb,Mia,-1,0,763
+4H,Cgp,Mct,-1,0,313
+A3,Jty,Lrs,-1,0,Dh8
+W6,Gdn,Fco,-1,0,320
+X3,Ham,Her,-1,0,73H
+Lx,Muc,Bsl,Y,0,Cr9 Cr7
+Ha,Hnl,Smf,-1,0,763
+Dl,Yyz,Cdg,Y,0,772
+Px,Mxh,Hgu,-1,0,Dh3
+Jl,Lax,Nrt,-1,0,773
+Dl,Jfk,Icn,-1,0,77W 388
+Ai,Trv,Maa,-1,0,320
+Bh,Ypr,Yvr,-1,0,Dh1
+Ib,Lhr,Arn,Y,0,321 319 767 320
+Az,Fco,Rix,Y,0,73C
+Su,Krr,Svo,-1,0,319 320 738
+Pc,Kya,Saw,-1,0,738 320
+Ib,Agp,Lpa,Y,0,320
+A3,Ath,Bcn,-1,0,320 321
+Ux,Tfs,Alc,-1,0,738
+Qg,Cgk,Bpn,-1,0,320
+Bx,Pus,Nrt,-1,0,321
+Jq,Akl,Sin,-1,0,332
+Dl,Sjd,Slc,Y,0,Cr9
+B6,Roc,Jfk,-1,0,E90
+Mu,Dlc,Tao,-1,0,738
+Cz,Nkg,Dlc,-1,0,320 738
+Us,Dca,Bos,-1,0,319 E90
+Wn,Den,Ind,-1,0,73C 73W 733
+Aa,Phl,Stt,-1,0,757
+Kl,Atl,Xna,Y,0,Crj Cr9 717 Cr7
+Uj,Ist,Dok,-1,0,320
+Dl,Slc,Fat,Y,0,Crj Cr9
+Us,Dfw,Mke,-1,0,M80 Er4 M83
+Zb,Bhx,Agp,-1,0,321
+Ac,Den,Yxe,Y,0,Erj
+Bi,Jed,Bwn,-1,0,787
+4Y,Kpn,Cyf,-1,0,Cna
+Us,Atl,Ord,Y,0,Cr7 E75
+Sn,Bru,Nsi,-1,0,332
+3U,Zuh,Hak,-1,0,320
+Dl,Lhr,Bos,-1,0,764
+My,Dga,Inb,-1,0,Cnc
+U2,Opo,Lys,-1,0,319
+Fr,Wmi,Alc,-1,0,738
+Am,Vsa,Paz,-1,0,Atr
+Aa,Roc,Bos,Y,0,Crj
+X3,Cgn,Fue,-1,0,73H
+Ac,Yyz,Mex,-1,0,319
+H2,Scl,Cpo,-1,0,320 319
+Fl,Mci,Phl,Y,0,73W
+Lh,Abv,Fra,-1,0,343
+Su,Icn,Svo,-1,0,333
+9E,Msp,Msy,-1,0,Cr9
+Us,Lga,Day,-1,0,Erd
+U2,Fco,Skg,-1,0,319
+Cc,Tgu,Rtb,-1,0,Sf3
+Ua,Iah,Las,-1,0,320 739 73G 738 319 752
+Ab,Dus,Dme,-1,0,738
+Af,Cdg,Sea,Y,0,332
+Sn,Bru,Trn,-1,0,Dh4
+Us,Sfo,Sal,-1,0,319 320
+Qh,Ovb,Fru,-1,0,735
+Ky,Hrb,Tna,-1,0,73G
+Af,Atl,Clt,Y,0,M90 M88 319
+Bg,Cgp,Mct,-1,0,313
+Dl,Hnl,Fuk,-1,0,76W
+Et,Fra,Dus,Y,0,319 320 321
+Aa,Mhh,Mia,Y,0,Erd
+Sj,Cgk,Tnj,-1,0,733
+Ua,Iad,Fco,-1,0,763
+U2,Gla,Stn,-1,0,319 320
+Az,Vrn,Fco,-1,0,32S E75 319
+Ga,Syd,Cgk,-1,0,332
+Zh,Pvg,Szx,-1,0,739 738
+Mh,Lmn,Myy,Y,0,At7
+Ep,Bxr,Thr,-1,0,100
+A5,Pis,Lrh,-1,0,At5
+Xu,Bbo,Bsa,-1,0,Em2
+Dv,Sco,Gyd,-1,0,Crj
+Y4,Mex,Cul,-1,0,320 319
+Ek,Khi,Dxb,-1,0,77W
+Aa,Dfw,Sjc,-1,0,M83
+Hu,Hgh,Wuh,-1,0,738
+Aa,Dkr,Lpa,Y,0,320
+Cz,Ist,Urc,-1,0,330
+Hs,Got,Ble,-1,0,J32
+Kl,Ams,Osl,-1,0,737 Emj
+U2,Ams,Lpl,-1,0,319 320
+B6,Jfk,Sdq,-1,0,321 320
+La,Lim,Eze,-1,0,763
+Wn,Dal,Ama,-1,0,735 733 73W
+Ay,Lhr,Aus,-1,0,788
+Wn,Fll,Bna,-1,0,73W 73C 733
+Nx,Xmn,Mfm,-1,0,319 321
+Lx,Lis,Gva,-1,0,319 320
+Ab,Xry,Pmi,-1,0,320
+Ls,Dlm,Ema,-1,0,73H
+Lo,Waw,Ord,-1,0,788
+Nh,Ckg,Pvg,Y,0,738
+7R,Led,Kvx,-1,0,Cr2
+Pr,Kix,Mnl,-1,0,330 343
+Lh,Fra,Opo,-1,0,321
+3L,Nap,Fmm,-1,0,At7
+Zh,Hrb,Tyn,-1,0,320
+Zi,Mrs,Czl,-1,0,319
+Aa,Cho,Ord,Y,0,Crj
+G3,Aju,Gru,-1,0,73G 738
+De,Mru,Fra,-1,0,767
+U2,Bfs,Lgw,-1,0,319
+Us,Sju,Ord,-1,0,738
+Ey,Cmn,Auh,-1,0,333
+Ca,Hfe,Can,-1,0,738
+Jt,Cgk,Plw,-1,0,738
+Sx,Lcy,Brn,-1,0,D38
+Lv,Pek,Mle,-1,0,763
+Vx,Jfk,Las,-1,0,320
+8L,Kmg,Wuh,-1,0,738 737 321
+Y7,Kja,Dme,-1,0,738
+Ad,Cnf,Sdu,-1,0,E90 E95
+Mu,Ams,Fra,Y,0,Emj F70
+Hu,Inc,Xiy,-1,0,738
+Vx,Sfo,San,-1,0,319 320
+Kr,Oss,Svx,-1,0,320
+Qs,Prg,Otp,-1,0,319
+F9,Msy,Den,-1,0,319
+Ca,Yty,Pek,-1,0,738
+At,Tfn,Cmn,-1,0,At7
+Af,Scl,Cdg,-1,0,77W 772
+G4,Avp,Sfb,-1,0,M80
+Wj,Yrg,Ymn,-1,0,Dht
+4U,Ham,Fkb,-1,0,Crj
+Ua,Fra,Dtw,Y,0,343
+Wn,Den,Smf,-1,0,733 73W 73H 73C 738
+Aa,Mdt,Ord,Y,0,Cr7 Erd
+Af,Bkk,Cdg,-1,0,77W
+Wb,Kgl,Ebb,-1,0,Crj 738 Dh4
+Ey,Bey,Auh,-1,0,320
+Lh,Dus,Txl,-1,0,320 319 Cr9
+Wn,Oak,Hou,-1,0,73W
+Fr,Ema,Cia,-1,0,738
+Fr,Brs,Bud,-1,0,738
+Ig,Cta,Mla,Y,0,319
+7I,Cur,Pbm,-1,0,M83
+Am,Atl,Rdu,Y,0,M88 738 M90 739 320
+Fr,Skg,Pfo,-1,0,738
+Hw,Ywj,Yzf,-1,0,Dht
+Mu,Sha,Gmp,-1,0,321
+Cz,Kwe,Swa,-1,0,738
+Dv,Sco,Asf,-1,0,Crj
+Dl,Mty,Las,-1,0,737
+Ou,Zag,Sjj,-1,0,Dh4
+Ci,Tpe,Wuh,-1,0,333
+Ba,Psa,Lgw,-1,0,734 319
+Nh,Itm,Kij,-1,0,738
+4U,Klu,Txl,-1,0,319 Crj
+U2,Gva,Bod,-1,0,319 320
+Fr,Boh,Alc,-1,0,738
+Cz,Kmg,Nng,-1,0,738
+Xq,Vie,Adb,-1,0,738
+Dl,Muc,Atl,-1,0,764
+Dy,Agp,Cph,-1,0,73H
+At,Sxb,Cmn,-1,0,73G
+X3,Pmi,Zqw,-1,0,73H
+Ts,Fra,Yyc,-1,0,330
+La,Lpb,Lim,-1,0,319
+Zb,Bhx,Gib,-1,0,320
+Us,Pvd,Clt,-1,0,320 321 319
+Jy,Kin,Sdq,-1,0,Em2
+Ls,Lba,Ibz,-1,0,733 73H
+Dl,Lgb,Slc,Y,0,Cr9 Cr7
+Vs,Pvg,Lhr,-1,0,346
+Fd,Dmk,Naw,-1,0,320
+Cz,Ynt,Can,-1,0,320
+Tg,Bkk,Del,-1,0,744 320
+Mf,Foc,Sha,-1,0,737
+Af,Atl,Tlh,Y,0,Crj M88 319
+Fr,Cag,Fkb,-1,0,738
+Kl,Ams,Led,-1,0,737
+Tm,Inh,Jnb,-1,0,Dh4
+Bb,Sju,Lrm,-1,0,Sf3
+Ua,Sxm,Iad,-1,0,73G
+Tr,Trz,Sin,-1,0,320
+Ei,Msy,Ord,Y,0,320
+Ua,Stt,Ord,-1,0,73G
+Az,Trn,Bri,-1,0,319
+Tw,Fuk,Icn,-1,0,737
+Lo,Bcn,Waw,-1,0,E95 734
+At,Cmn,Fco,-1,0,738 73G
+Qf,Syd,Ldh,Y,0,Dh8
+B7,Khh,Kmg,-1,0,M90
+Sc,Ctu,Tna,-1,0,738
+A5,Lys,Rns,-1,0,Crk Cr7
+Md,Jnb,Tnr,-1,0,733
+Dl,Roc,Msp,Y,0,Cr7
+Oz,Khn,Icn,-1,0,321
+Kl,Roc,Atl,Y,0,M90 M88
+Af,Ath,Cdg,-1,0,32A 319 320 321
+Nk,Phx,Den,-1,0,320 319
+Wn,Lit,Phx,-1,0,73W
+Iy,Riy,Jed,-1,0,330
+9W,Bru,Del,-1,0,333
+Hv,Ein,Inn,-1,0,73W
+Jj,Gru,Agt,Y,0,320
+G3,Vvi,Gru,-1,0,738
+B5,Wjr,Hga,-1,0,Crj
+Ua,Bru,Sxb,Y,0,Dh4
+Bt,Rix,Bll,-1,0,Dh4
+Jq,Sin,Akl,-1,0,332
+Wn,Phx,Pdx,-1,0,73W 73C
+Fr,Mad,Rak,-1,0,738
+Wf,Svg,Abz,-1,0,Dh4
+Jl,Itm,Fuk,-1,0,E70
+Ib,Ewr,Ory,Y,0,752
+G4,Elm,Sfb,-1,0,320 M80
+Xu,Nbo,Ebb,-1,0,M82
+Aa,Dfw,Day,-1,0,319 M80 M83
+Ah,Djg,Ogx,-1,0,736
+Hq,Aga,Lil,-1,0,320
+Sq,Cnj,Bne,-1,0,E90
+Ux,Cdg,Got,Y,0,E90
+Us,Dfw,Grr,Y,0,Er4 Erd
+Sk,Cai,Cph,Y,0,738
+Vy,Bio,Ams,-1,0,320
+De,Lej,Pmi,-1,0,321
+Af,Rep,Han,Y,0,321
+Cz,Foc,Bkk,-1,0,738
+Cx,Jfk,Hkg,-1,0,77W
+As,San,Jfk,Y,0,73H 757
+Tcx,Dlm,Ncl,-1,0,752
+Il,Okl,Djj,-1,0,At4
+Cx,Cgk,Hkg,-1,0,333 773 343
+Af,Msn,Atl,Y,0,Cr7 320 Cr9
+Sc,Kwe,Xmn,-1,0,737 738
+Su,Aer,Ist,-1,0,319
+U6,Dme,Tiv,-1,0,320
+Tp,Fnc,Vie,Y,0,321
+Aa,Ord,Dsm,Y,0,Erd Er4 E75
+Fr,Lba,Krk,-1,0,738
+Px,Pom,Hkg,-1,0,763
+Sk,Osl,Alc,-1,0,73H 738 73G
+Cz,Foc,Sha,Y,0,737
+Lx,Gva,Nce,-1,0,320 319 Ar1
+Ha,Phx,Hnl,-1,0,763
+Hq,Lgg,Her,-1,0,320
+Os,Vie,Kbp,Y,0,F70 100 E90 73G 735
+7H,Kka,Eli,Y,0,Pag
+Ib,Fco,Agp,Y,0,320
+La,Adz,Clo,Y,0,320
+Si,Jer,Cdg,-1,0,At4
+Ts,Vra,Snu,Y,0,310
+Nx,Mfm,Nkg,-1,0,321
+Dy,Osl,Tfs,-1,0,73H
+Fr,Suf,Fco,-1,0,738
+Ok,Prg,Kuf,-1,0,319 320
+Ku,Kwi,Mct,-1,0,320
+Vy,Prg,Bcn,-1,0,320
+Sz,Dyu,Dme,-1,0,737
+Nx,Mfm,Pus,-1,0,320
+I4,Klw,Ktn,-1,0,Cna
+Zb,Vrn,Lgw,-1,0,321
+Mh,Han,Kul,-1,0,738
+Ad,Cnf,Vdc,-1,0,At7
+Fd,Dmk,Rep,-1,0,320
+Oa,Skg,Ath,Y,0,320 321 Dh4
+Ns,Xiy,Kwl,-1,0,E90
+Af,Atl,Mlb,Y,0,M88
+Aa,Cle,Ord,Y,0,Cr7 Er4 Erd
+3U,Inc,Ctu,-1,0,321
+Aa,Bom,Lhr,Y,0,777
+Un,Svo,Ssh,-1,0,744
+J8,Szb,Rdn,-1,0,Dh7
+Hu,Hak,Khn,-1,0,738
+G4,Sfb,Gfk,-1,0,320
+Dl,Dtw,Ric,-1,0,Erj
+Us,Dca,Ags,Y,0,Crj
+H2,Scl,Zco,-1,0,319
+W6,Cia,Ktw,-1,0,320
+Wn,Grr,Mco,-1,0,73W
+Zh,Wuh,Nng,-1,0,738
+Mu,Wuh,Kmg,-1,0,733 738
+Be,Sou,Man,-1,0,Dh4
+Wn,Buf,Las,-1,0,73H 738
+Tk,Ezs,Esb,Y,0,738
+Ns,Sjw,Szx,-1,0,73G
+Dv,Ura,Sco,-1,0,An4
+Wb,Bzv,Kgl,-1,0,73W
+Qz,Sub,Pen,-1,0,320
+Un,Kuf,Dme,-1,0,735
+Oz,Icn,Yvr,Y,0,763
+Lx,Yyz,Zrh,Y,0,333
+Vy,Bcn,Mxp,-1,0,320
+Wn,Aus,Ewr,-1,0,73W
+Us,Phl,Bru,-1,0,762
+8L,Xnn,Kmg,-1,0,738
+Ca,Xiy,Kwl,-1,0,738
+Oz,Cjj,Pek,-1,0,321
+Hg,Cfu,Vie,-1,0,320
+9C,Dlc,Hgh,-1,0,320
+Ab,Vce,Txl,-1,0,320 738 73G
+Ur,Voz,Vko,-1,0,At7
+Ap,Cta,Txl,-1,0,320
+Fr,Stn,Kun,-1,0,738
+Qf,Ord,Msy,Y,0,E75
+Ua,Smf,Sfo,Y,0,Em2
+Gs,Xiy,Jic,-1,0,Erj
+Ua,Dfw,Fra,Y,0,333
+Fz,Gyd,Dxb,-1,0,73H
+Sc,Lhw,Xiy,-1,0,738
+Ba,Bgi,Lgw,-1,0,777
+U2,Ibz,Lgw,-1,0,319 320
+Ua,Cle,Yyz,Y,0,Dh2 Dh3
+G3,Cwb,Gig,-1,0,73G 738
+Ms,Cai,Ben,-1,0,320 E70
+Xq,Haj,Ayt,-1,0,738
+Sc,Wnz,Zuh,-1,0,738
+Af,Atl,Eyw,Y,0,73W Cr7
+Sn,Bru,Osl,-1,0,Ar1 319
+S2,Del,Ixb,Y,0,73W
+Ad,Pet,Poa,-1,0,At7
+Gf,Cok,Bah,-1,0,321
+Ac,Yyc,Sfo,Y,0,Cr7
+As,Mex,Lax,-1,0,73H
+E8,Khn,Dmk,-1,0,734
+Lg,Lux,Fsc,-1,0,Dh4
+Ba,Fco,Lhr,-1,0,321 767 320 319
+Ua,Las,Den,-1,0,320 752 319 738 739
+Ac,Cun,Yul,-1,0,319
+Pk,Tuk,Uet,-1,0,Atr
+Fr,Bhx,Ktw,-1,0,738
+G9,Shj,Kzn,-1,0,320
+3U,Ckg,Tsn,-1,0,319
+5J,Icn,Mnl,-1,0,330
+Hy,Sin,Kul,-1,0,764
+V0,Pmv,Mar,-1,0,E90
+Sk,Bre,Cph,-1,0,At7 Cr2
+Ei,Muc,Dub,-1,0,320
+Af,Sfo,Cdg,-1,0,388
+Ua,Ewr,Osl,-1,0,752
+Dy,Lgw,Trf,-1,0,73H
+Hu,Pek,Khv,-1,0,320
+Mu,Sin,Syd,-1,0,333
+Nk,Iah,Msp,-1,0,319
+Ks,Isp,Bos,-1,0,Sf3
+Ab,Pmi,Szg,Y,0,320
+9E,Tvf,Gfk,-1,0,-1
+At,Rba,Ory,-1,0,738
+Fl,Lax,Oak,-1,0,73W
+4U,Skg,Ham,-1,0,319
+Gs,Nng,Jjn,-1,0,E90
+Fl,Mdw,Cun,-1,0,73G
+Us,Ord,Cdg,-1,0,763
+Px,Hkn,Rab,-1,0,Dh4
+Tt,Mel,Asp,-1,0,320
+S7,Dme,Evn,-1,0,321 320
+Zh,Bhy,Hgh,Y,0,319
+Be,Sou,Bhd,-1,0,Dh4
+Us,Sfo,Jfk,-1,0,763 32B
+Jt,Mdc,Gto,Y,0,Dh8
+Am,Lax,Zlo,Y,0,73H
+Un,Mrv,Vko,-1,0,73G
+Mh,Bkm,Lwy,Y,0,Dht
+Dt,Opo,Lad,-1,0,77W 772
+Jl,Kix,Icn,Y,0,772 333 73H 773 332
+Ca,Ckg,Hgh,-1,0,319 320 738 737
+Aa,Dca,Chs,Y,0,E70 Crj E75
+U2,Aga,Sxf,-1,0,320
+V0,Pmv,Brm,-1,0,E90
+Ga,Bmu,Dps,-1,0,At7
+S2,Bom,Ccj,Y,0,738
+Vs,Atl,Tul,Y,0,Cr7 M88 Cr9
+Qf,Mel,Sgn,Y,0,330
+Lx,Zrh,Ath,-1,0,321
+Aa,Yyz,Clt,Y,0,E75 Crj
+Mu,Nay,Hsn,Y,0,737
+Sk,Ham,Arn,-1,0,73G 73H 73W 736 717
+U2,Brs,Cfu,-1,0,320
+Br,Cgo,Khh,Y,0,M90
+Un,Kov,Dme,-1,0,735
+Zh,Cgq,Ynt,-1,0,320 Crj
+G3,Cnf,Sdu,-1,0,738 73G
+Tg,Bkk,Mfm,-1,0,320
+Cz,Xiy,Dnh,-1,0,E90
+Ad,Mgf,Vcp,-1,0,E90 At7
+Bj,Cdg,Tun,-1,0,320
+Jj,Bsb,Poa,-1,0,320
+Aa,Phl,Yow,Y,0,Crj
+Ua,Lax,Sjd,-1,0,739 320
+Rc,Svg,Fae,-1,0,319
+Ad,Igu,Vcp,-1,0,E95 E90
+Af,Bhx,Lys,Y,0,E75
+Dl,Msp,Yxe,Y,0,E75
+Mf,Kwl,Xmn,-1,0,737
+Sv,Jed,Med,-1,0,E70 321 320
+4U,Cgn,Ath,-1,0,319
+Ua,Mdt,Iad,Y,0,Er4
+3U,Ctu,Syx,-1,0,321
+Cz,Hrb,Tpe,-1,0,321 320
+Iy,Sah,Ade,-1,0,310 320 Cr2 330
+Aa,Xna,Lax,Y,0,Cr7
+U2,Bcn,Gva,-1,0,319 320
+5J,Mnl,Tag,-1,0,319
+Su,Dok,Svo,-1,0,320 Su9 319
+Me,Dxb,Bey,-1,0,332 320
+G4,Pgd,Isp,-1,0,M80
+Pk,Mct,Skt,-1,0,310
+Bm,Abz,Osl,-1,0,Er3
+Wf,Krs,Trd,-1,0,Dh4 Dh3
+St,Ceg,Brs,-1,0,Er4
+Zh,Hmi,Pek,Y,0,737
+La,Mde,Uio,Y,0,320
+Tx,Sdq,Ory,-1,0,333
+Ln,Tip,Sfa,-1,0,Cr9 320
+Af,Cdg,Rns,-1,0,At7
+Qf,Dxb,Arn,Y,0,77W
+Li,Slu,Bgi,-1,0,At7 Dh3
+7F,Yyh,Yhk,-1,0,At7
+Kc,Guw,Tse,-1,0,320
+Kl,Ams,Bru,Y,0,F70 Emj
+Af,Sfo,Atl,Y,0,763 739 757
+Qb,Kih,Syz,-1,0,F50
+Su,Pkc,Svo,-1,0,77W
+Tg,Dps,Bkk,-1,0,777
+Uy,Tbs,Ebl,-1,0,M83
+Cm,Mga,Sjo,-1,0,E90 73G
+Be,Gla,Lba,Y,0,Sf3
+Cz,Cju,Hrb,-1,0,320
+Zh,Inc,Pek,Y,0,737
+Pk,Khi,Lhe,-1,0,320 777 73H 310 737
+Ku,Njf,Kwi,-1,0,320
+To,Nte,Txl,-1,0,73H
+Cz,Hrb,Lds,-1,0,320
+Fr,Bre,Cfu,-1,0,738
+Dl,Bos,Ams,-1,0,333
+Cu,Gao,Hav,-1,0,A58
+Fl,Fll,Sju,Y,0,73W
+X3,Fue,Zqw,-1,0,73H
+Ua,Ewr,Lir,-1,0,738
+Ca,Cgo,Szx,Y,0,320 738
+Pm,Lpa,Gln,-1,0,At4
+Fr,Ema,Psa,-1,0,738
+O6,Bsb,Pnz,-1,0,100
+Eu,Syx,Hgh,-1,0,319
+Sk,Ord,Cph,-1,0,343
+Mu,Kgt,Ctu,-1,0,319
+Hu,Muc,Txl,-1,0,738 321 320 73G
+J9,Cai,Kwi,-1,0,320
+G3,Vcp,Cnf,-1,0,738
+Ad,Pin,Mao,-1,0,At7
+Sv,Has,Ruh,-1,0,321 320
+Lh,Lun,Hre,Y,0,788
+Kl,Mad,Jfk,Y,0,767
+Us,Ord,Syr,-1,0,Er4 Cr7
+Us,Mia,Mco,-1,0,757 738
+G9,Amm,Shj,-1,0,320
+G3,Udi,Cgh,-1,0,73G 738
+Sv,Shw,Ruh,-1,0,E70 320
+Ur,Tjm,Urj,-1,0,At7
+Ls,Lca,Man,-1,0,73H 75W
+Bt,Bru,Vno,Y,0,Ar1 319
+Us,Buf,Phl,Y,0,Crj E75 Dh8 E70
+Zh,Hyn,Zuh,-1,0,738
+Vs,Lhr,Abz,Y,0,320
+J9,Kwi,Hmb,-1,0,320
+Qf,Per,Syd,-1,0,332 333 73H 763
+At,Tng,Lhr,-1,0,73G
+Ad,Cac,Vcp,-1,0,At7
+Wn,Las,Smf,-1,0,73W 73H 733 73C 738
+A3,Fco,Ath,-1,0,320
+Us,Mke,Ord,Y,0,Crj
+Mh,Lbp,Mur,Y,0,Dht
+Ok,Prg,Txl,-1,0,At7 At4
+Lh,Nap,Fra,-1,0,320 321 32A
+Ba,Lcy,Gla,Y,0,E90 E70
+Et,Jib,Add,-1,0,73W Dh8
+Os,Vie,Rho,Y,0,320
+Aa,Lir,Mia,-1,0,738
+U6,Dme,Ufa,-1,0,320
+Lh,Fra,Icn,-1,0,74H
+Vy,Ams,Agp,-1,0,320
+Nh,Hnd,Mbe,-1,0,738
+De,Dus,Dlm,-1,0,757
+Dl,Msp,Yyc,-1,0,319 320
+Zb,Pmi,Ema,-1,0,321
+Vb,Mty,Pvr,-1,0,733
+Wp,Ogg,Hnl,-1,0,At7
+Ay,Lhr,Yyc,Y,0,767
+K3,Ktn,Ktb,-1,0,Dhp
+Jq,Adl,Cns,-1,0,320
+Dl,Kwi,Dmm,Y,0,332 330
+Rj,Amm,Krt,-1,0,320
+F7,Pnl,Tps,-1,0,At7
+Yt,Bdp,Ktm,-1,0,J41
+Af,Atl,Avl,Y,0,Crj M88
+Cz,Csx,Xiy,-1,0,320
+Aa,Kix,Hnl,-1,0,777
+Af,Ams,Uio,Y,0,772
+Oz,Cju,Icn,-1,0,321 320
+Ke,Lhr,Icn,-1,0,77W
+Nl,Pew,Auh,-1,0,734 320
+Md,Tnr,Anm,-1,0,At5
+Ba,Bll,Man,Y,0,Frj
+Ly,Mxp,Tlv,-1,0,739 738
+Ua,Lax,Sbp,Y,0,Em2
+Ca,Ckg,Yty,-1,0,738
+Ek,Lhr,Dxb,-1,0,388
+Kl,Atl,Atw,Y,0,Cr9
+Ab,Muc,Agp,-1,0,738 320
+Ab,Nue,Kgs,-1,0,738
+Va,Atl,Iah,Y,0,M88 717 320 319
+Tp,Lis,Bod,Y,0,100 Er4
+Sc,Szx,Wnz,-1,0,738
+Xq,Lnz,Szg,-1,0,738
+Ci,Tpe,Kmi,-1,0,738
+Gf,Lca,Ath,Y,0,320
+Av,Bog,Fla,-1,0,At7
+Aa,Cid,Dfw,Y,0,Er4 Crj
+Nh,Hnd,Oka,-1,0,738 773 772
+Ig,Olb,Cgn,-1,0,320
+Cz,Kmg,Bhy,Y,0,737
+Su,Svo,Osl,-1,0,320
+Ua,Koa,Sfo,-1,0,753 739 738
+Az,Fco,Bri,-1,0,32S 321 319 320
+Aa,Txl,Ord,Y,0,330
+B6,Lgb,Oak,-1,0,320
+Dl,Lax,Sjc,Y,0,Cr9 Cr7
+Hv,Pmo,Cta,-1,0,73H
+Cz,Ckg,Cgq,-1,0,321
+Ie,Bny,Hir,-1,0,Dht
+Kb,Ccu,Pbh,-1,0,Atr 319
+W5,Ika,Esb,-1,0,313
+Lh,Bkk,Fra,-1,0,346
+Fr,Lpa,Bhx,-1,0,738
+Kn,Xfn,Nay,-1,0,737
+Rj,Cph,Vie,Y,0,E90
+W3,Los,Cbq,-1,0,73G
+Az,Ric,Atl,Y,0,M90 M88
+Fr,Alc,Hhn,-1,0,738
+Af,Msp,Sfo,Y,0,753
+Cy,Lhr,Lca,-1,0,320
+Nz,Chc,Pmr,Y,0,Dh3 At7
+3U,Xnn,Ctu,-1,0,320
+F9,Fat,Den,-1,0,319
+Zi,Mlh,Czl,-1,0,320
+Az,Lhe,Auh,-1,0,77W 346 320
+Af,Nte,Nce,-1,0,320 319
+Ua,Fat,Sfo,Y,0,Em2 Crj
+Ua,Gjt,Iah,Y,0,Erj
+Tn,Icn,Nrt,-1,0,333
+Aa,Lhr,Psa,Y,0,320 321
+Sp,Flw,Pdl,-1,0,Dh4
+Rj,Mad,Amm,-1,0,319 320
+9C,Sha,Szx,-1,0,320
+Us,Pit,Dca,Y,0,E75 E70 Crj
+Zh,Szx,Ybp,-1,0,319
+Az,Ncl,Cdg,Y,0,Ar8
+Fr,Rba,Bva,-1,0,738
+Ua,Bru,Fna,Y,0,333
+9W,Bom,Bdq,-1,0,73W 738 73H
+Qz,Kul,Bdo,-1,0,320
+Ey,Kul,Auh,-1,0,332 77W
+Ac,Yyz,Yts,Y,0,Dh1
+G9,Maa,Shj,-1,0,320
+Hu,Yyz,Pek,-1,0,787
+Dl,Fco,Lax,Y,0,772
+Ib,Ham,Agp,Y,0,320
+Ca,Wux,Pek,-1,0,738
+Ca,Gmp,Pek,-1,0,738 333
+Id,Cgk,Dps,-1,0,739
+Cz,Bhy,Can,-1,0,E90
+Ak,Sub,Kul,-1,0,320
+Fr,Vlc,Blq,-1,0,738
+Nk,Lax,Iah,-1,0,320
+Ci,Kul,Tpe,-1,0,333
+6E,Pnq,Nag,-1,0,320
+Fr,Pmi,Crl,-1,0,738
+Ig,Zrh,Bds,Y,0,320
+Nh,Cts,Mmb,-1,0,Dh8
+Ms,Cai,Asw,-1,0,738 E70
+Jj,Poa,Bsb,-1,0,320
+6E,Bkk,Del,-1,0,320
+Cz,Szx,Txn,-1,0,319
+As,Dfw,Sfo,Y,0,738 757 763
+Fr,Dtm,Aho,-1,0,738
+Qv,Bkk,Lpq,-1,0,At7
+Ws,Yul,Las,-1,0,73W
+Jt,Kng,Nbx,Y,0,Atr
+Af,Sea,Lhr,-1,0,76W
+Va,Cbr,Bne,Y,0,73H E90 73W
+W6,Ltn,Luz,-1,0,320
+Tu,Bru,Tun,-1,0,32A 320
+3U,Tsn,Ctu,-1,0,321
+K5,Eld,Hot,-1,0,Cnc
+Bt,Svg,Rix,-1,0,735 Dh4
+Il,Bdj,Pkn,-1,0,At7
+Qf,Gva,Dxb,Y,0,77L 77W
+2N,Por,Kok,-1,0,Sf3
+Cg,Ung,Tbg,-1,0,Dh8
+Ca,Ctu,Wuh,-1,0,320
+Us,Yul,Jfk,-1,0,Erd
+A3,Ist,Ath,-1,0,320
+9K,Rkd,Bos,-1,0,Cna
+Xy,Hmb,Ruh,-1,0,320
+Fr,Crl,Lei,-1,0,738
+Cx,Hkg,Ord,-1,0,77W
+Lc,Cdg,Pnr,-1,0,757
+Fl,Mke,Dca,-1,0,717
+Ho,Hak,Sha,-1,0,320
+Ua,Ewr,Pek,-1,0,777
+B6,Jax,Jfk,-1,0,320
+Os,Vie,Ias,Y,0,Dh4
+Lx,Yul,Yyz,Y,0,333
+Us,Dfw,Crw,Y,0,Crj
+Jj,Cwb,Gru,-1,0,320
+G4,Aza,Fwa,-1,0,319
+Jj,Cgh,Bsb,-1,0,320 319
+Aa,Cvg,Mia,Y,0,Er4
+Iy,Gxf,Auh,-1,0,320
+Sv,Eam,Jed,-1,0,E70 320 321
+S7,Dme,Hta,Y,0,738
+Fr,Skg,Hhn,-1,0,738
+Cg,Lae,Hkn,-1,0,Dh8
+Vs,Atl,Man,Y,0,76W
+Fm,Sha,Xmn,-1,0,737 757 738
+Tv,Ctu,Kwe,-1,0,319
+Aa,Sea,Phl,-1,0,320 321
+Pc,Saw,Skp,-1,0,320 738
+Sv,Syz,Med,-1,0,Ab6
+Sv,Ruh,Add,-1,0,320
+S7,Ovb,Tas,-1,0,320
+3U,Ctu,Sjw,-1,0,320
+U2,Tfs,Gva,-1,0,320
+W6,Otp,Peg,-1,0,320
+Cz,Jmu,Pvg,-1,0,320
+Jj,Cgh,Rao,-1,0,320 319
+Fm,Sha,Kwe,-1,0,738
+Us,Clt,Sxm,-1,0,752 319
+Hy,Dme,Tmj,-1,0,757
+Ey,Ams,Lis,Y,0,32S
+Ib,Vlc,Bio,Y,0,Cr2 Cr9 At7
+Fr,Aho,Gse,-1,0,738
+Jj,Fra,Gru,-1,0,773
+Hy,Tas,Fra,-1,0,763 764 752
+Qf,Hkg,Bne,-1,0,333
+Cz,Ynz,Wuh,-1,0,73G 738
+Ua,Tse,Fra,Y,0,333
+J3,Ylw,Yqf,-1,0,J31
+Vs,Nrt,Lhr,-1,0,346
+Xq,Muc,Adb,-1,0,738
+Mf,Nkg,She,-1,0,737
+Mu,Ckg,Hfe,-1,0,320
+Ab,Pop,Dus,-1,0,332
+8Q,Svo,Ayt,-1,0,321
+3L,Ach,Eba,-1,0,Dh3
+Wn,Alb,Mco,-1,0,73W
+Tk,Esb,Mlx,Y,0,73W
+Cz,Nkg,Hak,-1,0,320
+Az,Str,Cdg,Y,0,Ar8
+To,Pmi,Edi,-1,0,73H
+Kl,Ams,Krs,Y,0,F70 Emj
+Y4,Mex,Mty,-1,0,320
+Qr,Tif,Doh,-1,0,321 320
+Aa,Bos,Mia,-1,0,757 738
+To,Tfs,Man,-1,0,73H
+Fl,Atl,Msp,-1,0,717
+Hu,Syx,Hfe,-1,0,738
+Ac,Ybl,Yqq,Y,0,Beh
+Zb,Lei,Bhx,-1,0,321
+G3,Eze,For,-1,0,738
+Pc,Ada,Van,-1,0,738
+Af,Atl,Bru,Y,0,76W
+Af,Bia,Mrs,Y,0,320
+Cx,Hkg,Ams,-1,0,343
+Us,Ord,Nrt,-1,0,777
+Sq,Plm,Sin,Y,0,319
+Mu,Xiy,Dyg,-1,0,320
+Aa,Pty,Dfw,-1,0,738
+Fr,Goa,Tps,-1,0,738
+Tk,Vie,Ist,-1,0,738 321 330 320
+Ak,Kul,Cnx,-1,0,320
+Ga,Dps,Bne,-1,0,738
+Us,Mia,Cle,-1,0,Er4
+3U,She,Dsn,-1,0,319
+Be,Flr,Bhx,-1,0,E75
+Mu,Gmp,Sha,-1,0,321
+De,Ace,Muc,-1,0,32S
+Ay,Bru,Hel,-1,0,319 320 343
+Zk,Den,Cys,-1,0,Beh Be1
+Vb,Gdl,Vsa,-1,0,733
+Hv,Ein,Ibz,-1,0,73W 73H
+As,Boi,Sjc,Y,0,Dh4
+V0,Pbl,Pmv,-1,0,E90
+Az,Chs,Atl,Y,0,M88
+Fe,Tsa,Tyn,-1,0,M83
+Av,Uib,Bog,Y,0,At5
+Ba,Lca,Lgw,-1,0,320
+Ke,Icn,Vie,-1,0,77W
+Us,Clt,Cak,-1,0,Crj
+Ca,Jiu,Pek,Y,0,737
+Hf,Coo,Acc,-1,0,319 E70
+Sj,Upg,Kdi,-1,0,735
+Ay,Fco,Hel,-1,0,321 32B
+Tk,Sof,Ist,-1,0,738 320
+Os,Vie,Beg,Y,0,F70 319 Dh4 100 320
+Ca,Ist,Can,-1,0,330 343
+Ba,Prg,Lhr,-1,0,320
+Ca,Nkg,Kmg,Y,0,738
+Su,Rov,Svx,-1,0,319
+Ir,Dmm,Mhd,-1,0,320
+Lh,Nce,Fra,-1,0,319 32A 321 320
+Cx,Ceb,Hkg,-1,0,333 77W 343
+8V,Nul,Kyu,-1,0,Cnc
+Kl,Mli,Atl,Y,0,Cr7 Cr9
+Uu,Run,Tnr,-1,0,738 At7
+Af,Oaj,Atl,Y,0,Crj
+Jt,Bdo,Sub,-1,0,738
+4U,Muc,Dtm,-1,0,319
+Fd,Kbv,Sin,-1,0,320
+Mo,Yqd,Yfo,-1,0,At4
+Nh,Oka,Tak,Y,0,767
+Af,Atl,Cae,Y,0,M88 Crj 319 717
+Mu,Wuh,Ngb,-1,0,738 320
+Vn,Sgn,Cxr,-1,0,332 321 330
+Tcx,Man,Pmi,-1,0,321
+4U,Txl,Blq,-1,0,319
+Tk,Mzh,Ist,-1,0,320
+Af,Cdg,Tlv,-1,0,320
+Ba,Dfw,Mad,Y,0,777
+Dl,Msp,Alb,Y,0,Cr9
+W6,Waw,Tlv,-1,0,320
+Fr,Dub,Edi,-1,0,738
+Dl,Gcm,Atl,-1,0,M88
+Sc,Tao,Hfe,-1,0,738
+Jt,Srg,Dps,Y,0,Atr
+4U,Cgn,Ibz,-1,0,320 319
+Nk,Tpa,Ord,-1,0,319
+Mu,Kmg,Lum,-1,0,733 737
+Zh,Xmn,Can,-1,0,320
+Sv,Jed,Kan,-1,0,74E
+Pg,Cnx,Bkk,-1,0,320 319
+Jl,Hnd,Izo,-1,0,767 73H
+Wn,Chs,Hou,-1,0,73W
+Ge,Ror,Tpe,-1,0,320
+Us,Lit,Dca,Y,0,E70
+U2,Nce,Ory,-1,0,320 319
+Mh,Bkk,Cai,Y,0,773
+Aa,Rtb,Dfw,-1,0,738
+Fr,Mad,Rba,-1,0,738
+U2,Lis,Mxp,-1,0,319 320
+Ku,Maa,Kwi,-1,0,310
+Lh,Fra,Nap,-1,0,321 32A 320
+Wn,Tpa,Buf,-1,0,73W
+Dl,Yyc,Ams,Y,0,332
+Us,Mia,Bze,Y,0,738
+6E,Ixb,Del,-1,0,320
+Hq,Fao,Agp,-1,0,320
+Hu,Csx,Foc,-1,0,738
+3U,Lum,Kmg,-1,0,319
+Ba,Mia,Cur,Y,0,738
+6E,Sxr,Ixj,-1,0,320
+Ai,Del,Ccu,-1,0,321 788
+Ak,Jhb,Pen,-1,0,320
+Ca,Wuh,Inc,Y,0,738
+F9,Igm,Pga,Y,0,Be1
+Oz,Icn,Nkg,-1,0,763 321
+Ib,Vlc,Ams,Y,0,320
+Sc,Tao,Xiy,-1,0,737 738
+Pr,Mnl,Klo,-1,0,320
+Af,Bhx,Cdg,-1,0,319 320
+Fr,Fao,Ldy,-1,0,738
+Tom,Ema,Tfs,-1,0,73H
+Ov,Tll,Spu,-1,0,Cr9
+Y4,Mty,Cul,-1,0,320
+Sc,Hrb,Tao,-1,0,738
+9C,Hgh,Syx,-1,0,320
+Qf,Cxi,Nan,Y,0,73W
+Ac,Yyz,Snu,-1,0,319
+Ux,Pmi,Vlc,-1,0,E90 Atr
+Mu,Ycu,Pvg,Y,0,738
+Sw,Wdh,Lud,-1,0,Er3
+Tom,Lpa,Man,-1,0,75W
+Fm,Ddg,Tao,-1,0,737
+Jl,Cts,Axt,Y,0,Crj
+2B,Uua,Led,-1,0,Cr2
+Tcx,Tfs,Bfs,-1,0,321
+4U,Txl,Lin,-1,0,319
+Us,Clt,Sdf,-1,0,Cr7 Crj
+Aa,Doh,Iad,-1,0,777
+Mi,Sin,Mdc,-1,0,320
+Qr,Doh,Iah,-1,0,77L
+7H,Drg,Otz,Y,0,Cnc
+Zh,Pek,Chg,Y,0,737
+A4,Gya,Tdd,-1,0,Swm
+Ba,Dub,Lhr,-1,0,319
+Lh,Iah,Lhr,Y,0,763 788
+W2,Lgw,Kef,Y,0,320
+Ho,Tpe,Pvg,-1,0,320
+Mh,Kul,Ktm,-1,0,738
+V3,Vce,Kiv,-1,0,733
+Un,Dme,Iev,-1,0,735
+Hu,Wuh,Pek,-1,0,738
+Av,Ppn,Bog,-1,0,At7 318
+Tr,Sin,Bkk,-1,0,320
+To,Brs,Lpa,-1,0,75W
+Qg,Sub,Bpn,-1,0,320
+Su,Tas,Rov,-1,0,319
+Ua,Sdf,Ewr,Y,0,Erj E70
+Fl,Mco,Rdu,Y,0,73C
+Af,Atl,Yul,Y,0,Cr7 Cr9
+Cz,Lhr,Can,-1,0,787
+7R,Pes,Dme,-1,0,Cr2
+Wn,Aus,Elp,-1,0,73W 735
+Me,Los,Bey,-1,0,332
+Ig,Txl,Cta,Y,0,320
+W6,Ein,Beg,-1,0,320
+Jl,Ubj,Hnd,-1,0,73H
+Pg,Kbv,Usm,-1,0,At7
+Ka,Fuk,Hkg,-1,0,321 333
+Ac,Yyz,Hog,-1,0,319
+Qz,Kul,Cgk,-1,0,320
+Ca,Can,Lzo,-1,0,737
+Zh,She,Szx,-1,0,320
+4U,Haj,Bcn,-1,0,319
+Lh,Sfo,Lhr,Y,0,777
+Sa,Lvi,Mqp,Y,0,Er3
+Hg,Bcn,Vie,-1,0,320 321
+Nh,Ngo,Cts,-1,0,320 737 767
+Fl,Bwi,Bna,Y,0,73W
+Et,Lli,Gdq,-1,0,Dh8
+Rx,Ccu,Dac,-1,0,Dh8
+Ab,Alc,Dus,-1,0,321 332
+Nh,Cts,Kij,Y,0,737 Dh8
+Ah,Hme,Iam,-1,0,736
+P6,Yhu,Ybg,-1,0,J32
+Fz,Dyu,Dxb,-1,0,73H
+V7,Bod,Pmi,-1,0,717
+D7,Cmb,Kul,-1,0,330
+Nh,Toy,Hnd,-1,0,767 787
+Ln,Tob,Tun,-1,0,Cr9
+Lh,Muc,Haj,-1,0,320 321 319 E95
+Ac,Yzf,Yyc,Y,0,Crj
+Mu,Ckg,Wnz,-1,0,320
+As,Anc,Sdp,Y,0,Sf3
+Zb,Ltn,Ssh,-1,0,321
+Sj,Sub,Srg,-1,0,735
+Si,Jer,Lcy,-1,0,At5
+Fr,Lis,Psa,-1,0,738
+Us,Fnt,Ord,Y,0,Er4 Erd
+Lh,Muc,Bre,-1,0,E95 319 321 320
+Aa,Ogg,Sjc,Y,0,737
+Aa,Pen,Kul,-1,0,737
+W6,Hau,Gdn,-1,0,320
+Tp,Gig,Lis,-1,0,332 343
+Qf,Hkg,Syd,-1,0,388 744
+Ab,Olb,Muc,-1,0,73G 738 320
+Ls,Lpa,Lba,-1,0,752
+Un,Dwc,Ovb,-1,0,738
+Wx,Lcy,Bve,-1,0,Ar8
+Us,Mex,Mia,-1,0,738
+Sg,Maa,Goi,-1,0,Dh8
+Aa,Kwi,Lhr,Y,0,744
+La,Uio,Lim,-1,0,320
+9W,Lhr,Del,-1,0,77W
+Pm,Ndb,Lpa,-1,0,Swm At4
+J2,Kvd,Gyd,-1,0,E90
+Sc,Tao,Wnz,-1,0,738
+Tv,Lzy,Ctu,-1,0,319
+At,Oxb,Cmn,-1,0,738
+Ib,Bcn,Scq,Y,0,320
+Gs,Hak,Nng,-1,0,E90 320
+U2,Sen,Alc,-1,0,319
+Aa,Dca,Mht,Y,0,Crj E75 E70
+Ca,Urc,Ctu,-1,0,320
+Gl,Kef,Goh,-1,0,Dh8
+Fr,Gro,Ema,-1,0,738
+Y4,Slp,Cun,-1,0,320
+S7,Njc,Dme,Y,0,319
+Dy,Rvn,Hel,-1,0,73H
+Ua,Iad,Rdu,-1,0,320 738
+7C,Icn,Hkg,-1,0,737
+Hu,Bio,Bru,-1,0,319
+Tp,Lis,Bos,Y,0,313
+Ox,Dmk,Can,-1,0,M82
+Ua,Ewr,Hnl,-1,0,764
+As,Pdx,Ont,Y,0,Cr7
+Wn,Bwi,Isp,-1,0,73W
+Ba,Rob,Fna,-1,0,767
+Us,Mob,Clt,-1,0,Crj
+P6,Ygr,Yvb,-1,0,J32 Pl2
+Aa,Lhr,Lca,Y,0,767
+Aa,Dfw,Tlh,Y,0,Er4 Erd
+Zh,Tna,Dlc,-1,0,738
+Cz,Zuh,Mxz,-1,0,E90
+Fr,Fmm,Cia,-1,0,738
+Fb,Mad,Sof,-1,0,319 320 E90
+Va,Cbr,Syd,-1,0,At7
+Us,Dfw,Btr,-1,0,Er4 Erd
+Be,Wic,Edi,Y,0,D38
+J2,Gyd,Led,-1,0,320 757
+Tj,Sbh,Anu,-1,0,Cnc Pl2
+B2,Msq,Bud,-1,0,Crj 735
+Ep,Ika,Dxb,-1,0,340
+Aa,Bna,Mia,-1,0,738
+Kn,Bfj,Nay,-1,0,737
+Fl,Bna,Bwi,Y,0,738 73W
+Dl,Las,Msp,-1,0,757 M90 738 739
+Ab,Txl,Otp,-1,0,320 73G
+Lo,Gdn,Waw,-1,0,Dh4
+6E,Maa,Del,-1,0,320
+Dl,Ord,Cdg,-1,0,332
+U2,Sxf,Lis,-1,0,319
+Dv,Sco,Ura,-1,0,An4
+Aa,Rno,Lax,Y,0,Crj
+Un,Lhr,Lax,Y,0,346
+Ua,Tpa,Pbi,Y,0,Sf3
+Ws,Yxu,Yyc,-1,0,73W
+Us,Yhz,Dca,Y,0,Crj
+9R,Pcr,Bog,-1,0,E70
+Sg,Maa,Amd,-1,0,737
+Ak,Kbr,Jhb,-1,0,320
+A3,Skg,Rho,-1,0,320
+Lh,Haj,Fra,-1,0,735 319 733 32A
+Zl,Mql,Syd,-1,0,Sf3
+Ww,Kef,Sxf,-1,0,320
+5J,Dxb,Mnl,-1,0,330
+G3,Bsb,Pvh,-1,0,738
+Yc,Tjm,Evn,-1,0,320
+Jj,Aju,Sdu,-1,0,319
+Zh,Hld,Het,-1,0,320
+Ib,Lhr,Yyz,Y,0,788 744
+Zh,Ctu,Cih,Y,0,319
+U2,Gva,Mad,-1,0,319 320
+Ca,Pek,Hgh,-1,0,321 330 320 738
+W3,Fna,Los,-1,0,73G
+Xq,Adb,Muc,-1,0,738
+As,Pvr,San,-1,0,73J
+9C,Hkg,Pvg,-1,0,320
+Fb,Lca,Sof,-1,0,E90
+U2,Nce,Edi,-1,0,319
+Fl,San,Phx,Y,0,73W
+U2,Lgw,Ayt,-1,0,320 319
+De,Ibz,Muc,-1,0,32S
+Ib,Bcn,Ovd,Y,0,320
+Py,Geo,Mia,-1,0,733
+Ro,Vie,Ias,Y,0,Dh4
+Sa,Plz,Dur,Y,0,Cr2
+Az,Gdl,Atl,Y,0,320
+Ca,Tsn,Xiy,-1,0,738
+De,Las,Fra,-1,0,767
+Qr,Hkt,Bkk,Y,0,320
+Nh,Sdj,Nrt,-1,0,737 735
+Mf,Hgh,Ctu,-1,0,737
+Lh,Bsl,Fra,-1,0,Cr7
+Aa,Phl,Elm,-1,0,Dh3
+Jt,Mdc,Upg,-1,0,739
+Mu,Szx,Tyn,-1,0,737
+Mu,Xiy,Wnz,-1,0,737 320
+Fr,Wro,Dub,-1,0,738
+Ib,Haj,Bcn,Y,0,320
+Cx,Tpe,Fuk,-1,0,772 773
+Ab,Her,Lej,-1,0,738
+S7,Yks,Dme,Y,0,738
+Ib,Flr,Mad,Y,0,320
+Dl,Dtw,Btv,Y,0,Crj
+Ga,Lop,Koe,-1,0,Crk
+Wn,Phx,Rno,-1,0,73W 73H
+Vx,Lax,Sjc,-1,0,320
+Fr,Fmm,Agp,-1,0,738
+Tg,Arn,Man,Y,0,736
+Ac,Yyz,Yyt,-1,0,320 E90 319
+Mf,Foc,Kmg,-1,0,737
+S3,Ccs,Pty,-1,0,757
+Pk,Shj,Lhe,-1,0,73H 310
+To,Dlm,Lgw,-1,0,75W 73H
+B6,Orh,Mco,-1,0,E90
+Dl,Rob,Acc,-1,0,76W
+Pn,Can,Ckg,-1,0,320
+Ms,Cai,Jub,-1,0,320
+La,Pem,Lim,Y,0,319
+Os,Vie,Ods,Y,0,E90
+Vn,Han,Rep,-1,0,321
+Ua,Den,Mem,Y,0,Crj Erj
+Ba,Fco,Lgw,-1,0,734 320 319
+Qh,Ist,Oss,-1,0,319
+Kq,Nbo,Nsi,-1,0,E90 738
+Cz,Lzh,Can,-1,0,320 319
+Zh,Pek,Wua,Y,0,737
+De,Man,Fue,-1,0,757
+Lh,Bru,Oua,Y,0,333
+Dl,Bda,Bos,-1,0,738
+Y8,Bra,Bsb,-1,0,Em2
+Af,Lax,Cdg,-1,0,388 772
+Jt,Lop,Dps,Y,0,Atr
+Ge,Mzg,Tsa,-1,0,At7
+Ke,Nkg,Pus,-1,0,73H
+Ir,Syz,Bnd,-1,0,320 100
+Q6,Bvi,Wnr,-1,0,Dh1
+Us,Jfk,Zrh,-1,0,763
+Us,Pek,Ord,-1,0,777
+Et,Add,Acc,-1,0,738
+Ls,Mah,Ncl,-1,0,733
+Am,Pos,Pty,-1,0,73G E90
+Ts,Hog,Yul,-1,0,330
+Mh,Lhr,Kul,-1,0,380
+S2,Ixs,Ccu,Y,0,At7
+Bj,Nte,Lys,-1,0,320
+Or,Puj,Ams,-1,0,763
+Dy,Cph,Prg,-1,0,73H
+Fr,Fao,Noc,-1,0,738
+B6,Jfk,Btv,-1,0,E90
+6E,Sxr,Bom,-1,0,320
+Af,Atl,Avp,Y,0,Cr7
+H2,Bba,Pmc,-1,0,319 320
+Qz,Dps,Jog,-1,0,320
+Ci,Pvg,Khh,-1,0,738 333
+W6,Sof,Crl,-1,0,320
+Yc,Dme,Sly,-1,0,735 320
+Fr,Krk,Edi,-1,0,738
+A5,Mpl,Nte,-1,0,E70 Crk Er4
+Ba,Bey,Lhr,-1,0,321
+To,Fnc,Bhx,-1,0,75W
+Oa,Lxs,Ath,Y,0,Dh4
+Dn,Nkc,Dkr,-1,0,Crj
+Et,Add,Nim,-1,0,752
+Dl,Mco,Mci,Y,0,E75
+As,Brw,Scc,-1,0,73Q
+Zh,Pek,Xil,Y,0,737
+Ua,Bru,Ord,-1,0,777
+De,Hrg,Fra,-1,0,757
+Kl,Ams,Lba,Y,0,F70 Emj
+As,Wrg,Psg,-1,0,73Q
+Ac,Ytz,Yul,Y,0,Dh4
+Ua,Yap,Gum,-1,0,73G 738
+Sa,Tnr,Jnb,Y,0,Ar8
+P6,Ywk,Ybg,-1,0,At4
+3L,Fdh,Zad,-1,0,At7
+Kl,Ssg,Dla,Y,0,777
+Sc,Zuh,Kwe,-1,0,738
+Aa,Ktn,Jnu,Y,0,734
+J5,Jnu,Pec,-1,0,Dhp
+Nk,Fll,Acy,-1,0,320 319
+G4,Dsm,Las,-1,0,M80
+Zh,Nkg,Csx,-1,0,738
+Qf,Bne,Per,-1,0,332 333 763 73H
+Ua,Ewr,Gcm,-1,0,739
+Lh,Fra,Alg,-1,0,319
+Am,Cvg,Atl,Y,0,738
+Ua,Bhm,Den,Y,0,Erj
+Ep,Thr,Mhd,-1,0,100
+Wn,Jax,Den,-1,0,73W
+Dl,Atl,Xna,-1,0,717
+9W,Doh,Cok,-1,0,73H
+Un,Fco,Vko,-1,0,738 763
+S7,Nsk,Dme,Y,0,738
+Ib,Fco,Mad,-1,0,321 319
+Ib,Bos,Mad,-1,0,333
+S7,Ath,Dme,-1,0,320
+Aa,Vce,Lhr,Y,0,320 319
+Pk,Mxp,Cdg,-1,0,777
+Dl,Tpa,Ind,Y,0,E75
+Dl,Dtw,Alb,Y,0,Crj Cr9
+Ey,Lhe,Auh,-1,0,77W 320 346 332 345
+Cm,Pty,Mar,-1,0,73G
+Sk,Cph,Ath,-1,0,321
+4U,Txl,Aoi,-1,0,Crj
+Fz,Lko,Dxb,-1,0,73H
+Tg,Hnd,Bkk,-1,0,744
+Us,Dca,Tlh,Y,0,Crj
+Su,Krr,Aer,-1,0,319
+Md,Tmm,Tnr,-1,0,Dht At5 At7
+To,Lba,Pmi,-1,0,73H
+Wy,Mct,Cgp,-1,0,738
+Hv,Ams,Saw,-1,0,73H 73W
+Ss,Mru,Ory,-1,0,744
+Ux,Ssa,Scl,-1,0,332
+Dl,Tpa,Cmh,Y,0,E75
+Ke,Cgo,Icn,-1,0,73J 73H
+Lh,Fra,Dub,-1,0,321
+Br,Tpe,Mnl,-1,0,74E 321 332
+Nz,Akl,Nan,-1,0,320 763 772 773
+Bt,Rix,Fco,-1,0,73C
+Sh,Bwt,Kns,-1,0,Swm
+As,Sea,Mco,-1,0,73H 73J
+M3,Aal,Osl,-1,0,Swm
+Kl,Ath,Ams,-1,0,737
+Dl,Msp,Bmi,Y,0,Crj
+Pk,Shj,Dea,-1,0,737
+Ts,Mco,Yhz,-1,0,310
+Ky,Ctu,Kmg,-1,0,73G
+At,Cmn,Zrh,-1,0,738 73G
+Ai,Ixe,Bom,-1,0,321
+3U,She,Ctu,-1,0,330
+Aa,Clt,Tlh,Y,0,Crj Cr7
+Az,Mad,Vgo,Y,0,E90
+Sz,Kja,Dyu,-1,0,737
+Un,Bkk,Svx,-1,0,763
+Gs,Hak,Lzo,-1,0,E90
+Ns,Ctu,Sjw,-1,0,73G
+Fi,Bll,Kef,-1,0,75W
+Az,Dus,Ams,Y,0,F70
+As,Slc,Cvg,Y,0,73H
+9W,Bom,Auh,-1,0,73H 320
+Cz,Szx,Csx,-1,0,320 752
+Ix,Ixe,Doh,-1,0,738
+Ai,Pnq,Del,-1,0,320 321
+Mf,Wus,Pek,-1,0,737
+To,Ory,Nap,-1,0,73H
+Ba,Dub,Jfk,Y,0,757
+3H,Yzv,Ykl,-1,0,Bet Dh8
+Mj,Trz,Cmb,Y,0,320
+Ca,Ljg,Hgh,-1,0,319
+Pk,Pew,Jed,-1,0,777
+Hg,Arn,Vie,-1,0,E90
+Ua,Hnl,Ewr,-1,0,764
+Hf,Cky,Abj,-1,0,E70
+Us,Sfo,Mia,-1,0,757 763 738
+Aa,Pvd,Clt,-1,0,320 321 319
+Ac,Bwi,Yyz,Y,0,Dh1
+Pk,Isb,Gil,-1,0,Atr
+Iy,Add,Sah,-1,0,310 330
+Aa,Dfw,Bmi,Y,0,Er4
+Jt,Mkw,Fkq,Y,0,Atr
+Vt,Auq,Nhv,-1,0,Atr Dht
+Ua,Cae,Iah,Y,0,Erj
+Aa,Dfw,Gsp,Y,0,Er4
+Wn,Mci,Hou,-1,0,73W
+Ua,Ewr,Dtw,Y,0,Erj E70
+Sq,Sin,Cmb,-1,0,333
+7P,Otd,Sic,-1,0,Dht
+K5,Mem,Hro,-1,0,Cnc
+Gs,Hak,Csx,-1,0,E90
+3U,Icn,Ctu,-1,0,321
+Us,Mia,Mhh,-1,0,Erd
+Dy,Agp,Aal,-1,0,73H
+Us,Roc,Dca,Y,0,Crj E70
+Tom,Hrg,Lgw,-1,0,73H
+Hv,Ein,Alc,-1,0,73W 73H
+Dt,Cab,Sza,-1,0,73G
+Lg,Lux,Fra,-1,0,Er4 Dh4
+8L,Wuh,Kmg,-1,0,738 737 320
+Ab,Dus,Vce,-1,0,738 320 321
+Y4,Tij,Cen,-1,0,320
+Fr,Lde,Stn,-1,0,738
+Y7,Hta,Uud,-1,0,At5
+Af,Ppt,Lax,-1,0,772
+Us,Lir,Mia,-1,0,738
+Pr,Sgn,Mnl,-1,0,321
+Ua,Den,Pir,Y,0,Be1
+Us,Clt,Avl,Y,0,Dh3 Cr9 Cr7 Crj Dh8
+K5,Oth,Pdx,-1,0,Cnc
+Gv,Ena,Anc,-1,0,Bec
+Ba,Icn,Lhr,-1,0,777
+Jj,Bsb,Slz,-1,0,320 319
+Us,Dsm,Dfw,-1,0,M80 Er4 M83
+To,Pmi,Ncl,-1,0,73H
+Aa,Gsp,Clt,-1,0,Dh3 Dh8
+Ws,Yul,Ord,Y,0,Crj
+Ac,Yyd,Yvr,Y,0,Dh3
+4U,Dus,Spu,-1,0,319
+Fi,Kef,Ewr,-1,0,75W
+Q9,Yqb,Yzv,-1,0,Beh
+Fr,Alc,Ktw,-1,0,738
+T3,Abz,Ncl,-1,0,Er4 J41 S20
+Aa,Sce,Phl,-1,0,Dh3
+Cz,Sha,Jjn,Y,0,737
+Lg,Her,Lux,-1,0,73H
+9Q,Pls,Gdt,-1,0,Cnt
+Fr,Scq,Lpa,-1,0,738
+Fr,Bll,Zad,-1,0,738
+Jq,Bne,Syd,-1,0,320 321
+Aa,Saf,Lax,Y,0,Crj
+Bt,Arn,Rix,-1,0,733 Dh4 735 73C
+Fm,Xiy,Dsn,-1,0,737
+Y4,Ver,Cun,-1,0,320
+Dy,Osl,Cph,-1,0,73H 733
+B6,Lgb,Smf,-1,0,320
+Cx,Akl,Hkg,-1,0,343
+My,Cuk,Bze,-1,0,Cnc
+T7,Etz,Mrs,-1,0,Beh
+Ca,Tsn,Dlc,-1,0,738
+La,Clo,Adz,Y,0,320
+Et,Hkg,Add,-1,0,763 788
+Oz,Ord,Icn,-1,0,772
+As,Atl,Pbi,Y,0,757 M88 M90
+Ga,Tpe,Sin,Y,0,333
+Us,Ict,Ord,Y,0,Crj
+G5,Ckg,Hdg,-1,0,Cr9
+Ke,Atl,Jfk,-1,0,74N
+Bh,Yvr,Ypr,-1,0,Dh1
+Ws,Yeg,Ywg,-1,0,73W
+Tg,Mel,Bkk,-1,0,773 777
+Pc,Saw,Bey,-1,0,738
+Us,Sdf,Phl,Y,0,Cr9 Crj
+Hu,Ckg,Syx,-1,0,738
+Fr,Man,Gro,-1,0,738
+Wy,Ika,Mct,-1,0,E75
+Us,Okc,Dfw,-1,0,M80 M83
+Zl,Mgb,Adl,-1,0,Sf3
+Tf,Vby,Bma,Y,0,At7 Ar1
+Qr,Kul,Hkt,-1,0,332
+Vy,Bio,Txl,-1,0,320
+Hu,Pek,Kmg,-1,0,738
+To,Lgw,Kgs,-1,0,75W 73H
+Dl,Rdu,Bdl,Y,0,Crj
+W6,Ein,Otp,-1,0,320
+Ay,Vaa,Hel,-1,0,319 32B
+Ca,Pek,Zyi,-1,0,738
+Ar,Aep,Tuc,-1,0,737
+Bj,Lys,Tun,-1,0,320
+Bu,Fki,Gom,-1,0,320
+Dv,Ala,Akx,-1,0,735
+Bm,Bhx,Got,-1,0,Er4
+Af,Mla,Tls,-1,0,320 319
+4U,Vrn,Txl,-1,0,319
+Dl,Atl,Bmi,Y,0,Cr9 Cr7
+U2,Cdg,Rak,-1,0,320 319
+W6,Clj,Mad,-1,0,320
+Ah,Bko,Alg,-1,0,738
+P0,Lvi,Lun,-1,0,J41 732
+Af,Nte,Bia,Y,0,320
+6E,Pat,Del,-1,0,320
+Fr,Stn,Tgd,-1,0,738
+Tk,Esb,Erz,Y,0,738
+Rl,Ebl,Amm,-1,0,320
+4O,Sjo,Mex,-1,0,320
+Af,Bio,Cdg,-1,0,E70 E90
+Ur,Urj,Tjm,-1,0,At7
+Fz,Dwc,Ufa,-1,0,73H
+Ai,Hyd,Mct,-1,0,319
+Cz,Icn,Cgo,-1,0,73J 73H 738
+Bk,She,Tao,-1,0,738
+Ay,Hel,Muc,-1,0,319 320
+Pr,Mnl,Pus,-1,0,320
+Kc,Ala,Kuf,-1,0,E90
+Wu,Ktw,Iev,-1,0,320
+Dy,Rix,Cph,-1,0,73H
+Ke,Icn,Las,-1,0,772
+Ls,Fco,Ncl,-1,0,73C
+5T,Yzf,Yyh,-1,0,Dh8
+Cm,Pty,Clo,-1,0,E90 73G
+Ab,Fco,Txl,-1,0,320 738 73G
+Zh,Cgq,Inc,Y,0,737
+Vy,Vlc,Bru,-1,0,320
+Wn,Mdw,Abq,-1,0,73W
+To,Lpa,Bhx,-1,0,75W
+S7,Kej,Dme,-1,0,319
+Cz,Ngb,Hrb,-1,0,320
+At,Nim,Oua,-1,0,738
+4U,Fra,Hdf,-1,0,Crj
+Fl,Cak,Tpa,-1,0,717
+Fr,Lis,Opo,-1,0,738
+9W,Maa,Trz,Y,0,At7
+Vy,Mad,Ibz,-1,0,320
+Jl,Nrt,Ror,-1,0,767
+Hu,Ckg,Wnz,-1,0,738
+Ux,Bio,Mad,-1,0,E90
+Tk,Zag,Ist,-1,0,739 319 320 738
+U2,Nce,Brs,-1,0,319 320
+Us,Czm,Mia,-1,0,738
+Fr,Mmx,Agp,-1,0,738
+Ux,Bcn,Pmi,-1,0,738 E90
+Bu,Gom,Bky,-1,0,F50
+Ep,Awz,Pgu,-1,0,100
+Ad,Imp,Bel,-1,0,E95
+W6,Bud,Fco,-1,0,320
+La,Mad,Lim,Y,0,763 346 343
+Ib,Lgw,Flr,-1,0,320
+Zh,Ctu,Kmg,-1,0,319
+Aa,Lax,Rno,Y,0,Crj
+Us,Ric,Clt,-1,0,319 Crj
+Et,Add,Lun,-1,0,788
+Gl,Goh,Jfr,-1,0,Dh8
+Et,Lun,Blz,-1,0,Dh8
+3M,Atl,Mei,-1,0,Sf3
+2Z,Gig,Rao,-1,0,At7
+9W,Ccu,Gau,Y,0,At7 738
+Am,Mex,Lax,-1,0,737
+G3,Gru,Gyn,-1,0,738 73G
+Fr,Crl,Trn,-1,0,738
+Pc,Gzp,Saw,-1,0,738
+Am,Mtt,Mex,Y,0,Emj Erj E75
+Us,Yul,Dtw,-1,0,330
+F2,Wil,Lau,-1,0,Dh8
+Wn,Mdw,Pdx,-1,0,73W 73H
+Oa,Axd,Ath,Y,0,320 Dh4 321
+As,Anc,Bet,-1,0,73Q 734
+Os,Vie,Lpa,Y,0,320
+4U,Str,Fco,-1,0,319
+Mh,Kch,Mkm,Y,0,Dht
+Ay,Dus,Cph,Y,0,319 320 Dh4 738
+Nh,Pvg,Nrt,-1,0,777 788 763
+Fr,Stn,Brq,-1,0,738
+Cu,Cmw,Yyz,-1,0,320
+Qr,Ord,Doh,-1,0,77W
+Pk,Dmm,Lhe,-1,0,310
+7H,Cyf,Bet,Y,0,Cna
+Lh,Fra,Osl,-1,0,319 32A 320
+Hu,Can,Kwe,-1,0,738
+Cz,She,Het,-1,0,319
+Wn,Sat,Bwi,-1,0,73W 73H
+Mu,Sha,Txn,Y,0,737
+Az,Vlc,Fco,-1,0,32S
+Dl,Iad,Atl,-1,0,320 M88 319
+3L,Zrh,Eba,-1,0,Dh3
+Ca,Hel,Arn,-1,0,717 73W At7
+Fm,Fug,Sha,-1,0,737
+Wn,Rno,Den,-1,0,73W 73H
+Sc,Tna,Wus,-1,0,738
+X3,Nue,Zqw,-1,0,73H
+Mu,Tyn,Tao,-1,0,737
+Ak,Kul,Cok,-1,0,320
+As,Anc,Ome,-1,0,73Q 734
+Am,Atl,Xna,Y,0,Cr7 Cr9
+As,Iah,Sea,-1,0,73J
+Zh,Pek,Kwe,Y,0,737 320
+6E,Blr,Nag,-1,0,320
+Ah,Ory,Alg,-1,0,736 330 738
+Aa,Dca,Pns,Y,0,Crj
+V7,Goa,Cta,-1,0,717
+X3,Her,Muc,-1,0,73H
+Sa,Kgl,Jnb,-1,0,73W
+Ca,Hgh,Tao,-1,0,319 320
+9C,Sjw,Kmg,-1,0,320
+Ca,Pek,Ybp,-1,0,737
+Sk,Hel,Fra,Y,0,321 32A 320
+4U,Ham,Spu,-1,0,319
+U2,Lgw,Jer,-1,0,319
+Am,Stl,Atl,Y,0,717 M90 M88
+Y7,Kja,Ikt,-1,0,At5
+9W,Kul,Maa,Y,0,738
+Ua,Dca,Sfo,-1,0,738 73G
+5G,Kms,Acc,-1,0,At7
+Zh,Ctu,Urc,Y,0,320
+Va,Adl,Bne,Y,0,E90 73H 73W
+Cm,Mty,Pty,-1,0,E90
+Tz,Hkg,Sin,-1,0,772
+Ua,Fco,Iad,-1,0,763
+Vb,Sjd,Gdl,-1,0,733
+Ua,Gva,Ewr,-1,0,763
+Us,Nas,Mia,-1,0,Er4 Erd
+Cx,Atl,Ord,Y,0,E75
+Il,Luv,Amq,-1,0,At4
+Ur,Kzn,Ufa,-1,0,At7
+Dl,Lga,Atl,-1,0,M88 757 320 738 739 73W
+G4,Sfb,Lex,-1,0,M80 320
+Dy,Bud,Hel,-1,0,73H
+Cz,Pek,Ngb,-1,0,320 321
+Fm,Hgh,Can,-1,0,738
+Mh,Sin,Iph,Y,0,At7
+Vr,Rai,Sid,-1,0,At7 738 752
+Fr,Lpl,Krk,-1,0,738
+Af,Vce,Mrs,-1,0,320 319
+Su,Aer,Tas,-1,0,319
+Jl,Oka,Itm,-1,0,773
+Aa,Day,Lga,Y,0,Erd
+Fl,Isp,Bwi,Y,0,73W
+Sk,Cph,Vno,-1,0,Cr9
+Ek,Dxb,Dub,-1,0,77W
+2K,Occ,Uio,-1,0,319
+W6,Bud,Bcn,-1,0,320
+Ua,Ewr,Lax,-1,0,739 738 319 752 753
+Aa,Ilm,Phl,Y,0,Crj E75
+Zb,Fao,Bhx,-1,0,321
+Ah,Alg,Cdg,-1,0,330 736 738
+G9,Nbo,Shj,-1,0,320
+Ws,Yeg,Yxe,-1,0,Dh4
+Ig,Blq,Cag,-1,0,M80
+Pb,Ywk,Ykl,-1,0,Sfb
+G9,Shj,Ktm,-1,0,320
+Kl,Sea,Hnl,Y,0,753
+H2,Scl,Lsc,-1,0,319 320
+Ca,Yih,Pek,-1,0,738
+Km,Mla,Fra,-1,0,319 320
+Fr,Fez,Bgy,-1,0,738
+Us,Cnf,Mia,-1,0,763
+Fr,Tmp,Bud,-1,0,738
+Rj,Zrh,Vie,-1,0,321 E90
+Mu,Ynj,Tao,-1,0,320
+Eq,Cue,Uio,-1,0,E90
+Ib,Ace,Mad,Y,0,32S
+Fl,Msy,Mke,Y,0,73W
+Wn,Ecp,Hou,-1,0,73W 733 73C
+Bk,Tsn,Dlc,-1,0,738
+Ek,Mel,Akl,-1,0,388
+A5,Nce,Cfr,-1,0,Cr7
+U2,Tfs,Bsl,-1,0,320
+Sg,Maa,Tcr,-1,0,Dh8
+Ay,Bkk,Hel,-1,0,343
+S7,Var,Dme,-1,0,320 763
+Y4,Mdw,Mlm,-1,0,319
+Ac,Yyc,Yqf,-1,0,Beh
+Us,Cmh,Phl,Y,0,E70 Crj E75
+To,Man,Mah,-1,0,73H
+U2,Pmi,Sxf,-1,0,319 320
+Jj,Cgb,Gru,-1,0,320
+Nh,Ubj,Hnd,-1,0,767
+Pr,Mnl,Dvo,-1,0,320
+Ca,Wuh,Ctu,-1,0,320
+Sg,Trv,Maa,-1,0,Dh8
+Ho,Pvg,Cnx,-1,0,320
+Af,Atl,Cha,Y,0,Crj M88
+As,Lih,Sjc,-1,0,73H
+5J,Pag,Mnl,-1,0,319 320
+Mi,Sin,Cok,-1,0,320 738 319
+Nk,Myr,Lga,-1,0,320
+Ba,Auh,Lhr,-1,0,777
+Kl,Ams,Pdx,Y,0,330
+Bp,Mub,Jnb,-1,0,At5 At7
+Ga,Upg,Sub,-1,0,Crk
+Ua,Sju,Iad,-1,0,739 738
+To,Cun,Lgw,-1,0,788
+Ab,Txl,Cta,-1,0,321 320 738
+Ua,Fll,Ewr,-1,0,739 320 738 73G 319
+U6,Svx,Tlv,-1,0,320
+Cz,Rep,Can,-1,0,320
+Jl,Hnd,Ngs,-1,0,73H
+Y4,Tij,Tgz,-1,0,319
+As,Mci,Sea,-1,0,73J
+Vj,Han,Bmv,-1,0,320
+Hu,Pvg,Ord,Y,0,777
+Ab,Dus,Ham,-1,0,320 319 Dh4 738
+Sb,Nou,Wls,-1,0,320
+Az,Cdg,Evn,-1,0,320
+Ts,Man,Yyz,-1,0,330 310
+Tk,Naj,Kvd,-1,0,319
+As,Lax,Lto,Y,0,Dh4
+Cz,Urc,Kca,-1,0,E90
+9C,Hgh,Szx,-1,0,320
+Ca,Cif,Pek,-1,0,738
+Gf,Khi,Bah,-1,0,320 321 332
+Fr,Ath,Pfo,-1,0,738
+Ho,Pvg,Mfm,-1,0,320
+Su,Sxf,Led,-1,0,319
+Cx,Jnb,Hkg,-1,0,744
+Dl,Ord,Yvr,Y,0,73W
+Pk,Cjl,Pew,-1,0,Atr
+Yk,Led,Oss,-1,0,737
+Su,Pee,Led,-1,0,319 A81
+Pk,Isb,Med,-1,0,310
+W6,Clj,Dtm,-1,0,320
+Ba,Lhr,Phl,-1,0,777 767
+Dy,Krp,Cph,-1,0,At7
+Ou,Zag,Ams,-1,0,319 320
+Ah,Lys,Alg,-1,0,736 738
+Cz,Szx,Kow,-1,0,320
+Sz,Dyu,Krr,-1,0,737
+Ux,Lim,Mad,-1,0,332
+Aa,Cid,Ord,Y,0,Er4
+Cz,Xiy,Tao,-1,0,320
+Gs,Xiy,Nng,-1,0,320 E90
+Ix,Ccj,Bah,-1,0,738
+Mu,Urc,Hmi,-1,0,320
+Cz,Inc,Urc,-1,0,738 73G
+Aa,Cmh,Phl,Y,0,E70 Crj E75
+W6,Dtm,Otp,-1,0,320
+Ms,Cai,Asm,-1,0,320
+Dy,Lpa,Osl,-1,0,73H
+Wn,San,Msy,-1,0,73W
+X3,Ayt,Fra,-1,0,73H
+Fr,Stn,Mmx,-1,0,738
+Tk,Add,Jub,Y,0,73W Dh8
+Az,Atl,Clt,Y,0,M88
+Un,Vko,Dwc,-1,0,777 763
+Kl,Ams,Uio,-1,0,777
+G4,Rfd,Pgd,-1,0,M80
+St,Drs,Ayt,-1,0,321
+Us,Clt,Ewr,-1,0,321 320 734 319
+Tp,Lis,Mxp,-1,0,320 319 100
+Af,Mob,Atl,Y,0,Cr7 717 Cr9 Crj
+Oa,Ath,Smi,Y,0,Dh4
+La,Scl,Bba,Y,0,320
+Dl,Dtw,Lit,Y,0,Cr7
+Mj,Dac,Cmb,-1,0,321 320
+Tcx,Man,Ayt,-1,0,321
+Ua,Rep,Icn,Y,0,321
+Dl,Lga,Rdu,-1,0,Cr7
+G8,Blr,Bom,-1,0,320
+Ca,Hld,Pek,-1,0,738 737
+G4,Far,Pie,-1,0,M80
+Vt,Rfp,Bob,-1,0,Atr
+Aa,Ind,Dfw,-1,0,M80 M83
+Gv,Dlg,Akn,-1,0,Bec
+Gs,She,Cif,-1,0,Erj
+W6,Bva,Clj,-1,0,320
+Ze,Gmp,Tsa,-1,0,738
+Aa,Clt,Phf,-1,0,Cr7
+De,Pmi,Ham,-1,0,757
+Af,Sou,Lrh,Y,0,Dh4
+Hu,Szx,Urc,-1,0,738
+Ge,Tsa,Knh,-1,0,At7
+La,Eze,Scl,-1,0,320 763 787 319
+U2,Lin,Fco,-1,0,319
+Ca,Can,Ckg,-1,0,738 737
+Vx,Pdx,Sfo,-1,0,320
+Ac,Yyz,Pls,-1,0,E90
+Aa,Roc,Ord,Y,0,Erd Er4
+Ts,Fll,Yul,Y,0,310
+Kr,Fru,Urc,-1,0,320
+Cz,Jiu,Can,-1,0,E90
+Ua,Mty,Ord,Y,0,Cr7
+Ha,Las,Hnl,-1,0,332
+Af,Atl,Atw,Y,0,Cr9
+Ei,Blk,Dub,Y,0,At4
+Qf,Glt,Rok,Y,0,Dh4 Dh3
+Ke,Icn,Can,-1,0,333
+Us,Mia,Rdu,-1,0,738
+Ws,Yvr,Yxt,-1,0,Dh4
+Mu,Xnn,Cgo,-1,0,320
+Ab,Fra,Rix,Y,0,735 Dh4 73C
+Zh,Szx,Sha,-1,0,738
+Ab,Dus,Muc,-1,0,320 738 319 321 Dh4
+Zh,Can,Hgh,Y,0,737 320
+Sn,Bcn,Bru,-1,0,320 319
+Qv,Vte,Kmg,-1,0,320
+Bv,Hav,Scu,-1,0,767
+X3,Bsl,Zqw,-1,0,73H
+Vy,Bcn,Iev,-1,0,320
+Et,Dla,Lfw,Y,0,73W Dh8
+G5,Shp,Sjw,-1,0,Cr9
+Cz,Szx,Pek,-1,0,333 321
+Wn,Atl,Okc,Y,0,717
+Zi,Ory,Alg,-1,0,320 319
+4U,Str,Fao,-1,0,319 320
+Wn,Hou,Bwi,-1,0,73W
+Am,Mex,Mzt,-1,0,Emj
+Mu,Cgo,Hgh,-1,0,320
+Mu,Shp,Pvg,Y,0,737
+Gs,Kwe,Xiy,-1,0,E90 321
+Tk,Esb,Gzt,Y,0,73W 738 73G
+Zi,Fao,Cdg,-1,0,319
+4G,Vko,Nym,-1,0,73G
+Cz,Hgh,Hak,-1,0,320
+Aa,Ord,Tvc,Y,0,Erd Er4
+G4,Pie,Dsm,-1,0,M80
+4U,Cgn,Ham,-1,0,319 Crj
+Aa,Dtw,Clt,-1,0,319 321
+W3,Ilr,Abv,-1,0,Cr9
+Cz,Ngb,Szx,-1,0,321 320 319
+Ua,Bjm,Nbo,Y,0,332
+A3,Rho,Cdg,-1,0,320
+3M,Mco,Fll,-1,0,Sf3
+Qs,Prg,Lpa,-1,0,738
+Ib,Ory,Svq,Y,0,320
+Fr,Psr,Gro,-1,0,738
+U2,Gva,Alc,-1,0,319 320
+Pi,Yks,Mqj,-1,0,An4
+8B,Ckg,Hkt,-1,0,763
+Dl,Cvg,Iah,Y,0,Cr9
+Tk,Saw,Tlv,-1,0,738
+Ua,Ord,Puj,-1,0,739 738
+Fr,Dub,Cia,-1,0,738
+B6,Jfk,Puj,-1,0,321 320
+Nh,Hij,Hnd,-1,0,787 772 767 320

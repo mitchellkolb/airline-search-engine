@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///airlines.csv' AS row
+CREATE (:Airline {airlineID: row.`airline ID`, name: row.name, iata: row.iata, icao: row.icao, country: row.country, active: row.active});
+
+LOAD CSV WITH HEADERS FROM 'file:///airports.csv' AS row
+CREATE (:Airport {airportID: row.`airport ID`, name: row.name, city: row.city, country: row.country, iata: row.iata, icao: row.icao, latitude: toFloat(row.latitude), longitude: toFloat(row.longitude), altitude: toInteger(row.altitude), timezone: row.timezone, dst: row.dst, type: row.type});
+
+LOAD CSV WITH HEADERS FROM 'file:///routes.csv' AS row
+CREATE (:Route {airline: row.airline, sourceAirport: row.`source airport`, destinationAirport: row.`destination airport`, codeshare: row.codeshare, stops: toInteger(row.stops), equipment: row.equipment});
+
+LOAD CSV WITH HEADERS FROM 'file:///countries.csv' AS row
+CREATE (:Country {name: row.name, iso_code: row.iso_code});
+
+LOAD CSV WITH HEADERS FROM 'file:///planes.csv' AS row
+CREATE (:Plane {name: row.name, iata: row.iata});
+
+MATCH (a:Airline), (r:Route)
+WHERE a.iata = r.airline
+CREATE (a)-[:OPERATES]->(r);
+
+MATCH (r:Route), (s:Airport)
+WHERE r.sourceAirport = s.iata
+CREATE (r)-[:DEPARTS_FROM]->(s);
+
+MATCH (r:Route), (d:Airport)
+WHERE r.destinationAirport = d.iata
+CREATE (r)-[:ARRIVES_AT]->(d);
+
+MATCH (s:Airport), (d:Airport)
+WHERE s <> d
+CREATE (s)-[:DISTANCE {distance: 1}]->(d);
+
