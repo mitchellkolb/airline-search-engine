@@ -24,6 +24,6 @@ This project is built on the openflights.org dataset, which includes comprehensi
 
 # Team
 
-- [Mitchell Kolb](https://github.com/Mitchell-kolb)
+- [Mitchell Kolb](https://github.com/mitchellkolb)
 - [Noah Waxman](https://github.com/noah-waxman)
 - Brian Joo
