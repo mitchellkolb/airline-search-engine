@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Airline Search Engine is a robust tool developed to streamline the process of navigating through the complex network of global airline data. This project, created as part of CPTS 415 - Big Data at Washington State University, utilizes a graph-based approach to handle vast amounts of airline, airport, and route information effectively. By leveraging technologies such as Neo4j, PySpark, and PySimpleGUI, this search engine offers users a powerful platform for exploring aviation data.
+The Airline Search Engine is a robust tool developed to streamline the process of navigating through the complex network of global airline data. This project utilizes a graph-based approach to handle vast amounts of airline, airport, and route information effectively. By leveraging technologies such as Neo4j, PySpark, and PySimpleGUI, this search engine offers users a powerful platform for exploring aviation data.
 
 The program provides functionalities such as searching for airports and airlines, listing code-sharing flights, and identifying active airlines within the United States. It also features advanced search options like trip recommendations with constraints on the number of stops and finding the shortest path between two cities.
 
@@ -27,3 +27,7 @@ This project is built on the openflights.org dataset, which includes comprehensi
 - [Mitchell Kolb](https://github.com/mitchellkolb)
 - [Noah Waxman](https://github.com/noah-waxman)
 - Brian Joo
+
+--- 
+# Acknowledgments
+This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS 415 - Big Data in the Fall of 2023. 
