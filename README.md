@@ -18,6 +18,16 @@ The program provides functionalities such as searching for airports and airlines
 ![top K ciites](resources/topKcities.png)
 
 
+<details>
+<summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
+
+[![Full Video Demo Here](https://img.youtube.com/vi/L8SBFNDYORU/0.jpg)](https://www.youtube.com/watch?v=L8SBFNDYORU)
+
+</details>
+
+---
+
+
 ## Architecture
 
 This project is built on the openflights.org dataset, which includes comprehensive details on airlines, airports, routes, and more. The system architecture uses a graph database model to represent the intricate relationships within the dataset, facilitating quick and intuitive data retrieval.
