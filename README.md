@@ -1,43 +1,132 @@
-# Airline Search Engine
 
-## Overview
+<h1 align="center">Airline Search Engine</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/airline-search-engine?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/airline-search-engine?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/airline-search-engine?color=56BEB8">
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/airline-search-engine?color=56BEB8" />
+</p>
+
+<p align="center">
+<img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
+    alt="Website Badge" />
+</p>
 
 The Airline Search Engine is a robust tool developed to streamline the process of navigating through the complex network of global airline data. This project utilizes a graph-based approach to handle vast amounts of airline, airport, and route information effectively. By leveraging technologies such as Neo4j, PySpark, and PySimpleGUI, this search engine offers users a powerful platform for exploring aviation data.
 
-The program provides functionalities such as searching for airports and airlines, listing code-sharing flights, and identifying active airlines within the United States. It also features advanced search options like trip recommendations with constraints on the number of stops and finding the shortest path between two cities.
-
-### Key Features
-
-- **Advanced Search Capabilities:** Users can search for specific airlines, airports, and routes, and also discover trips between two cities with the fewest stops or within a certain number of hops from a starting city.
-- **Graph Database Utilization:** Utilizing Neo4j, the project benefits from a graph database structure to efficiently query and visualize complex relationships between different aviation entities.
-- **Interactive User Interface:** The GUI, built with PySimpleGUI, provides a user-friendly environment that simplifies interaction with the search engine.
-- **Data-Driven Insights:** From identifying the city with the highest number of airports to analyzing trip paths, the engine is equipped to provide valuable insights into the aviation industry.
-
-![main](resources/mainUI.png)
-
-![top K ciites](resources/topKcities.png)
-
+![project image](resources/airline-gif.gif)
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
-[![Full Video Demo Here](https://img.youtube.com/vi/L8SBFNDYORU/0.jpg)](https://www.youtube.com/watch?v=L8SBFNDYORU)
+[![Full Video Demo Here](https://img.youtube.com/vi/pwpE3nvtbv4/0.jpg)](https://www.youtube.com/watch?v=pwpE3nvtbv4)
 
 </details>
 
 ---
 
 
-## Architecture
+# Table of Contents
+- [What I Learned](#what-i-learned-in-this-project)
+- [Tools Used / Development Environment](#tools-used--development-environment)
+- [Team / Contributors / Teachers](#team--contributors--teachers)
+- [How to Set Up](#how-to-set-up)
+- [Project Overview](#project-overview)
+- [References](#references)
+- [Acknowledgments](#acknowledgments)
 
-This project is built on the openflights.org dataset, which includes comprehensive details on airlines, airports, routes, and more. The system architecture uses a graph database model to represent the intricate relationships within the dataset, facilitating quick and intuitive data retrieval.
+---
 
-# Team
+# What I Learned in this Project
+- How to
+- Programming in 
 
+
+
+# Tools Used / Development Environment
+- Python
+- VS Code
+- Terminal
+- Windows 10
+
+
+
+
+
+# Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [Noah Waxman](https://github.com/noah-waxman)
-- Brian Joo
+- [name]()
+- Professor. 
+
+
+
+
+
+# How to Set Up
+This project was implemented on our local machine inside of a virtual machine using:
+- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+- Clone this repository 
+- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+
+
+
+
+
+# Project Overview
+This project utilizes 
+
+
+
+## Project Details
+
+### Introduction
+In this project, we apply 
+
+
+### Literature Review
+In this we drew inspiration from various sources, including video tutorials online for 
+
+
+### Technical Plan
+The project employs a 
+
+
+### Implementation Details
+
+#### Files and Structure
+- `game.py`: Contains the racing game environment and controls the car's movement.
+> [!NOTE]
+> These files were 
+
+
+### Implementation
+In this project
+
+#### Results and Observations
+During development,
+<p float="left">
+  <img src="resources/image1.png" alt="First Try" width="300" />
+  <img src="resources/image2.png" alt="Final Try" width="307" />
+</p>
+
+#### Future Work
+Future improvements could include
+
+
+
+## References
+
+
 
 --- 
 # Acknowledgments
-This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS 415 - Big Data in the Fall of 2023. 
+This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS XXX - XXX in the Spring of 2022. 
+
