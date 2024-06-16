@@ -102,6 +102,10 @@ The "Airline Search Engine" project addresses the complexities of global air tra
 
 This search engine aims to optimize operations for travelers, airlines, and airports, enhancing travel experiences by providing quick and reliable information. Neo4j’s graph database effectively models the complex relationships in the dataset, while PySpark handles large-scale data processing. This combination allows the project to scale if we had to handle more load, providing accurate and timely information to users.
 
+We used PySimpleGUI for our user interface and it allows us to have the user log in into the graph database and then query the system. Below is some screenshots of that process.
+![GUI-login](resources/mainUI.png)
+![GUI-query](resources/topKcities.png)
+
 ## Project Architecture
 The architecture of the "Airline Search Engine" project is centered around the openflights.org dataset and the Neo4j graph database. The dataset includes five comma-separated value (CSV) files that contain detailed information about airlines, airports, routes, planes, and countries. Neo4j's graph database model is the system we used for this project because it can efficiently model the complex relationships between these entities.
 
@@ -116,7 +120,8 @@ The project repository is organized into several key files and directories. The 
 4. <u>planes.csv</u> - Contains data about planes, including their names and IATA codes.
 5. <u>countries.csv</u> - Provides information about countries, including their names and ISO codes .
 
-The Neo4j database schema is implemented using Cypher statements to create nodes and relationships from these CSV files. Each node (e.g., Airline, Airport, Route) and edge (e.g., OPERATES, DEPARTS_FROM, ARRIVES_AT) is defined to accurately represent the relationships within the dataset .
+The Neo4j database schema is implemented using Cypher statements to create nodes and relationships from these CSV files. Each node (e.g., Airline, Airport, Route) and edge (e.g., OPERATES, DEPARTS_FROM, ARRIVES_AT) is defined to accurately represent the relationships within the dataset. Below is a small image of how our dataset looks in the Neo4j visualization program with our relations. 
+![gragh picture](resources/route_airport_graph.PNG)
 
 ## Future Work
 Future improvements could include making the search engine more like an actual search engine where users can actually enter in their own queries and the program can have related answers.
