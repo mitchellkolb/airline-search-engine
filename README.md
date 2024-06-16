@@ -2,13 +2,13 @@
 <h1 align="center">Airline Search Engine</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/airline-search-engine?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/airline-search-engine?color=E25A1C">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/airline-search-engine?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/airline-search-engine?color=E25A1C">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/airline-search-engine?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/airline-search-engine?color=E25A1C">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/airline-search-engine?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/airline-search-engine?color=E25A1C" />
 </p>
 
 <p align="center">
@@ -16,11 +16,15 @@
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
     alt="Website Badge" />
 <img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
+    src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"
     alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"
+    alt="Website Badge" />
+
 </p>
 
-The Airline Search Engine is a robust tool developed to streamline the process of navigating through the complex network of global airline data. This project utilizes a graph-based approach to handle vast amounts of airline, airport, and route information effectively. By leveraging technologies such as Neo4j, PySpark, and PySimpleGUI, this search engine offers users a powerful platform for exploring aviation data.
+My team developed a program that can query, analyze, and display data from the OpenFlights.org Airline dataset. Our goal was to use effective MapReduce, SQL/SPARQL/PYSPARK, and/or graph algorithms. 
 
 ![project image](resources/airline-gif.gif)
 
@@ -40,7 +44,9 @@ The Airline Search Engine is a robust tool developed to streamline the process o
 - [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [References](#references)
+  - [Project Architecture](#project-architecture)
+  - [Files and Structure](#files-and-structure)
+  - [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -53,6 +59,8 @@ The Airline Search Engine is a robust tool developed to streamline the process o
 
 # Tools Used / Development Environment
 - Python
+- Pyspark
+- Neo4j 
 - VS Code
 - Terminal
 - Windows 10
@@ -63,70 +71,45 @@ The Airline Search Engine is a robust tool developed to streamline the process o
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- [Noah Waxman](https://github.com/noah-waxman)
+- Brain Joo
+- Professor. Srinivasulu (Srini) Badri
 
 
 
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on our local machine using:
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
-
+- Install [Python](https://www.python.org/downloads/)
+- Install [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
+- Setup Neo4j, create a new database, import `/Dataset csv's` into that database, import `/Schema/schema-neo4j.txt` to setup realtions for the dataset.
+- Open terminal at the codebase `~.../airline-search-engine/`
+- Install dependencies `pip install -r requirements.txt`
+- Run code with `python3 main.py` in the `/Codebase/` folder.
 
 
 
 
 # Project Overview
-This project utilizes 
 
 
-
-## Project Details
-
-### Introduction
-In this project, we apply 
+## Project Architecture
 
 
-### Literature Review
-In this we drew inspiration from various sources, including video tutorials online for 
+## Files and Structure
 
 
-### Technical Plan
-The project employs a 
-
-
-### Implementation Details
-
-#### Files and Structure
-- `game.py`: Contains the racing game environment and controls the car's movement.
-> [!NOTE]
-> These files were 
-
-
-### Implementation
-In this project
-
-#### Results and Observations
-During development,
-<p float="left">
-  <img src="resources/image1.png" alt="First Try" width="300" />
-  <img src="resources/image2.png" alt="Final Try" width="307" />
-</p>
-
-#### Future Work
+## Future Work
 Future improvements could include
 
 
 
-## References
 
 
 
 --- 
 # Acknowledgments
-This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS XXX - XXX in the Spring of 2022. 
+This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS 415 - Big Data in the Fall of 2023. 
 
