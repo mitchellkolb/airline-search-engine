@@ -90,9 +90,15 @@ This project was implemented on our local machine using:
 - Install [Python](https://www.python.org/downloads/)
 - Install [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
 - Setup Neo4j, create a new database, import `/Dataset csv's` into that database, import `/Schema/schema-neo4j.txt` to setup realtions for the dataset.
-- Open terminal at the codebase `~.../airline-search-engine/`
-- Install dependencies `pip install -r requirements.txt`
-- Run code with `python3 main.py` in the `/Codebase/` folder.
+- Open terminal at the codebase `~.../airline-search-engine/BMW_415_Source_Code/Codebase/`
+- Install dependencies 
+```zsh
+pip install -r requirements.txt
+```
+- Run code with 
+```zsh
+python3 main.py 
+```
 
 
 
